@@ -1,0 +1,1760 @@
+[
+  {
+    "Ranking": 1,
+    "CompanyName": "Tập đoàn Dầu khí Việt Nam",
+    "Earnings": [
+      14022838000,
+      36398012000,
+      36759619000,
+      30727643000
+    ],
+    "TotalProfit": 117908112000,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 2,
+    "CompanyName": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel)",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 3,
+    "CompanyName": "Tập đoàn Xăng dầu Việt Nam",
+    "Earnings": [
+      1072974053,
+      1199496609,
+      65874458,
+      545471387
+    ],
+    "TotalProfit": 2883816507,
+    "MarketCap": 45614.26
+  },
+  {
+    "Ranking": 4,
+    "CompanyName": "Tập đoàn Vingroup - CTCP",
+    "Earnings": [
+      -3403875079,
+      5294923259,
+      2024697497,
+      6978762638
+    ],
+    "TotalProfit": 10894508315,
+    "MarketCap": 303598.73
+  },
+  {
+    "Ranking": 5,
+    "CompanyName": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 6,
+    "CompanyName": "Liên doanh Việt - Nga Vietsovpetro",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 7,
+    "CompanyName": "Công ty Ô tô Toyota Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 8,
+    "CompanyName": "Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 9,
+    "CompanyName": "Công ty cổ phần tập đoàn Trường Hải",
+    "Earnings": [
+      7037887227,
+      4898217646,
+      6073542340,
+      4820192
+    ],
+    "TotalProfit": 18014467405,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 10,
+    "CompanyName": "Công ty TNHH Lọc hóa dầu Nghi Sơn",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 11,
+    "CompanyName": "Tổng Công ty Thuốc lá Việt Nam - Công ty TNHH MTV",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 12,
+    "CompanyName": "Công ty Cổ phần Tập đoàn Thành Công",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 13,
+    "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn",
+    "Earnings": [
+      997268619,
+      1248288726,
+      1119097179,
+      965458507
+    ],
+    "TotalProfit": 4330113031,
+    "MarketCap": 63615.09
+  },
+  {
+    "Ranking": 14,
+    "CompanyName": "Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 489642.56
+  },
+  {
+    "Ranking": 15,
+    "CompanyName": "CTCP Tập đoàn Hòa Phát",
+    "Earnings": [
+      3319263142,
+      3022946632,
+      2806801099,
+      3344284694
+    ],
+    "TotalProfit": 12493295567,
+    "MarketCap": 167581.76
+  },
+  {
+    "Ranking": 16,
+    "CompanyName": "Ngân hàng TMCP Kỹ thương Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 17,
+    "CompanyName": "Ngân hàng Thương mại cổ phần Quân đội",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 149505.68
+  },
+  {
+    "Ranking": 18,
+    "CompanyName": "CTCP FPT",
+    "Earnings": [
+      1798030864,
+      1873814751,
+      2088852212,
+      2086993221
+    ],
+    "TotalProfit": 7847691048,
+    "MarketCap": 183883.65
+  },
+  {
+    "Ranking": 19,
+    "CompanyName": "Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 258035.05
+  },
+  {
+    "Ranking": 20,
+    "CompanyName": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 211846.17
+  },
+  {
+    "Ranking": 21,
+    "CompanyName": "Ngân hàng TMCP Việt Nam Thịnh Vượng",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 149554.46
+  },
+  {
+    "Ranking": 22,
+    "CompanyName": "Công ty Đầu tư Tài chính Nhà nước T.P Hồ Chí Minh",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 23,
+    "CompanyName": "Tập đoàn Bưu chính Viễn thông Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 24,
+    "CompanyName": "CTCP Đầu tư dịch vụ tài chính Hoàng Huy",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 25,
+    "CompanyName": "Ngân hàng TMCP Á Châu",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 110996.45
+  },
+  {
+    "Ranking": 26,
+    "CompanyName": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 27,
+    "CompanyName": "CTCP Tập đoàn Masan",
+    "Earnings": [
+      502577000,
+      701071000,
+      691055000,
+      393500000
+    ],
+    "TotalProfit": 2288203000,
+    "MarketCap": 89753.14
+  },
+  {
+    "Ranking": 28,
+    "CompanyName": "Tổng Công ty Đông Bắc - BQP",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 29,
+    "CompanyName": "Công ty TNHH Samsung Electronics Việt Nam Thái Nguyên",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 30,
+    "CompanyName": "CTCP Sữa Việt Nam",
+    "Earnings": [
+      2194666966,
+      2670475017,
+      2403519105,
+      2123649268
+    ],
+    "TotalProfit": 9392310356,
+    "MarketCap": 117455.5
+  },
+  {
+    "Ranking": 31,
+    "CompanyName": "Tổng Công ty Khánh Việt",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 32,
+    "CompanyName": "Tổng công ty Cảng hàng không Việt Nam - CTCP",
+    "Earnings": [
+      3224965016,
+      2336198232,
+      3085003963,
+      3117266244
+    ],
+    "TotalProfit": 11763433455,
+    "MarketCap": 212688.06
+  },
+  {
+    "Ranking": 33,
+    "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội",
+    "Earnings": [
+      153848023,
+      124086519,
+      109496209,
+      32842644
+    ],
+    "TotalProfit": 420273395,
+    "MarketCap": 8379.57
+  },
+  {
+    "Ranking": 34,
+    "CompanyName": "Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 35,
+    "CompanyName": "Công ty THHH bia Carlsberg Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 36,
+    "CompanyName": "Tổng Công ty Thương mại Sài Gòn - TNHH MTV",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 38,
+    "CompanyName": "Tổng Công ty Hàng không Việt Nam - CTCP",
+    "Earnings": [
+      933820504,
+      767870690,
+      921280736,
+      3400942857
+    ],
+    "TotalProfit": 6023914787,
+    "MarketCap": 76175.16
+  },
+  {
+    "Ranking": 39,
+    "CompanyName": "Ngân hàng TMCP Quốc tế Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 54220.13
+  },
+  {
+    "Ranking": 40,
+    "CompanyName": "Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP",
+    "Earnings": [
+      13621628,
+      24753164,
+      -11472978,
+      19831634
+    ],
+    "TotalProfit": 46733448,
+    "MarketCap": 1466.8
+  },
+  {
+    "Ranking": 41,
+    "CompanyName": "Ngân hàng TMCP Sài Gòn Hà Nội",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 52848.26
+  },
+  {
+    "Ranking": 42,
+    "CompanyName": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 43,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT VÀ DỊCH VỤ TỔNG HỢP ĐỒNG NAI",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 44,
+    "CompanyName": "Tổng Công ty Cấp nước Sài Gòn",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 45,
+    "CompanyName": "Công ty Cổ phần Tập đoàn BIM",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 46,
+    "CompanyName": "Cty TNHH Ford Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 47,
+    "CompanyName": "Ngân hàng TMCP Tiên Phong",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 36194.8
+  },
+  {
+    "Ranking": 48,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT LONG AN",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 49,
+    "CompanyName": "Công ty TNHH Xổ số kiến thiết tỉnh Tây Ninh",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 50,
+    "CompanyName": "Sở Giao dịch Chứng khoán Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 51,
+    "CompanyName": "CTCP Tập đoàn Vàng bạc đá quý Doji",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 52,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH ĐỒNG THÁP",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 53,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BÌNH DƯƠNG",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 54,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT KIÊN GIANG",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 55,
+    "CompanyName": "Ngân hàng TMCP Sài Gòn Thương Tín",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 75408.63
+  },
+  {
+    "Ranking": 56,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH BÀ RỊA - VŨNG TÀU",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 57,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BẠC LIÊU",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 58,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TIỀN GIANG",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 59,
+    "CompanyName": "Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 60,
+    "CompanyName": "Xổ số kiến thiết tỉnh Trà Vinh",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 61,
+    "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Cà Mau",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 62,
+    "CompanyName": "CTCP Đầu tư Bất động sản Taseco",
+    "Earnings": [
+      -4738131,
+      181378760,
+      472451436,
+      20244821
+    ],
+    "TotalProfit": 669336886,
+    "MarketCap": 7546.77
+  },
+  {
+    "Ranking": 63,
+    "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT AN GIANG",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 64,
+    "CompanyName": "CÔNG TY TNHH NHÀ NƯỚC MTV XỔ SỐ KIẾN THIẾT CẦN THƠ",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 65,
+    "CompanyName": "Công ty TNHH MTV Xổ Số Kiến Thiết Bến Tre",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 66,
+    "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Lâm Đồng",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 67,
+    "CompanyName": "Tập đoàn Công nghiệp Cao su Việt Nam",
+    "Earnings": [
+      475562878,
+      863533206,
+      943784294,
+      1973132981
+    ],
+    "TotalProfit": 4256013359,
+    "MarketCap": 112400
+  },
+  {
+    "Ranking": 68,
+    "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Bình Thuận",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 69,
+    "CompanyName": "Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp",
+    "Earnings": [
+      79549290,
+      111507490,
+      -110522263,
+      132006414
+    ],
+    "TotalProfit": 212540931,
+    "MarketCap": 1100.28
+  },
+  {
+    "Ranking": 70,
+    "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Vĩnh Long",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 71,
+    "CompanyName": "Ngân hàng TMCP Hàng hải Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 30030
+  },
+  {
+    "Ranking": 72,
+    "CompanyName": "Tập đoàn Hóa chất Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 73,
+    "CompanyName": "Ngân hàng TMCP Lộc Phát Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 105451.06
+  },
+  {
+    "Ranking": 74,
+    "CompanyName": "CTCP Tập đoàn Bia Sài Gòn Bình Tây",
+    "Earnings": [
+      -16837136,
+      -88030352,
+      -415567784
+    ],
+    "TotalProfit": -520435272,
+    "MarketCap": 1295.36
+  },
+  {
+    "Ranking": 75,
+    "CompanyName": "CTCP Chứng khoán VPS",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 76,
+    "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Sóc Trăng",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 77,
+    "CompanyName": "Công ty TNHH MTV Xổ số điện toán Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 78,
+    "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Hậu Giang",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 79,
+    "CompanyName": "Tổng Công ty Quản lý bay Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 81,
+    "CompanyName": "Tổng Công ty Viễn thông Mobifone",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 82,
+    "CompanyName": "Tổng Công ty Công nghiệp Thực phẩm Đồng Nai",
+    "Earnings": [
+      -3062613
+    ],
+    "TotalProfit": -3062613,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 83,
+    "CompanyName": "CTCP Đầu tư Văn Phú - Invest",
+    "Earnings": [
+      42580050,
+      92028958,
+      23765808,
+      109966762
+    ],
+    "TotalProfit": 268341578,
+    "MarketCap": 15938.47
+  },
+  {
+    "Ranking": 84,
+    "CompanyName": "Tập đoàn Bảo Việt",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 36448.05
+  },
+  {
+    "Ranking": 85,
+    "CompanyName": "CTCP Vàng bạc Đá quý Phú Nhuận",
+    "Earnings": [
+      428851315,
+      215835185,
+      732522700,
+      677727918
+    ],
+    "TotalProfit": 2054937118,
+    "MarketCap": 28755.73
+  },
+  {
+    "Ranking": 86,
+    "CompanyName": "Tổng Công ty Công nghiệp Xi măng Việt Nam",
+    "Earnings": [
+      194547912
+    ],
+    "TotalProfit": 194547912,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 87,
+    "CompanyName": "CTCP Cơ điện lạnh",
+    "Earnings": [
+      354763988,
+      479845621,
+      679323560,
+      611403989
+    ],
+    "TotalProfit": 2125337158,
+    "MarketCap": 33724.56
+  },
+  {
+    "Ranking": 88,
+    "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết và dịch vụ tổng hợp Bình Phước",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 89,
+    "CompanyName": "HSBC Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 90,
+    "CompanyName": "Tổng Công ty Idico - CTCP",
+    "Earnings": [
+      432484844,
+      511013714,
+      357719491,
+      343278911
+    ],
+    "TotalProfit": 1644496960,
+    "MarketCap": 13959
+  },
+  {
+    "Ranking": 91,
+    "CompanyName": "Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP",
+    "Earnings": [
+      380678167,
+      344394978,
+      1369787700,
+      358265688
+    ],
+    "TotalProfit": 2453126533,
+    "MarketCap": 63859.5
+  },
+  {
+    "Ranking": 92,
+    "CompanyName": "Công ty cổ phần Đầu tư Thế giới Di động",
+    "Earnings": [
+      1172276912,
+      800149979,
+      847004382,
+      1545937091
+    ],
+    "TotalProfit": 4365368364,
+    "MarketCap": 94947.51
+  },
+  {
+    "Ranking": 93,
+    "CompanyName": "Công ty TNHH Hyosung Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 94,
+    "CompanyName": "Công ty TNHH điện Nghi Sơn 2",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 95,
+    "CompanyName": "CTCP Bia Sài Gòn - Miền Trung",
+    "Earnings": [
+      60435040,
+      51764537,
+      42691501,
+      28727125
+    ],
+    "TotalProfit": 183618203,
+    "MarketCap": 1241.62
+  },
+  {
+    "Ranking": 96,
+    "CompanyName": "CTCP VNG",
+    "Earnings": [
+      -462227994,
+      8495833,
+      -412502334,
+      -4844877
+    ],
+    "TotalProfit": -871079372,
+    "MarketCap": 10000.13
+  },
+  {
+    "Ranking": 97,
+    "CompanyName": "Ngân hàng TMCP Phương Đông",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 26753.81
+  },
+  {
+    "Ranking": 98,
+    "CompanyName": "Ngân hàng TMCP Đông Nam Á",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 53486
+  },
+  {
+    "Ranking": 99,
+    "CompanyName": "Công ty Cổ phần PVI",
+    "Earnings": [
+      279536404,
+      154608895,
+      59892319,
+      336321816
+    ],
+    "TotalProfit": 830359434,
+    "MarketCap": 13023.85
+  },
+  {
+    "Ranking": 100,
+    "CompanyName": "CTCP TẬP ĐOÀN VAS NGHI SƠN",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 101,
+    "CompanyName": "Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 102,
+    "CompanyName": "CTCP Chứng khoán SSI",
+    "Earnings": [
+      764251330,
+      848518040,
+      794515584,
+      427738166
+    ],
+    "TotalProfit": 2835023120,
+    "MarketCap": 46986.85
+  },
+  {
+    "Ranking": 103,
+    "CompanyName": "CTCP Tập đoàn Hoa Sen",
+    "Earnings": [
+      273403232,
+      -185890768,
+      165527075,
+      205426811
+    ],
+    "TotalProfit": 458466350,
+    "MarketCap": 9625.23
+  },
+  {
+    "Ranking": 104,
+    "CompanyName": "CTCP Đầu tư và Kinh doanh nhà Khang Điền",
+    "Earnings": [
+      63360867,
+      278451691,
+      70356430,
+      397502302
+    ],
+    "TotalProfit": 809671290,
+    "MarketCap": 29575.92
+  },
+  {
+    "Ranking": 105,
+    "CompanyName": "CTCP Đường Quảng Ngãi",
+    "Earnings": [
+      690302766,
+      531947521,
+      622650289,
+      391628868
+    ],
+    "TotalProfit": 2236529444,
+    "MarketCap": 16911.82
+  },
+  {
+    "Ranking": 106,
+    "CompanyName": "Công ty TNHH Bảo hiểm Nhân thọ Dai-ichi Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 107,
+    "CompanyName": "CTCP Chứng khoán VNDirect",
+    "Earnings": [
+      617070033,
+      344887468,
+      505148241,
+      251319288
+    ],
+    "TotalProfit": 1718425030,
+    "MarketCap": 23367.3
+  },
+  {
+    "Ranking": 108,
+    "CompanyName": "Tổng Công ty Hàng hải Việt Nam - CTCP",
+    "Earnings": [
+      860514231,
+      517731685,
+      300602733,
+      269941614
+    ],
+    "TotalProfit": 1948790263,
+    "MarketCap": 81880.1
+  },
+  {
+    "Ranking": 109,
+    "CompanyName": "Tổng Công ty Du lịch Sài Gòn - TNHH Một thành viên",
+    "Earnings": [
+      1073259464
+    ],
+    "TotalProfit": 1073259464,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 110,
+    "CompanyName": "CTCP Gemadept",
+    "Earnings": [
+      303161314,
+      335047467,
+      234623791,
+      402975061
+    ],
+    "TotalProfit": 1275807633,
+    "MarketCap": 23446.73
+  },
+  {
+    "Ranking": 111,
+    "CompanyName": "Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP",
+    "Earnings": [
+      149268507,
+      44114577,
+      -6650105,
+      39776700
+    ],
+    "TotalProfit": 226509679,
+    "MarketCap": 2820
+  },
+  {
+    "Ranking": 112,
+    "CompanyName": "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu",
+    "Earnings": [
+      -23920513,
+      -343757334,
+      -172050603,
+      -230628972
+    ],
+    "TotalProfit": -770357422,
+    "MarketCap": 223.32
+  },
+  {
+    "Ranking": 113,
+    "CompanyName": "Công ty TNHH Nestlé Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 114,
+    "CompanyName": "CTCP Hàng không VietJet",
+    "Earnings": [
+      536183714,
+      577978583,
+      571585475,
+      23365780
+    ],
+    "TotalProfit": 1709113552,
+    "MarketCap": 48853.34
+  },
+  {
+    "Ranking": 115,
+    "CompanyName": "Công Ty CP Đầu tư tập đoàn Tân Á Đại Thành",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 117,
+    "CompanyName": "Công ty TNHH Hyosung Đồng Nai",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 118,
+    "CompanyName": "Ngân hàng TMCP Xuất nhập khẩu Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 36788.73
+  },
+  {
+    "Ranking": 120,
+    "CompanyName": "CTCP Tập đoàn Đầu tư Địa ốc No Va",
+    "Earnings": [
+      -567038930,
+      941413570,
+      3119843437,
+      -2307165102
+    ],
+    "TotalProfit": 1187052975,
+    "MarketCap": 23888.78
+  },
+  {
+    "Ranking": 121,
+    "CompanyName": "CTCP Tập đoàn Hóa chất Đức Giang",
+    "Earnings": [
+      842412799,
+      705979959,
+      749485119,
+      809334908
+    ],
+    "TotalProfit": 3107212785,
+    "MarketCap": 35661.19
+  },
+  {
+    "Ranking": 122,
+    "CompanyName": "Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam",
+    "Earnings": [
+      116552939,
+      80261192,
+      304124599,
+      127964076
+    ],
+    "TotalProfit": 628902806,
+    "MarketCap": 12899.69
+  },
+  {
+    "Ranking": 123,
+    "CompanyName": "Công ty TNHH LG Display Việt Nam Hải Phòng",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 124,
+    "CompanyName": "CTCP Tập đoàn Gelex",
+    "Earnings": [
+      849466802,
+      98863823,
+      567261565,
+      233741873
+    ],
+    "TotalProfit": 1749334063,
+    "MarketCap": 25009.41
+  },
+  {
+    "Ranking": 125,
+    "CompanyName": "Ngân hàng TMCP Nam Á",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 22814
+  },
+  {
+    "Ranking": 126,
+    "CompanyName": "Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 128,
+    "CompanyName": "Tổng Công ty Sông Đà - Công ty cổ phần",
+    "Earnings": [
+      151955104,
+      227259812,
+      379498538,
+      46967250
+    ],
+    "TotalProfit": 805680704,
+    "MarketCap": 8451.3
+  },
+  {
+    "Ranking": 129,
+    "CompanyName": "Công ty TNHH Bảo hiểm Nhân thọ AIA Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 130,
+    "CompanyName": "Tổng Công ty Thép Việt Nam - CTCP",
+    "Earnings": [
+      125781496,
+      -95622385,
+      156621371,
+      94610738
+    ],
+    "TotalProfit": 281391220,
+    "MarketCap": 4881.6
+  },
+  {
+    "Ranking": 131,
+    "CompanyName": "Công ty TNHH Piaggio Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 132,
+    "CompanyName": "CTCP Bia Sài Gòn - Vĩnh Long",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 133,
+    "CompanyName": "Tổng Công ty Cổ phần phát triển khu Công nghiệp",
+    "Earnings": [
+      324721113,
+      192260786,
+      232017148,
+      290340183
+    ],
+    "TotalProfit": 1039339230,
+    "MarketCap": 12424.23
+  },
+  {
+    "Ranking": 134,
+    "CompanyName": "CTCP Tập đoàn PC1",
+    "Earnings": [
+      80551086,
+      62210437,
+      159589622,
+      61238372
+    ],
+    "TotalProfit": 363589517,
+    "MarketCap": 7957.54
+  },
+  {
+    "Ranking": 135,
+    "CompanyName": "CTCP Đầu tư và Phát triển Bất động sản An Gia",
+    "Earnings": [
+      25458131,
+      24293233,
+      47458154,
+      10268615
+    ],
+    "TotalProfit": 107478133,
+    "MarketCap": 2567.94
+  },
+  {
+    "Ranking": 136,
+    "CompanyName": "Công ty cổ phần Stavian Hóa chất",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 137,
+    "CompanyName": "CTCP Chứng khoán Tp.HCM",
+    "Earnings": [
+      276854842,
+      313356656,
+      222393915,
+      227049631
+    ],
+    "TotalProfit": 1039655044,
+    "MarketCap": 18935.24
+  },
+  {
+    "Ranking": 138,
+    "CompanyName": "CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát",
+    "Earnings": [
+      2055698,
+      11927596,
+      86352306,
+      18968240
+    ],
+    "TotalProfit": 119303840,
+    "MarketCap": 1052.15
+  },
+  {
+    "Ranking": 139,
+    "CompanyName": "CTCP Bia và nước giải khát Hạ Long",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 1081.5
+  },
+  {
+    "Ranking": 140,
+    "CompanyName": "Công ty TNHH Nhà nước MTV Yến sào Khánh Hòa",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 141,
+    "CompanyName": "CTCP Bia Sài Gòn - Bến Tre",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 142,
+    "CompanyName": "CTCP Tập đoàn C.E.O",
+    "Earnings": [
+      41404017,
+      44211760,
+      66026671,
+      39340908
+    ],
+    "TotalProfit": 190983356,
+    "MarketCap": 6971.24
+  },
+  {
+    "Ranking": 143,
+    "CompanyName": "CTCP Đầu tư Nam Long",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 144,
+    "CompanyName": "Công ty Liên doanh thuốc lá BAT - Vinataba",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 145,
+    "CompanyName": "Tổng Công ty Đầu tư Phát triển nhà và Đô thị-Công ty TNHH",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 146,
+    "CompanyName": "Tổng CTCP Dịch vụ Tổng hợp Dầu khí",
+    "Earnings": [
+      35122545,
+      27954532,
+      47932885,
+      59306021
+    ],
+    "TotalProfit": 170315983,
+    "MarketCap": 2449.27
+  },
+  {
+    "Ranking": 147,
+    "CompanyName": "CTCP Bóng đèn Phích nước Rạng Đông",
+    "Earnings": [
+      194661879,
+      137270408,
+      76613974,
+      182744369
+    ],
+    "TotalProfit": 591290630,
+    "MarketCap": 2359.45
+  },
+  {
+    "Ranking": 148,
+    "CompanyName": "Công ty Cổ phần Nhựa Bình Minh ",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 149,
+    "CompanyName": "CTCP Thành Thành Công - Biên Hòa",
+    "Earnings": [
+      180305334,
+      217204989,
+      211595008,
+      216674232
+    ],
+    "TotalProfit": 825779563,
+    "MarketCap": 14091.63
+  },
+  {
+    "Ranking": 150,
+    "CompanyName": "Công ty Ajinomoto Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 151,
+    "CompanyName": "CTCP Tập đoàn Hà Đô",
+    "Earnings": [
+      74365199,
+      137605605,
+      153469970,
+      155066700
+    ],
+    "TotalProfit": 520507474,
+    "MarketCap": 8290.57
+  },
+  {
+    "Ranking": 152,
+    "CompanyName": "Tập đoàn Dệt may Việt Nam",
+    "Earnings": [
+      81619229,
+      230285396,
+      200452563,
+      172118430
+    ],
+    "TotalProfit": 684475618,
+    "MarketCap": 5250
+  },
+  {
+    "Ranking": 153,
+    "CompanyName": "CTCP Tập đoàn Kido",
+    "Earnings": [
+      1762881,
+      24394354,
+      558974,
+      -75490404
+    ],
+    "TotalProfit": -48774195,
+    "MarketCap": 16229.15
+  },
+  {
+    "Ranking": 154,
+    "CompanyName": "CTCP Ống thép Việt Đức",
+    "Earnings": [
+      12111105,
+      9533116,
+      74169438,
+      40953177
+    ],
+    "TotalProfit": 136766836,
+    "MarketCap": 1387.12
+  },
+  {
+    "Ranking": 155,
+    "CompanyName": "Công ty Cổ phần Tập đoàn Công nghệ CMC",
+    "Earnings": [
+      43478544,
+      83226281,
+      61050888,
+      80798530
+    ],
+    "TotalProfit": 268554243,
+    "MarketCap": 7606.83
+  },
+  {
+    "Ranking": 156,
+    "CompanyName": "Công ty TNHH Samsung Electro- Mechanics Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 157,
+    "CompanyName": "CTCP Thương mại Dịch vụ Cổng Vàng",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 158,
+    "CompanyName": "Tổng CTCP Bảo hiểm Bưu điện",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 2580.67
+  },
+  {
+    "Ranking": 159,
+    "CompanyName": "Công ty TNHH MTV Phát triển Công nghiệp Tân Thuận",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 160,
+    "CompanyName": "Tổng Công ty lưu ký và bù trừ Chứng khoán Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 161,
+    "CompanyName": "CTCP Chứng khoán VietCap",
+    "Earnings": [
+      197756462,
+      279206680,
+      215352225,
+      218376746
+    ],
+    "TotalProfit": 910692113,
+    "MarketCap": 27072.35
+  },
+  {
+    "Ranking": 162,
+    "CompanyName": "Công ty cổ phần TKG TaeKwang Vina",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 163,
+    "CompanyName": "CTCP Chăn nuôi C.P Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 164,
+    "CompanyName": "CTCP Tập đoàn An Phát Holdings",
+    "Earnings": [
+      42151977,
+      46317002,
+      -4146064,
+      32049862
+    ],
+    "TotalProfit": 116372777,
+    "MarketCap": 1575.49
+  },
+  {
+    "Ranking": 165,
+    "CompanyName": "CTCP Tập đoàn Bamboo Capital",
+    "Earnings": [
+      13634044,
+      131430404,
+      131526670,
+      126944658
+    ],
+    "TotalProfit": 403535776,
+    "MarketCap": 2895.89
+  },
+  {
+    "Ranking": 166,
+    "CompanyName": "CTCP Bia Sài Gòn - Kiên Giang",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 167,
+    "CompanyName": "CTCP Vĩnh Hoàn",
+    "Earnings": [
+      313981407,
+      320625073,
+      425374064,
+      193055654
+    ],
+    "TotalProfit": 1253036198,
+    "MarketCap": 12187.81
+  },
+  {
+    "Ranking": 168,
+    "CompanyName": "Công ty Cổ phần Nguyên liệu Á Châu AIG",
+    "Earnings": [
+      182015134,
+      179285811,
+      171302691,
+      175815298
+    ],
+    "TotalProfit": 708418934,
+    "MarketCap": 7745.3
+  },
+  {
+    "Ranking": 169,
+    "CompanyName": "Công ty cổ phần Phát triển Bất động sản Phát Đạt",
+    "Earnings": [
+      49767462,
+      51236420,
+      369151083,
+      50606725
+    ],
+    "TotalProfit": 520761690,
+    "MarketCap": 15105.46
+  },
+  {
+    "Ranking": 170,
+    "CompanyName": "Ngân hàng TMCP An Bình",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 7866.28
+  },
+  {
+    "Ranking": 171,
+    "CompanyName": "Tổng Công ty Đầu tư và phát triển Nhà Hà Nội",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 172,
+    "CompanyName": "Ngân hàng TNHH MTV Woori Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 173,
+    "CompanyName": "Công ty Cổ phần Dược Hậu Giang",
+    "Earnings": [
+      192484446,
+      156014719,
+      208192211,
+      266239849
+    ],
+    "TotalProfit": 822931225,
+    "MarketCap": 14042.13
+  },
+  {
+    "Ranking": 174,
+    "CompanyName": "CTCP Sữa Quốc tế LOF",
+    "Earnings": [
+      287905365,
+      299564982,
+      64458096,
+      106995175
+    ],
+    "TotalProfit": 758923618,
+    "MarketCap": 13596.98
+  },
+  {
+    "Ranking": 175,
+    "CompanyName": "CTCP Đầu tư và Xây dựng số 18",
+    "Earnings": [
+      10914613,
+      92033422,
+      91587761,
+      12566100
+    ],
+    "TotalProfit": 207101896,
+    "MarketCap": 1307.4
+  },
+  {
+    "Ranking": 176,
+    "CompanyName": "CTCP Bia - Nước giải khát Sài Gòn - Tây Đô",
+    "Earnings": [
+      857855,
+      240270,
+      3130190,
+      -105869
+    ],
+    "TotalProfit": 4122446,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 177,
+    "CompanyName": "CTCP Bia Sài Gòn - Phú Thọ",
+    "Earnings": [
+      3564184,
+      3744565,
+      3954522,
+      -5729509
+    ],
+    "TotalProfit": 5533762,
+    "MarketCap": 125
+  },
+  {
+    "Ranking": 178,
+    "CompanyName": "Công ty TNHH MTV Nhà xuất bản Giáo dục Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 179,
+    "CompanyName": "CTCP Tập đoàn Đất Xanh",
+    "Earnings": [
+      32921140,
+      30713338,
+      157646407,
+      48356042
+    ],
+    "TotalProfit": 269636927,
+    "MarketCap": 14369.02
+  },
+  {
+    "Ranking": 180,
+    "CompanyName": "Ngân hàng TMCP Bắc Á",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": 10538.24
+  },
+  {
+    "Ranking": 181,
+    "CompanyName": "CTCP Tập đoàn Thiên Long",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 182,
+    "CompanyName": "CTCP Đầu tư Phát triển máy Việt Nam",
+    "Earnings": [
+      12267748,
+      42216837,
+      6630154,
+      26057363
+    ],
+    "TotalProfit": 87172102,
+    "MarketCap": 452.03
+  },
+  {
+    "Ranking": 183,
+    "CompanyName": "CTCP Gỗ An Cường",
+    "Earnings": [
+      118128862,
+      130420989,
+      90145697,
+      85008967
+    ],
+    "TotalProfit": 423704515,
+    "MarketCap": 5549
+  },
+  {
+    "Ranking": 184,
+    "CompanyName": "Công ty TNHH MTV Nước sạch Hà Nội",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 185,
+    "CompanyName": "Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 186,
+    "CompanyName": "Công ty TNHH bảo hiểm Hanwha Life Việt Nam",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 187,
+    "CompanyName": "Công ty TNHH MTV Xổ sổ kiến thiết Khánh Hoà",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 188,
+    "CompanyName": "CTCP Đầu tư Sài Gòn VRG",
+    "Earnings": [
+      246009732,
+      297875388,
+      301884288,
+      317470476
+    ],
+    "TotalProfit": 1163239884,
+    "MarketCap": 14737.34
+  },
+  {
+    "Ranking": 189,
+    "CompanyName": "Tổng Công ty Phát triển đô thị Kinh Bắc - CTCP",
+    "Earnings": [
+      -85698000,
+      237012688,
+      196199119,
+      74593781
+    ],
+    "TotalProfit": 422107588,
+    "MarketCap": 19804.2
+  },
+  {
+    "Ranking": 190,
+    "CompanyName": "Công ty cổ phần tập đoàn Long Thuận",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 191,
+    "CompanyName": "Tổng CTCP Bảo hiểm Petrolimex",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 192,
+    "CompanyName": "Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP",
+    "Earnings": [
+      1798480611,
+      1652208241,
+      2486002631,
+      1259450752
+    ],
+    "TotalProfit": 7196142235,
+    "MarketCap": 51557.44
+  },
+  {
+    "Ranking": 193,
+    "CompanyName": "CTCP – Tổng Công ty Nước – Môi trường Bình Dương",
+    "Earnings": [
+      133562438,
+      182090261,
+      145050574,
+      147566464
+    ],
+    "TotalProfit": 608269737,
+    "MarketCap": 11304.33
+  },
+  {
+    "Ranking": 194,
+    "CompanyName": "CTCP Phát triển Sunshine Homes",
+    "Earnings": [
+      217351085,
+      10629034,
+      474431399,
+      7308733
+    ],
+    "TotalProfit": 709720251,
+    "MarketCap": 32962.5
+  },
+  {
+    "Ranking": 195,
+    "CompanyName": "CTCP đầu tư hạ tầng kỹ thuật TP. Hồ Chí Minh",
+    "Earnings": [
+      259431236,
+      14922114,
+      5950412,
+      5947019
+    ],
+    "TotalProfit": 286250781,
+    "MarketCap": 7260.69
+  },
+  {
+    "Ranking": 196,
+    "CompanyName": "CTCP Tasco",
+    "Earnings": [
+      4739449,
+      17831179,
+      87418395,
+      28860324
+    ],
+    "TotalProfit": 138849347,
+    "MarketCap": 11781.16
+  },
+  {
+    "Ranking": 197,
+    "CompanyName": "CTCP Quốc tế Sơn Hà",
+    "Earnings": [
+      741718,
+      49143665,
+      26399490,
+      15182853
+    ],
+    "TotalProfit": 91467726,
+    "MarketCap": null
+  },
+  {
+    "Ranking": 198,
+    "CompanyName": "CTCP Đầu tư Thương mại SMC",
+    "Earnings": [
+      183299614,
+      -106694925,
+      -78629757,
+      -291545926
+    ],
+    "TotalProfit": -293570994,
+    "MarketCap": 758.15
+  },
+  {
+    "Ranking": 199,
+    "CompanyName": "Công ty cổ phần chứng khoán HD",
+    "Earnings": [],
+    "TotalProfit": null,
+    "MarketCap": null
+  }
+]
