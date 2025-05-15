@@ -2,7 +2,7 @@
     {
         "Ranking": 1,
         "CompanyName": "Tập đoàn Dầu khí Việt Nam",
-        "NopNganSach": 94888,
+        "TaxPaid": 94888,
         "Link": "/otc/PVN-tap-doan-dau-khi-viet-nam.chn",
         "Industry": "Dầu khí",
         "Type": "SOE"
@@ -10,7 +10,7 @@
     {
         "Ranking": 2,
         "CompanyName": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel)",
-        "NopNganSach": 37818.29,
+        "TaxPaid": 37818.29,
         "Link": "/otc/VIETTEL-tap-doan-cong-nghiep-vien-thong-quan-doi-viettel.chn",
         "Industry": "Công nghệ - Viễn thông",
         "Type": "SOE"
@@ -18,7 +18,7 @@
     {
         "Ranking": 3,
         "CompanyName": "Tập đoàn Xăng dầu Việt Nam",
-        "NopNganSach": 33396.8,
+        "TaxPaid": 33396.8,
         "Link": "/hose/PLX-tap-doan-xang-dau-viet-nam.chn",
         "Industry": "Xăng dầu",
         "Type": "SOE"
@@ -26,7 +26,7 @@
     {
         "Ranking": 4,
         "CompanyName": "Tập đoàn Vingroup - CTCP",
-        "NopNganSach": 30903.8,
+        "TaxPaid": 30903.8,
         "Link": "/hose/VIC-tap-doan-vingroup-ctcp.chn",
         "Industry": "Bất động sản, Ô tô",
         "Type": "Private"
@@ -34,7 +34,7 @@
     {
         "Ranking": 5,
         "CompanyName": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
-        "NopNganSach": 29216,
+        "TaxPaid": 29216,
         "Link": "/otc/VINACOMIN-tap-doan-cong-nghiep-than-khoang-san-viet-nam.chn",
         "Industry": "Than",
         "Type": "SOE"
@@ -42,7 +42,7 @@
     {
         "Ranking": 6,
         "CompanyName": "Liên doanh Việt - Nga Vietsovpetro",
-        "NopNganSach": 24000,
+        "TaxPaid": 24000,
         "Link": "/otc/VIETSOVPETRO-lien-doanh-viet-nga-vietsovpetro.chn",
         "Industry": "Dầu khí",
         "Type": "Foreign"
@@ -50,7 +50,7 @@
     {
         "Ranking": 7,
         "CompanyName": "Công ty Ô tô Toyota Việt Nam",
-        "NopNganSach": 21388.5,
+        "TaxPaid": 21388.5,
         "Link": "/otc/TOYOTAVN-cong-ty-o-to-toyota-viet-nam.chn",
         "Industry": "Ô tô",
         "Type": "Foreign"
@@ -58,7 +58,7 @@
     {
         "Ranking": 8,
         "CompanyName": "Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV",
-        "NopNganSach": 21000,
+        "TaxPaid": 21000,
         "Link": "/otc/EVN-tap-doan-dien-luc-viet-nam-cong-ty-tnhh-mtv.chn",
         "Industry": "Điện năng",
         "Type": "SOE"
@@ -66,7 +66,7 @@
     {
         "Ranking": 9,
         "CompanyName": "Công ty cổ phần tập đoàn Trường Hải",
-        "NopNganSach": 21000,
+        "TaxPaid": 21000,
         "Link": "/otc/THA-cong-ty-co-phan-tap-doan-truong-hai.chn",
         "Industry": "Ô tô",
         "Type": "Private"
@@ -74,7 +74,7 @@
     {
         "Ranking": 10,
         "CompanyName": "Công ty TNHH Lọc hóa dầu Nghi Sơn",
-        "NopNganSach": 20000,
+        "TaxPaid": 20000,
         "Link": "/otc/NSRP-cong-ty-tnhh-loc-hoa-dau-nghi-son.chn",
         "Industry": "Dầu khí",
         "Type": "Foreign"
@@ -82,7 +82,7 @@
     {
         "Ranking": 11,
         "CompanyName": "Tổng Công ty Thuốc lá Việt Nam - Công ty TNHH MTV",
-        "NopNganSach": 16675,
+        "TaxPaid": 16675,
         "Link": "/otc/VINATABA-tong-cong-ty-thuoc-la-viet-nam-cong-ty-tnhh-mtv.chn",
         "Industry": "Thuốc lá",
         "Type": "SOE"
@@ -90,7 +90,7 @@
     {
         "Ranking": 12,
         "CompanyName": "Công ty Cổ phần Tập đoàn Thành Công",
-        "NopNganSach": 13837,
+        "TaxPaid": 13837,
         "Link": "/otc/TCGROUP-cong-ty-co-phan-tap-doan-thanh-cong.chn",
         "Industry": "Ô tô, Bất động sản",
         "Type": "Private"
@@ -98,7 +98,7 @@
     {
         "Ranking": 13,
         "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn",
-        "NopNganSach": 12398,
+        "TaxPaid": 12398,
         "Link": "/hose/SAB-tong-ctcp-bia-ruou-nuoc-giai-khat-sai-gon.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Foreign"
@@ -106,7 +106,7 @@
     {
         "Ranking": 14,
         "CompanyName": "Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam",
-        "NopNganSach": 11648.27,
+        "TaxPaid": 11648.27,
         "Link": "/hose/VCB-ngan-hang-thuong-mai-co-phan-ngoai-thuong-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "SOE"
@@ -114,7 +114,7 @@
     {
         "Ranking": 15,
         "CompanyName": "CTCP Tập đoàn Hòa Phát",
-        "NopNganSach": 9075,
+        "TaxPaid": 9075,
         "Link": "/hose/HPG-ctcp-tap-doan-hoa-phat.chn",
         "Industry": "Thép",
         "Type": "Private"
@@ -122,7 +122,7 @@
     {
         "Ranking": 16,
         "CompanyName": "Ngân hàng TMCP Kỹ thương Việt Nam",
-        "NopNganSach": 7927,
+        "TaxPaid": 7927,
         "Link": "/hose/TCB-ngan-hang-tmcp-ky-thuong-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -130,7 +130,7 @@
     {
         "Ranking": 17,
         "CompanyName": "Ngân hàng Thương mại cổ phần Quân đội",
-        "NopNganSach": 7518,
+        "TaxPaid": 7518,
         "Link": "/hose/MBB-ngan-hang-thuong-mai-co-phan-quan-doi.chn",
         "Industry": "Ngân hàng",
         "Type": "SOE"
@@ -138,7 +138,7 @@
     {
         "Ranking": 18,
         "CompanyName": "CTCP FPT",
-        "NopNganSach": 7308,
+        "TaxPaid": 7308,
         "Link": "/hose/FPT-ctcp-fpt.chn",
         "Industry": "Công nghệ - Viễn thông",
         "Type": "Private"
@@ -146,7 +146,7 @@
     {
         "Ranking": 19,
         "CompanyName": "Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam",
-        "NopNganSach": 7176,
+        "TaxPaid": 7176,
         "Link": "/hose/BID-ngan-hang-thuong-mai-co-phan-dau-tu-va-phat-trien-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "SOE"
@@ -154,7 +154,7 @@
     {
         "Ranking": 20,
         "CompanyName": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam",
-        "NopNganSach": 6835,
+        "TaxPaid": 6835,
         "Link": "/hose/CTG-ngan-hang-thuong-mai-co-phan-cong-thuong-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "SOE"
@@ -162,7 +162,7 @@
     {
         "Ranking": 21,
         "CompanyName": "Ngân hàng TMCP Việt Nam Thịnh Vượng",
-        "NopNganSach": 5977.3,
+        "TaxPaid": 5977.3,
         "Link": "/hose/VPB-ngan-hang-tmcp-viet-nam-thinh-vuong.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -170,7 +170,7 @@
     {
         "Ranking": 22,
         "CompanyName": "Công ty Đầu tư Tài chính Nhà nước T.P Hồ Chí Minh",
-        "NopNganSach": 5945,
+        "TaxPaid": 5945,
         "Link": "/otc/HFIC-cong-ty-dau-tu-tai-chinh-nha-nuoc-tp-ho-chi-minh.chn",
         "Industry": "Đầu tư",
         "Type": "SOE"
@@ -178,7 +178,7 @@
     {
         "Ranking": 23,
         "CompanyName": "Tập đoàn Bưu chính Viễn thông Việt Nam",
-        "NopNganSach": 5476.2,
+        "TaxPaid": 5476.2,
         "Link": "/otc/VNPT-tap-doan-buu-chinh-vien-thong-viet-nam.chn",
         "Industry": "Công nghệ - Viễn thông",
         "Type": "SOE"
@@ -186,7 +186,7 @@
     {
         "Ranking": 24,
         "CompanyName": "CTCP Đầu tư dịch vụ tài chính Hoàng Huy",
-        "NopNganSach": 5313.2,
+        "TaxPaid": 5313.2,
         "Link": "/hose/TCH-ctcp-dau-tu-dich-vu-tai-chinh-hoang-huy.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -194,7 +194,7 @@
     {
         "Ranking": 25,
         "CompanyName": "Ngân hàng TMCP Á Châu",
-        "NopNganSach": 5214,
+        "TaxPaid": 5214,
         "Link": "/hose/ACB-ngan-hang-tmcp-a-chau.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -202,7 +202,7 @@
     {
         "Ranking": 26,
         "CompanyName": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam",
-        "NopNganSach": 5192.7,
+        "TaxPaid": 5192.7,
         "Link": "/otc/AGRIBANK-ngan-hang-nong-nghiep-va-phat-trien-nong-thon-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "SOE"
@@ -210,7 +210,7 @@
     {
         "Ranking": 27,
         "CompanyName": "CTCP Tập đoàn Masan",
-        "NopNganSach": 4421,
+        "TaxPaid": 4421,
         "Link": "/hose/MSN-ctcp-tap-doan-masan.chn",
         "Industry": "F&B, Bán lẻ, Tài chính",
         "Type": "Private"
@@ -218,7 +218,7 @@
     {
         "Ranking": 28,
         "CompanyName": "Tổng Công ty Đông Bắc - BQP",
-        "NopNganSach": 4197.3,
+        "TaxPaid": 4197.3,
         "Link": "/otc/NECORP-tong-cong-ty-dong-bac-bqp.chn",
         "Industry": "Than",
         "Type": "SOE"
@@ -226,7 +226,7 @@
     {
         "Ranking": 29,
         "CompanyName": "Công ty TNHH Samsung Electronics Việt Nam Thái Nguyên",
-        "NopNganSach": 4183.46,
+        "TaxPaid": 4183.46,
         "Link": "/otc/SEVT-cong-ty-tnhh-samsung-electronics-viet-nam-thai-nguyen.chn",
         "Industry": "Điện tử",
         "Type": "Foreign"
@@ -234,7 +234,7 @@
     {
         "Ranking": 30,
         "CompanyName": "CTCP Sữa Việt Nam",
-        "NopNganSach": 4104,
+        "TaxPaid": 4104,
         "Link": "/hose/VNM-ctcp-sua-viet-nam.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -242,7 +242,7 @@
     {
         "Ranking": 31,
         "CompanyName": "Tổng Công ty Khánh Việt",
-        "NopNganSach": 4060.4,
+        "TaxPaid": 4060.4,
         "Link": "/otc/KHATOCO-tong-cong-ty-khanh-viet.chn",
         "Industry": "Thuốc lá",
         "Type": "SOE"
@@ -250,7 +250,7 @@
     {
         "Ranking": 32,
         "CompanyName": "Tổng công ty Cảng hàng không Việt Nam - CTCP",
-        "NopNganSach": 3894,
+        "TaxPaid": 3894,
         "Link": "/upcom/ACV-tong-cong-ty-cang-hang-khong-viet-nam-ctcp.chn",
         "Industry": "Hàng không",
         "Type": "SOE"
@@ -258,7 +258,7 @@
     {
         "Ranking": 33,
         "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội",
-        "NopNganSach": 3666,
+        "TaxPaid": 3666,
         "Link": "/hose/BHN-tong-ctcp-bia-ruou-nuoc-giai-khat-ha-noi.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "SOE"
@@ -266,7 +266,7 @@
     {
         "Ranking": 34,
         "CompanyName": "Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước",
-        "NopNganSach": 3629.89,
+        "TaxPaid": 3629.89,
         "Link": "/otc/SCIC-tong-cong-ty-dau-tu-va-kinh-doanh-von-nha-nuoc.chn",
         "Industry": "Đầu tư",
         "Type": "SOE"
@@ -274,7 +274,7 @@
     {
         "Ranking": 35,
         "CompanyName": "Công ty THHH bia Carlsberg Việt Nam",
-        "NopNganSach": 3500,
+        "TaxPaid": 3500,
         "Link": "/otc/CARLSBERG-cong-ty-thhh-bia-carlsberg-viet-nam.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Foreign"
@@ -282,7 +282,7 @@
     {
         "Ranking": 36,
         "CompanyName": "Tổng Công ty Thương mại Sài Gòn - TNHH MTV",
-        "NopNganSach": 3492.4,
+        "TaxPaid": 3492.4,
         "Link": "/otc/SATRA-tong-cong-ty-thuong-mai-sai-gon-tnhh-mtv.chn",
         "Industry": "Phân phối - Bán lẻ",
         "Type": "SOE"
@@ -290,7 +290,7 @@
     {
         "Ranking": 37,
         "CompanyName": "Tổng Công ty Công nghiệp Sài Gòn - TNHH MTV",
-        "NopNganSach": 3436.3,
+        "TaxPaid": 3436.3,
         "Link": "",
         "Industry": "Thuốc lá",
         "Type": "SOE"
@@ -298,7 +298,7 @@
     {
         "Ranking": 38,
         "CompanyName": "Tổng Công ty Hàng không Việt Nam - CTCP",
-        "NopNganSach": 3344.2,
+        "TaxPaid": 3344.2,
         "Link": "/hose/HVN-tong-cong-ty-hang-khong-viet-nam-ctcp.chn",
         "Industry": "Hàng không",
         "Type": "SOE"
@@ -306,7 +306,7 @@
     {
         "Ranking": 39,
         "CompanyName": "Ngân hàng TMCP Quốc tế Việt Nam",
-        "NopNganSach": 3268,
+        "TaxPaid": 3268,
         "Link": "/hose/VIB-ngan-hang-tmcp-quoc-te-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -314,7 +314,7 @@
     {
         "Ranking": 40,
         "CompanyName": "Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP",
-        "NopNganSach": 3150.3,
+        "TaxPaid": 3150.3,
         "Link": "/upcom/TLP-tong-cong-ty-thuong-mai-xuat-nhap-khau-thanh-le-ctcp.chn",
         "Industry": "Xăng dầu",
         "Type": "SOE"
@@ -322,7 +322,7 @@
     {
         "Ranking": 41,
         "CompanyName": "Ngân hàng TMCP Sài Gòn Hà Nội",
-        "NopNganSach": 3091.8,
+        "TaxPaid": 3091.8,
         "Link": "/hose/SHB-ngan-hang-tmcp-sai-gon-ha-noi.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -330,7 +330,7 @@
     {
         "Ranking": 42,
         "CompanyName": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh",
-        "NopNganSach": 2995.3,
+        "TaxPaid": 2995.3,
         "Link": "/hose/HDB-ngan-hang-tmcp-phat-trien-thanh-pho-ho-chi-minh.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -338,7 +338,7 @@
     {
         "Ranking": 43,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT VÀ DỊCH VỤ TỔNG HỢP ĐỒNG NAI",
-        "NopNganSach": 2600.6,
+        "TaxPaid": 2600.6,
         "Link": "/otc/XSDONGNAI-cong-ty-tnhh-mtv-xo-so-kien-thiet-va-dich-vu-tong-hop-dong-nai.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -346,7 +346,7 @@
     {
         "Ranking": 44,
         "CompanyName": "Tổng Công ty Cấp nước Sài Gòn",
-        "NopNganSach": 2570,
+        "TaxPaid": 2570,
         "Link": "/otc/SAWACO-tong-cong-ty-cap-nuoc-sai-gon.chn",
         "Industry": "Cấp thoát nước",
         "Type": "SOE"
@@ -354,7 +354,7 @@
     {
         "Ranking": 45,
         "CompanyName": "Công ty Cổ phần Tập đoàn BIM",
-        "NopNganSach": 2553.77,
+        "TaxPaid": 2553.77,
         "Link": "/otc/BIMGROUP-cong-ty-co-phan-tap-doan-bim.chn",
         "Industry": "Bất động sản, Điện năng",
         "Type": "Private"
@@ -362,7 +362,7 @@
     {
         "Ranking": 46,
         "CompanyName": "Cty TNHH Ford Việt Nam",
-        "NopNganSach": 2471,
+        "TaxPaid": 2471,
         "Link": "/otc/FORDVN-cty-tnhh-ford-viet-nam.chn",
         "Industry": "Ô tô",
         "Type": "Foreign"
@@ -370,7 +370,7 @@
     {
         "Ranking": 47,
         "CompanyName": "Ngân hàng TMCP Tiên Phong",
-        "NopNganSach": 2418.7,
+        "TaxPaid": 2418.7,
         "Link": "/hose/TPB-ngan-hang-tmcp-tien-phong.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -378,7 +378,7 @@
     {
         "Ranking": 48,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT LONG AN",
-        "NopNganSach": 2364.2,
+        "TaxPaid": 2364.2,
         "Link": "/otc/XSLA-cong-ty-tnhh-mtv-xo-so-kien-thiet-long-an.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -386,7 +386,7 @@
     {
         "Ranking": 49,
         "CompanyName": "Công ty TNHH Xổ số kiến thiết tỉnh Tây Ninh",
-        "NopNganSach": 2345.2,
+        "TaxPaid": 2345.2,
         "Link": "/otc/XSTN-cong-ty-tnhh-xo-so-kien-thiet-tinh-tay-ninh.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -394,7 +394,7 @@
     {
         "Ranking": 50,
         "CompanyName": "Sở Giao dịch Chứng khoán Việt Nam",
-        "NopNganSach": 2300,
+        "TaxPaid": 2300,
         "Link": "/otc/VNEX-so-giao-dich-chung-khoan-viet-nam.chn",
         "Industry": "Tài chính",
         "Type": "SOE"
@@ -402,7 +402,7 @@
     {
         "Ranking": 51,
         "CompanyName": "CTCP Tập đoàn Vàng bạc đá quý Doji",
-        "NopNganSach": 2233.1,
+        "TaxPaid": 2233.1,
         "Link": "/otc/DOJI-ctcp-tap-doan-vang-bac-da-quy-doji.chn",
         "Industry": "Bán lẻ, Bất động sản",
         "Type": "Private"
@@ -410,7 +410,7 @@
     {
         "Ranking": 52,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH ĐỒNG THÁP",
-        "NopNganSach": 2219.45,
+        "TaxPaid": 2219.45,
         "Link": "/otc/XSDT-cong-ty-tnhh-mtv-xo-so-kien-thiet-tinh-dong-thap.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -418,7 +418,7 @@
     {
         "Ranking": 53,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BÌNH DƯƠNG",
-        "NopNganSach": 2209.2,
+        "TaxPaid": 2209.2,
         "Link": "/otc/XSBINHDUONG-cong-ty-tnhh-mtv-xo-so-kien-thiet-binh-duong.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -426,7 +426,7 @@
     {
         "Ranking": 54,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT KIÊN GIANG",
-        "NopNganSach": 2194,
+        "TaxPaid": 2194,
         "Link": "/otc/XSKG-cong-ty-tnhh-mtv-xo-so-kien-thiet-kien-giang.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -434,7 +434,7 @@
     {
         "Ranking": 55,
         "CompanyName": "Ngân hàng TMCP Sài Gòn Thương Tín",
-        "NopNganSach": 2176.95,
+        "TaxPaid": 2176.95,
         "Link": "/hose/STB-ngan-hang-tmcp-sai-gon-thuong-tin.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -442,7 +442,7 @@
     {
         "Ranking": 56,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH BÀ RỊA - VŨNG TÀU",
-        "NopNganSach": 2169.3,
+        "TaxPaid": 2169.3,
         "Link": "/otc/XSBRVT-cong-ty-tnhh-mtv-xo-so-kien-thiet-tinh-ba-ria-vung-tau.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -450,7 +450,7 @@
     {
         "Ranking": 57,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BẠC LIÊU",
-        "NopNganSach": 2165.1,
+        "TaxPaid": 2165.1,
         "Link": "/otc/XSBL-cong-ty-tnhh-mtv-xo-so-kien-thiet-bac-lieu.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -458,7 +458,7 @@
     {
         "Ranking": 58,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TIỀN GIANG",
-        "NopNganSach": 2112.3,
+        "TaxPaid": 2112.3,
         "Link": "/otc/XSTG-cong-ty-tnhh-mtv-xo-so-kien-thiet-tien-giang.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -466,7 +466,7 @@
     {
         "Ranking": 59,
         "CompanyName": "Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn",
-        "NopNganSach": 2100,
+        "TaxPaid": 2100,
         "Link": "/otc/SNP-cong-ty-tnhh-mtv-tong-cong-ty-tan-cang-sai-gon.chn",
         "Industry": "Logistics",
         "Type": "SOE"
@@ -474,7 +474,7 @@
     {
         "Ranking": 60,
         "CompanyName": "Xổ số kiến thiết tỉnh Trà Vinh",
-        "NopNganSach": 2098.6,
+        "TaxPaid": 2098.6,
         "Link": "/otc/XSTV-xo-so-kien-thiet-tinh-tra-vinh.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -482,7 +482,7 @@
     {
         "Ranking": 61,
         "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Cà Mau",
-        "NopNganSach": 2096.7,
+        "TaxPaid": 2096.7,
         "Link": "/otc/XSCM-cong-ty-tnhh-mtv-xo-so-kien-thiet-ca-mau.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -490,7 +490,7 @@
     {
         "Ranking": 62,
         "CompanyName": "CTCP Đầu tư Bất động sản Taseco",
-        "NopNganSach": 2087.3,
+        "TaxPaid": 2087.3,
         "Link": "/upcom/TAL-ctcp-dau-tu-bat-dong-san-taseco.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -498,7 +498,7 @@
     {
         "Ranking": 63,
         "CompanyName": "CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT AN GIANG",
-        "NopNganSach": 2048.9,
+        "TaxPaid": 2048.9,
         "Link": "/otc/XSAG-cong-ty-tnhh-mtv-xo-so-kien-thiet-an-giang.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -506,7 +506,7 @@
     {
         "Ranking": 64,
         "CompanyName": "CÔNG TY TNHH NHÀ NƯỚC MTV XỔ SỐ KIẾN THIẾT CẦN THƠ",
-        "NopNganSach": 2044.4,
+        "TaxPaid": 2044.4,
         "Link": "/otc/XSCT-cong-ty-tnhh-nha-nuoc-mtv-xo-so-kien-thiet-can-tho.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -514,7 +514,7 @@
     {
         "Ranking": 65,
         "CompanyName": "Công ty TNHH MTV Xổ Số Kiến Thiết Bến Tre",
-        "NopNganSach": 2036.2,
+        "TaxPaid": 2036.2,
         "Link": "/otc/XSBENTRE-cong-ty-tnhh-mtv-xo-so-kien-thiet-ben-tre.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -522,7 +522,7 @@
     {
         "Ranking": 66,
         "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Lâm Đồng",
-        "NopNganSach": 2019.78,
+        "TaxPaid": 2019.78,
         "Link": "/otc/XSLD-cong-ty-tnhh-mtv-xo-so-kien-thiet-lam-dong.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -530,7 +530,7 @@
     {
         "Ranking": 67,
         "CompanyName": "Tập đoàn Công nghiệp Cao su Việt Nam",
-        "NopNganSach": 1980.9,
+        "TaxPaid": 1980.9,
         "Link": "/hose/GVR-tap-doan-cong-nghiep-cao-su-viet-nam.chn",
         "Industry": "Cao su",
         "Type": "SOE"
@@ -538,7 +538,7 @@
     {
         "Ranking": 68,
         "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Bình Thuận",
-        "NopNganSach": 1971.1,
+        "TaxPaid": 1971.1,
         "Link": "/otc/XSBINHTHUAN-cong-ty-tnhh-mtv-xo-so-kien-thiet-binh-thuan.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -546,7 +546,7 @@
     {
         "Ranking": 69,
         "CompanyName": "Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp",
-        "NopNganSach": 1963.2,
+        "TaxPaid": 1963.2,
         "Link": "/upcom/PDT-cong-ty-tnhh-mtv-thuong-mai-dau-khi-dong-thap.chn",
         "Industry": "Xăng dầu",
         "Type": "SOE"
@@ -554,7 +554,7 @@
     {
         "Ranking": 70,
         "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Vĩnh Long",
-        "NopNganSach": 1928.1,
+        "TaxPaid": 1928.1,
         "Link": "/otc/XSVL-cong-ty-tnhh-mtv-xo-so-kien-thiet-vinh-long.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -562,7 +562,7 @@
     {
         "Ranking": 71,
         "CompanyName": "Ngân hàng TMCP Hàng hải Việt Nam",
-        "NopNganSach": 1907.3,
+        "TaxPaid": 1907.3,
         "Link": "/hose/MSB-ngan-hang-tmcp-hang-hai-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -570,7 +570,7 @@
     {
         "Ranking": 72,
         "CompanyName": "Tập đoàn Hóa chất Việt Nam",
-        "NopNganSach": 1889,
+        "TaxPaid": 1889,
         "Link": "/otc/VINACHEM-tap-doan-hoa-chat-viet-nam.chn",
         "Industry": "Hóa chất",
         "Type": "SOE"
@@ -578,7 +578,7 @@
     {
         "Ranking": 73,
         "CompanyName": "Ngân hàng TMCP Lộc Phát Việt Nam",
-        "NopNganSach": 1871.7,
+        "TaxPaid": 1871.7,
         "Link": "/hose/LPB-ngan-hang-tmcp-loc-phat-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -586,7 +586,7 @@
     {
         "Ranking": 74,
         "CompanyName": "CTCP Tập đoàn Bia Sài Gòn Bình Tây",
-        "NopNganSach": 1855,
+        "TaxPaid": 1855,
         "Link": "/upcom/SBB-ctcp-tap-doan-bia-sai-gon-binh-tay.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -594,7 +594,7 @@
     {
         "Ranking": 75,
         "CompanyName": "CTCP Chứng khoán VPS",
-        "NopNganSach": 1774.2,
+        "TaxPaid": 1774.2,
         "Link": "/otc/VPSS-ctcp-chung-khoan-vps.chn",
         "Industry": "Chứng khoán",
         "Type": "Private"
@@ -602,7 +602,7 @@
     {
         "Ranking": 76,
         "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Sóc Trăng",
-        "NopNganSach": 1751,
+        "TaxPaid": 1751,
         "Link": "/otc/XSST-cong-ty-tnhh-mtv-xo-so-kien-thiet-soc-trang.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -610,7 +610,7 @@
     {
         "Ranking": 77,
         "CompanyName": "Công ty TNHH MTV Xổ số điện toán Việt Nam",
-        "NopNganSach": 1728.4,
+        "TaxPaid": 1728.4,
         "Link": "/otc/VIETLOTT-cong-ty-tnhh-mtv-xo-so-dien-toan-viet-nam.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -618,7 +618,7 @@
     {
         "Ranking": 78,
         "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết Hậu Giang",
-        "NopNganSach": 1690,
+        "TaxPaid": 1690,
         "Link": "/otc/XSHG-cong-ty-tnhh-mtv-xo-so-kien-thiet-hau-giang.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -626,7 +626,7 @@
     {
         "Ranking": 79,
         "CompanyName": "Tổng Công ty Quản lý bay Việt Nam",
-        "NopNganSach": 1686.67,
+        "TaxPaid": 1686.67,
         "Link": "/otc/VATM-tong-cong-ty-quan-ly-bay-viet-nam.chn",
         "Industry": "Hàng không",
         "Type": "SOE"
@@ -634,7 +634,7 @@
     {
         "Ranking": 80,
         "CompanyName": "Tổng Công ty Xăng dầu Quân đội",
-        "NopNganSach": 1661,
+        "TaxPaid": 1661,
         "Link": "",
         "Industry": "Xăng dầu",
         "Type": "SOE"
@@ -642,7 +642,7 @@
     {
         "Ranking": 81,
         "CompanyName": "Tổng Công ty Viễn thông Mobifone",
-        "NopNganSach": 1639,
+        "TaxPaid": 1639,
         "Link": "/otc/MOBIFONE-tong-cong-ty-vien-thong-mobifone.chn",
         "Industry": "Công nghệ - Viễn thông",
         "Type": "SOE"
@@ -650,7 +650,7 @@
     {
         "Ranking": 82,
         "CompanyName": "Tổng Công ty Công nghiệp Thực phẩm Đồng Nai",
-        "NopNganSach": 1605.4,
+        "TaxPaid": 1605.4,
         "Link": "/otc/DOFICO-tong-cong-ty-cong-nghiep-thuc-pham-dong-nai.chn",
         "Industry": "Thuốc lá",
         "Type": "SOE"
@@ -658,7 +658,7 @@
     {
         "Ranking": 83,
         "CompanyName": "CTCP Đầu tư Văn Phú - Invest",
-        "NopNganSach": 1508.4,
+        "TaxPaid": 1508.4,
         "Link": "/hose/VPI-ctcp-dau-tu-van-phu-invest.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -666,7 +666,7 @@
     {
         "Ranking": 84,
         "CompanyName": "Tập đoàn Bảo Việt",
-        "NopNganSach": 1452,
+        "TaxPaid": 1452,
         "Link": "/hose/BVH-tap-doan-bao-viet.chn",
         "Industry": "Bảo hiểm",
         "Type": "SOE"
@@ -674,7 +674,7 @@
     {
         "Ranking": 85,
         "CompanyName": "CTCP Vàng bạc Đá quý Phú Nhuận",
-        "NopNganSach": 1418.9,
+        "TaxPaid": 1418.9,
         "Link": "/hose/PNJ-ctcp-vang-bac-da-quy-phu-nhuan.chn",
         "Industry": "Bán lẻ",
         "Type": "Private"
@@ -682,7 +682,7 @@
     {
         "Ranking": 86,
         "CompanyName": "Tổng Công ty Công nghiệp Xi măng Việt Nam",
-        "NopNganSach": 1412.3,
+        "TaxPaid": 1412.3,
         "Link": "/otc/VICEM-tong-cong-ty-cong-nghiep-xi-mang-viet-nam.chn",
         "Industry": "Vật liệu xây dựng",
         "Type": "SOE"
@@ -690,7 +690,7 @@
     {
         "Ranking": 87,
         "CompanyName": "CTCP Cơ điện lạnh",
-        "NopNganSach": 1400.6,
+        "TaxPaid": 1400.6,
         "Link": "/hose/REE-ctcp-co-dien-lanh.chn",
         "Industry": "Công nghiệp, điện năng, bất động sản",
         "Type": "Private"
@@ -698,7 +698,7 @@
     {
         "Ranking": 88,
         "CompanyName": "Công ty TNHH MTV Xổ số kiến thiết và dịch vụ tổng hợp Bình Phước",
-        "NopNganSach": 1353.4,
+        "TaxPaid": 1353.4,
         "Link": "/otc/XSBP-cong-ty-tnhh-mtv-xo-so-kien-thiet-va-dich-vu-tong-hop-binh-phuoc.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -706,7 +706,7 @@
     {
         "Ranking": 89,
         "CompanyName": "HSBC Việt Nam",
-        "NopNganSach": 1329.2,
+        "TaxPaid": 1329.2,
         "Link": "/otc/HSBC-hsbc-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "Foreign"
@@ -714,7 +714,7 @@
     {
         "Ranking": 90,
         "CompanyName": "Tổng Công ty Idico - CTCP",
-        "NopNganSach": 1307,
+        "TaxPaid": 1307,
         "Link": "/hastc/IDC-tong-cong-ty-idico-ctcp.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -722,7 +722,7 @@
     {
         "Ranking": 91,
         "CompanyName": "Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP",
-        "NopNganSach": 1229.7,
+        "TaxPaid": 1229.7,
         "Link": "/hose/BCM-tong-cong-ty-dau-tu-va-phat-trien-cong-nghiep-ctcp.chn",
         "Industry": "Bất động sản",
         "Type": "SOE"
@@ -730,7 +730,7 @@
     {
         "Ranking": 92,
         "CompanyName": "Công ty cổ phần Đầu tư Thế giới Di động",
-        "NopNganSach": 1168.2,
+        "TaxPaid": 1168.2,
         "Link": "/hose/MWG-cong-ty-co-phan-dau-tu-the-gioi-di-dong.chn",
         "Industry": "Bán lẻ",
         "Type": "Private"
@@ -738,7 +738,7 @@
     {
         "Ranking": 93,
         "CompanyName": "Công ty TNHH Hyosung Việt Nam",
-        "NopNganSach": 1164,
+        "TaxPaid": 1164,
         "Link": "/otc/HYOSUNGVN-cong-ty-tnhh-hyosung-viet-nam.chn",
         "Industry": "Hóa chất",
         "Type": "Foreign"
@@ -746,7 +746,7 @@
     {
         "Ranking": 94,
         "CompanyName": "Công ty TNHH điện Nghi Sơn 2",
-        "NopNganSach": 1148,
+        "TaxPaid": 1148,
         "Link": "/otc/NS2PC-cong-ty-tnhh-dien-nghi-son-2.chn",
         "Industry": "Điện năng",
         "Type": "Foreign"
@@ -754,7 +754,7 @@
     {
         "Ranking": 95,
         "CompanyName": "CTCP Bia Sài Gòn - Miền Trung",
-        "NopNganSach": 1141.6,
+        "TaxPaid": 1141.6,
         "Link": "/hose/SMB-ctcp-bia-sai-gon-mien-trung.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -762,7 +762,7 @@
     {
         "Ranking": 96,
         "CompanyName": "CTCP VNG",
-        "NopNganSach": 1132.5,
+        "TaxPaid": 1132.5,
         "Link": "/upcom/VNZ-ctcp-vng.chn",
         "Industry": "Công nghệ - Viễn thông",
         "Type": "Private"
@@ -770,7 +770,7 @@
     {
         "Ranking": 97,
         "CompanyName": "Ngân hàng TMCP Phương Đông",
-        "NopNganSach": 1101.2,
+        "TaxPaid": 1101.2,
         "Link": "/hose/OCB-ngan-hang-tmcp-phuong-dong.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -778,7 +778,7 @@
     {
         "Ranking": 98,
         "CompanyName": "Ngân hàng TMCP Đông Nam Á",
-        "NopNganSach": 1088.45,
+        "TaxPaid": 1088.45,
         "Link": "/hose/SSB-ngan-hang-tmcp-dong-nam-a.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -786,7 +786,7 @@
     {
         "Ranking": 99,
         "CompanyName": "Công ty Cổ phần PVI",
-        "NopNganSach": 1076,
+        "TaxPaid": 1076,
         "Link": "/hastc/PVI-cong-ty-co-phan-pvi.chn",
         "Industry": "Bảo hiểm",
         "Type": "Foreign"
@@ -794,7 +794,7 @@
     {
         "Ranking": 100,
         "CompanyName": "CTCP TẬP ĐOÀN VAS NGHI SƠN",
-        "NopNganSach": 1072,
+        "TaxPaid": 1072,
         "Link": "/otc/VASNS-ctcp-tap-doan-vas-nghi-son.chn",
         "Industry": "Thép",
         "Type": "Private"
@@ -802,7 +802,7 @@
     {
         "Ranking": 101,
         "CompanyName": "Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh",
-        "NopNganSach": 1070,
+        "TaxPaid": 1070,
         "Link": "/otc/SAIGONPETRO-cong-ty-tnhh-mtv-dau-khi-thanh-pho-ho-chi-minh.chn",
         "Industry": "Xăng dầu",
         "Type": "SOE"
@@ -810,7 +810,7 @@
     {
         "Ranking": 102,
         "CompanyName": "CTCP Chứng khoán SSI",
-        "NopNganSach": 1063.3,
+        "TaxPaid": 1063.3,
         "Link": "/hose/SSI-ctcp-chung-khoan-ssi.chn",
         "Industry": "Chứng khoán",
         "Type": "Private"
@@ -818,7 +818,7 @@
     {
         "Ranking": 103,
         "CompanyName": "CTCP Tập đoàn Hoa Sen",
-        "NopNganSach": 1041.9,
+        "TaxPaid": 1041.9,
         "Link": "/hose/HSG-ctcp-tap-doan-hoa-sen.chn",
         "Industry": "Thép",
         "Type": "Private"
@@ -826,7 +826,7 @@
     {
         "Ranking": 104,
         "CompanyName": "CTCP Đầu tư và Kinh doanh nhà Khang Điền",
-        "NopNganSach": 1036.48,
+        "TaxPaid": 1036.48,
         "Link": "/hose/KDH-ctcp-dau-tu-va-kinh-doanh-nha-khang-dien.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -834,7 +834,7 @@
     {
         "Ranking": 105,
         "CompanyName": "CTCP Đường Quảng Ngãi",
-        "NopNganSach": 986,
+        "TaxPaid": 986,
         "Link": "/upcom/QNS-ctcp-duong-quang-ngai.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -842,7 +842,7 @@
     {
         "Ranking": 106,
         "CompanyName": "Công ty TNHH Bảo hiểm Nhân thọ Dai-ichi Việt Nam",
-        "NopNganSach": 950.3,
+        "TaxPaid": 950.3,
         "Link": "/otc/DAIICHILIFE-cong-ty-tnhh-bao-hiem-nhan-tho-daiichi-viet-nam.chn",
         "Industry": "Bảo hiểm",
         "Type": "Foreign"
@@ -850,7 +850,7 @@
     {
         "Ranking": 107,
         "CompanyName": "CTCP Chứng khoán VNDirect",
-        "NopNganSach": 922,
+        "TaxPaid": 922,
         "Link": "/hose/VND-ctcp-chung-khoan-vndirect.chn",
         "Industry": "Chứng khoán",
         "Type": "Private"
@@ -858,7 +858,7 @@
     {
         "Ranking": 108,
         "CompanyName": "Tổng Công ty Hàng hải Việt Nam - CTCP",
-        "NopNganSach": 881.38,
+        "TaxPaid": 881.38,
         "Link": "/upcom/MVN-tong-cong-ty-hang-hai-viet-nam-ctcp.chn",
         "Industry": "Logistics",
         "Type": "SOE"
@@ -866,7 +866,7 @@
     {
         "Ranking": 109,
         "CompanyName": "Tổng Công ty Du lịch Sài Gòn - TNHH Một thành viên",
-        "NopNganSach": 879.2,
+        "TaxPaid": 879.2,
         "Link": "/otc/SAIGONTOURIST-tong-cong-ty-du-lich-sai-gon-tnhh-mot-thanh-vien.chn",
         "Industry": "Du lịch",
         "Type": "SOE"
@@ -874,7 +874,7 @@
     {
         "Ranking": 110,
         "CompanyName": "CTCP Gemadept",
-        "NopNganSach": 879,
+        "TaxPaid": 879,
         "Link": "/hose/GMD-ctcp-gemadept.chn",
         "Industry": "Logistics",
         "Type": "Private"
@@ -882,7 +882,7 @@
     {
         "Ranking": 111,
         "CompanyName": "Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP",
-        "NopNganSach": 868.8,
+        "TaxPaid": 868.8,
         "Link": "/upcom/PRT-tong-cong-ty-san-xuat-xuat-nhap-khau-binh-duong-ctcp.chn",
         "Industry": "Bất động sản, thương mại",
         "Type": "SOE"
@@ -890,7 +890,7 @@
     {
         "Ranking": 112,
         "CompanyName": "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu",
-        "NopNganSach": 839,
+        "TaxPaid": 839,
         "Link": "/hose/PSH-ctcp-thuong-mai-dau-tu-dau-khi-nam-song-hau.chn",
         "Industry": "Xăng dầu",
         "Type": "Private"
@@ -898,7 +898,7 @@
     {
         "Ranking": 113,
         "CompanyName": "Công ty TNHH Nestlé Việt Nam",
-        "NopNganSach": 828,
+        "TaxPaid": 828,
         "Link": "/otc/NESTLE-cong-ty-tnhh-nestle-viet-nam.chn",
         "Industry": "F&B",
         "Type": "Foreign"
@@ -906,7 +906,7 @@
     {
         "Ranking": 114,
         "CompanyName": "CTCP Hàng không VietJet",
-        "NopNganSach": 798.5,
+        "TaxPaid": 798.5,
         "Link": "/hose/VJC-ctcp-hang-khong-vietjet.chn",
         "Industry": "Hàng không",
         "Type": "Private"
@@ -914,7 +914,7 @@
     {
         "Ranking": 115,
         "CompanyName": "Công Ty CP Đầu tư tập đoàn Tân Á Đại Thành",
-        "NopNganSach": 797.3,
+        "TaxPaid": 797.3,
         "Link": "/otc/TADT-cong-ty-cp-dau-tu-tap-doan-tan-a-dai-thanh.chn",
         "Industry": "Hàng gia dụng, Bất động sản",
         "Type": "Private"
@@ -922,7 +922,7 @@
     {
         "Ranking": 116,
         "CompanyName": "Công ty TNHH Hưng Nghiệp Formosa",
-        "NopNganSach": 776,
+        "TaxPaid": 776,
         "Link": "",
         "Industry": "0",
         "Type": "Foreign"
@@ -930,7 +930,7 @@
     {
         "Ranking": 117,
         "CompanyName": "Công ty TNHH Hyosung Đồng Nai",
-        "NopNganSach": 776,
+        "TaxPaid": 776,
         "Link": "/otc/HYOSUNGDN-cong-ty-tnhh-hyosung-dong-nai.chn",
         "Industry": "0",
         "Type": "Foreign"
@@ -938,7 +938,7 @@
     {
         "Ranking": 118,
         "CompanyName": "Ngân hàng TMCP Xuất nhập khẩu Việt Nam",
-        "NopNganSach": 765.7,
+        "TaxPaid": 765.7,
         "Link": "/hose/EIB-ngan-hang-tmcp-xuat-nhap-khau-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -946,7 +946,7 @@
     {
         "Ranking": 119,
         "CompanyName": "Tổng Công ty Đường sắt Việt Nam",
-        "NopNganSach": 752.3,
+        "TaxPaid": 752.3,
         "Link": "/otc/VNRAILWAYS-tong-cong-ty-duong-sat-viet-nam.chn",
         "Industry": "Vận tải",
         "Type": "SOE"
@@ -954,7 +954,7 @@
     {
         "Ranking": 120,
         "CompanyName": "CTCP Tập đoàn Đầu tư Địa ốc No Va",
-        "NopNganSach": 738.8,
+        "TaxPaid": 738.8,
         "Link": "/hose/NVL-ctcp-tap-doan-dau-tu-dia-oc-no-va.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -962,7 +962,7 @@
     {
         "Ranking": 121,
         "CompanyName": "CTCP Tập đoàn Hóa chất Đức Giang",
-        "NopNganSach": 728.6,
+        "TaxPaid": 728.6,
         "Link": "/hose/DGC-ctcp-tap-doan-hoa-chat-duc-giang.chn",
         "Industry": "Hóa chất",
         "Type": "Private"
@@ -970,7 +970,7 @@
     {
         "Ranking": 122,
         "CompanyName": "Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam",
-        "NopNganSach": 722.7,
+        "TaxPaid": 722.7,
         "Link": "/hose/VCG-tong-ctcp-xuat-nhap-khau-va-xay-dung-viet-nam.chn",
         "Industry": "Xây dựng - Bất động sản",
         "Type": "Private"
@@ -978,7 +978,7 @@
     {
         "Ranking": 123,
         "CompanyName": "Công ty TNHH LG Display Việt Nam Hải Phòng",
-        "NopNganSach": 722,
+        "TaxPaid": 722,
         "Link": "/otc/LGDVHP-cong-ty-tnhh-lg-display-viet-nam-hai-phong.chn",
         "Industry": "Điện tử",
         "Type": "Foreign"
@@ -986,7 +986,7 @@
     {
         "Ranking": 124,
         "CompanyName": "CTCP Tập đoàn Gelex",
-        "NopNganSach": 700.6,
+        "TaxPaid": 700.6,
         "Link": "/hose/GEX-ctcp-tap-doan-gelex.chn",
         "Industry": "Thiết bị điện, Bất động sản",
         "Type": "Private"
@@ -994,7 +994,7 @@
     {
         "Ranking": 125,
         "CompanyName": "Ngân hàng TMCP Nam Á",
-        "NopNganSach": 693,
+        "TaxPaid": 693,
         "Link": "/hose/NAB-ngan-hang-tmcp-nam-a.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -1002,7 +1002,7 @@
     {
         "Ranking": 126,
         "CompanyName": "Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam",
-        "NopNganSach": 688.5,
+        "TaxPaid": 688.5,
         "Link": "/otc/PRUDENTIAL-cong-ty-tnhh-bao-hiem-nhan-tho-prudential-viet-nam.chn",
         "Industry": "Bảo hiểm",
         "Type": "Foreign"
@@ -1010,7 +1010,7 @@
     {
         "Ranking": 127,
         "CompanyName": "Công ty TNHH Chứng khoán Mirae Asset (Việt Nam)",
-        "NopNganSach": 672.4,
+        "TaxPaid": 672.4,
         "Link": "",
         "Industry": "Chứng khoán",
         "Type": "Foreign"
@@ -1018,7 +1018,7 @@
     {
         "Ranking": 128,
         "CompanyName": "Tổng Công ty Sông Đà - Công ty cổ phần",
-        "NopNganSach": 672.1,
+        "TaxPaid": 672.1,
         "Link": "/upcom/SJG-tong-cong-ty-song-da-cong-ty-co-phan.chn",
         "Industry": "Xây dựng",
         "Type": "SOE"
@@ -1026,7 +1026,7 @@
     {
         "Ranking": 129,
         "CompanyName": "Công ty TNHH Bảo hiểm Nhân thọ AIA Việt Nam",
-        "NopNganSach": 654.9,
+        "TaxPaid": 654.9,
         "Link": "/otc/AIAL-cong-ty-tnhh-bao-hiem-nhan-tho-aia-viet-nam.chn",
         "Industry": "Bảo hiểm",
         "Type": "Foreign"
@@ -1034,7 +1034,7 @@
     {
         "Ranking": 130,
         "CompanyName": "Tổng Công ty Thép Việt Nam - CTCP",
-        "NopNganSach": 642.7,
+        "TaxPaid": 642.7,
         "Link": "/upcom/TVN-tong-cong-ty-thep-viet-nam-ctcp.chn",
         "Industry": "Thép",
         "Type": "SOE"
@@ -1042,7 +1042,7 @@
     {
         "Ranking": 131,
         "CompanyName": "Công ty TNHH Piaggio Việt Nam",
-        "NopNganSach": 640,
+        "TaxPaid": 640,
         "Link": "/otc/PIAGGIO-cong-ty-tnhh-piaggio-viet-nam.chn",
         "Industry": "Ô tô",
         "Type": "Foreign"
@@ -1050,7 +1050,7 @@
     {
         "Ranking": 132,
         "CompanyName": "CTCP Bia Sài Gòn - Vĩnh Long",
-        "NopNganSach": 611.6,
+        "TaxPaid": 611.6,
         "Link": "/otc/BSGVL-ctcp-bia-sai-gon-vinh-long.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -1058,7 +1058,7 @@
     {
         "Ranking": 133,
         "CompanyName": "Tổng Công ty Cổ phần phát triển khu Công nghiệp",
-        "NopNganSach": 608.2,
+        "TaxPaid": 608.2,
         "Link": "/upcom/SNZ-tong-cong-ty-co-phan-phat-trien-khu-cong-nghiep.chn",
         "Industry": "Bất động sản",
         "Type": "SOE"
@@ -1066,7 +1066,7 @@
     {
         "Ranking": 134,
         "CompanyName": "CTCP Tập đoàn PC1",
-        "NopNganSach": 607.6,
+        "TaxPaid": 607.6,
         "Link": "/hose/PC1-ctcp-tap-doan-pc1.chn",
         "Industry": "Điện năng",
         "Type": "Private"
@@ -1074,7 +1074,7 @@
     {
         "Ranking": 135,
         "CompanyName": "CTCP Đầu tư và Phát triển Bất động sản An Gia",
-        "NopNganSach": 605.6,
+        "TaxPaid": 605.6,
         "Link": "/hose/AGG-ctcp-dau-tu-va-phat-trien-bat-dong-san-an-gia.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1082,7 +1082,7 @@
     {
         "Ranking": 136,
         "CompanyName": "Công ty cổ phần Stavian Hóa chất",
-        "NopNganSach": 600.9,
+        "TaxPaid": 600.9,
         "Link": "/otc/STAVIANCHEM-cong-ty-co-phan-stavian-hoa-chat.chn",
         "Industry": "Nhựa, Hóa chất",
         "Type": "Private"
@@ -1090,7 +1090,7 @@
     {
         "Ranking": 137,
         "CompanyName": "CTCP Chứng khoán Tp.HCM",
-        "NopNganSach": 568.8,
+        "TaxPaid": 568.8,
         "Link": "/hose/HCM-ctcp-chung-khoan-tphcm.chn",
         "Industry": "Chứng khoán",
         "Type": "Private"
@@ -1098,7 +1098,7 @@
     {
         "Ranking": 138,
         "CompanyName": "CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát",
-        "NopNganSach": 556.7,
+        "TaxPaid": 556.7,
         "Link": "/hose/VPG-ctcp-dau-tu-thuong-mai-xuat-nhap-khau-viet-phat.chn",
         "Industry": "Than",
         "Type": "Private"
@@ -1106,7 +1106,7 @@
     {
         "Ranking": 139,
         "CompanyName": "CTCP Bia và nước giải khát Hạ Long",
-        "NopNganSach": 549.6,
+        "TaxPaid": 549.6,
         "Link": "/upcom/HLB-ctcp-bia-va-nuoc-giai-khat-ha-long.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -1114,7 +1114,7 @@
     {
         "Ranking": 140,
         "CompanyName": "Công ty TNHH Nhà nước MTV Yến sào Khánh Hòa",
-        "NopNganSach": 540.75,
+        "TaxPaid": 540.75,
         "Link": "/otc/YSKH-cong-ty-tnhh-nha-nuoc-mtv-yen-sao-khanh-hoa.chn",
         "Industry": "F&B",
         "Type": "SOE"
@@ -1122,7 +1122,7 @@
     {
         "Ranking": 141,
         "CompanyName": "CTCP Bia Sài Gòn - Bến Tre",
-        "NopNganSach": 539.9,
+        "TaxPaid": 539.9,
         "Link": "/otc/BSGBT-ctcp-bia-sai-gon-ben-tre.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -1130,7 +1130,7 @@
     {
         "Ranking": 142,
         "CompanyName": "CTCP Tập đoàn C.E.O",
-        "NopNganSach": 534.56,
+        "TaxPaid": 534.56,
         "Link": "/hastc/CEO-ctcp-tap-doan-ceo.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1138,7 +1138,7 @@
     {
         "Ranking": 143,
         "CompanyName": "CTCP Đầu tư Nam Long",
-        "NopNganSach": 531.2,
+        "TaxPaid": 531.2,
         "Link": "/hose/NLG-ctcp-dau-tu-nam-long.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1146,7 +1146,7 @@
     {
         "Ranking": 144,
         "CompanyName": "Công ty Liên doanh thuốc lá BAT - Vinataba",
-        "NopNganSach": 523,
+        "TaxPaid": 523,
         "Link": "/otc/BATVINATABA-cong-ty-lien-doanh-thuoc-la-bat-vinataba.chn",
         "Industry": "Thuốc lá",
         "Type": "Foreign"
@@ -1154,7 +1154,7 @@
     {
         "Ranking": 145,
         "CompanyName": "Tổng Công ty Đầu tư Phát triển nhà và Đô thị-Công ty TNHH",
-        "NopNganSach": 512.9,
+        "TaxPaid": 512.9,
         "Link": "/otc/HUDX-tong-cong-ty-dau-tu-phat-trien-nha-va-do-thicong-ty-tnhh.chn",
         "Industry": "Bất động sản",
         "Type": "SOE"
@@ -1162,7 +1162,7 @@
     {
         "Ranking": 146,
         "CompanyName": "Tổng CTCP Dịch vụ Tổng hợp Dầu khí",
-        "NopNganSach": 507.6,
+        "TaxPaid": 507.6,
         "Link": "/hose/PET-tong-ctcp-dich-vu-tong-hop-dau-khi.chn",
         "Industry": "Phân phối - Bán lẻ",
         "Type": "Private"
@@ -1170,7 +1170,7 @@
     {
         "Ranking": 147,
         "CompanyName": "CTCP Bóng đèn Phích nước Rạng Đông",
-        "NopNganSach": 503.2,
+        "TaxPaid": 503.2,
         "Link": "/hose/RAL-ctcp-bong-den-phich-nuoc-rang-dong.chn",
         "Industry": "Hàng gia dụng",
         "Type": "Private"
@@ -1178,7 +1178,7 @@
     {
         "Ranking": 148,
         "CompanyName": "Công ty Cổ phần Nhựa Bình Minh ",
-        "NopNganSach": 500.3,
+        "TaxPaid": 500.3,
         "Link": "/hose/BMP-cong-ty-co-phan-nhua-binh-minh.chn",
         "Industry": "Vật liệu xây dựng",
         "Type": "Foreign"
@@ -1186,7 +1186,7 @@
     {
         "Ranking": 149,
         "CompanyName": "CTCP Thành Thành Công - Biên Hòa",
-        "NopNganSach": 496.2,
+        "TaxPaid": 496.2,
         "Link": "/hose/SBT-ctcp-thanh-thanh-cong-bien-hoa.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -1194,7 +1194,7 @@
     {
         "Ranking": 150,
         "CompanyName": "Công ty Ajinomoto Việt Nam",
-        "NopNganSach": 494,
+        "TaxPaid": 494,
         "Link": "/otc/AJINOMOTO-cong-ty-ajinomoto-viet-nam.chn",
         "Industry": "F&B",
         "Type": "Foreign"
@@ -1202,7 +1202,7 @@
     {
         "Ranking": 151,
         "CompanyName": "CTCP Tập đoàn Hà Đô",
-        "NopNganSach": 473.9,
+        "TaxPaid": 473.9,
         "Link": "/hose/HDG-ctcp-tap-doan-ha-do.chn",
         "Industry": "Bất động sản, Power",
         "Type": "Private"
@@ -1210,7 +1210,7 @@
     {
         "Ranking": 152,
         "CompanyName": "Tập đoàn Dệt may Việt Nam",
-        "NopNganSach": 471.3,
+        "TaxPaid": 471.3,
         "Link": "/upcom/VGT-tap-doan-det-may-viet-nam.chn",
         "Industry": "Dệt may",
         "Type": "SOE"
@@ -1218,7 +1218,7 @@
     {
         "Ranking": 153,
         "CompanyName": "CTCP Tập đoàn Kido",
-        "NopNganSach": 469.7,
+        "TaxPaid": 469.7,
         "Link": "/hose/KDC-ctcp-tap-doan-kido.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -1226,7 +1226,7 @@
     {
         "Ranking": 154,
         "CompanyName": "CTCP Ống thép Việt Đức",
-        "NopNganSach": 448.3,
+        "TaxPaid": 448.3,
         "Link": "/hastc/VGS-ctcp-ong-thep-viet-duc.chn",
         "Industry": "Thép",
         "Type": "Private"
@@ -1234,7 +1234,7 @@
     {
         "Ranking": 155,
         "CompanyName": "Công ty Cổ phần Tập đoàn Công nghệ CMC",
-        "NopNganSach": 443,
+        "TaxPaid": 443,
         "Link": "/hose/CMG-cong-ty-co-phan-tap-doan-cong-nghe-cmc.chn",
         "Industry": "Công nghệ - Viễn thông",
         "Type": "Private"
@@ -1242,7 +1242,7 @@
     {
         "Ranking": 156,
         "CompanyName": "Công ty TNHH Samsung Electro- Mechanics Việt Nam",
-        "NopNganSach": 442.5,
+        "TaxPaid": 442.5,
         "Link": "/otc/SEMV-cong-ty-tnhh-samsung-electromechanics-viet-nam.chn",
         "Industry": "Điện tử",
         "Type": "Foreign"
@@ -1250,7 +1250,7 @@
     {
         "Ranking": 157,
         "CompanyName": "CTCP Thương mại Dịch vụ Cổng Vàng",
-        "NopNganSach": 439.3,
+        "TaxPaid": 439.3,
         "Link": "/otc/GOLDENGATE-ctcp-thuong-mai-dich-vu-cong-vang.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -1258,7 +1258,7 @@
     {
         "Ranking": 158,
         "CompanyName": "Tổng CTCP Bảo hiểm Bưu điện",
-        "NopNganSach": 436.6,
+        "TaxPaid": 436.6,
         "Link": "/hastc/PTI-tong-ctcp-bao-hiem-buu-dien.chn",
         "Industry": "Bảo hiểm",
         "Type": "Private"
@@ -1266,7 +1266,7 @@
     {
         "Ranking": 159,
         "CompanyName": "Công ty TNHH MTV Phát triển Công nghiệp Tân Thuận",
-        "NopNganSach": 435.8,
+        "TaxPaid": 435.8,
         "Link": "/otc/TTIPC-cong-ty-tnhh-mtv-phat-trien-cong-nghiep-tan-thuan.chn",
         "Industry": "Bất động sản",
         "Type": "SOE"
@@ -1274,7 +1274,7 @@
     {
         "Ranking": 160,
         "CompanyName": "Tổng Công ty lưu ký và bù trừ Chứng khoán Việt Nam",
-        "NopNganSach": 426.3,
+        "TaxPaid": 426.3,
         "Link": "/otc/VSDC-tong-cong-ty-luu-ky-va-bu-tru-chung-khoan-viet-nam.chn",
         "Industry": "Tài chính",
         "Type": "SOE"
@@ -1282,7 +1282,7 @@
     {
         "Ranking": 161,
         "CompanyName": "CTCP Chứng khoán VietCap",
-        "NopNganSach": 419.2,
+        "TaxPaid": 419.2,
         "Link": "/hose/VCI-ctcp-chung-khoan-vietcap.chn",
         "Industry": "Chứng khoán",
         "Type": "Private"
@@ -1290,7 +1290,7 @@
     {
         "Ranking": 162,
         "CompanyName": "Công ty cổ phần TKG TaeKwang Vina",
-        "NopNganSach": 417,
+        "TaxPaid": 417,
         "Link": "/otc/TKGVINA-cong-ty-co-phan-tkg-taekwang-vina.chn",
         "Industry": "Dệt may",
         "Type": "Foreign"
@@ -1298,7 +1298,7 @@
     {
         "Ranking": 163,
         "CompanyName": "CTCP Chăn nuôi C.P Việt Nam",
-        "NopNganSach": 416,
+        "TaxPaid": 416,
         "Link": "/otc/CPVN-ctcp-chan-nuoi-cp-viet-nam.chn",
         "Industry": "Nông nghiệp",
         "Type": "Foreign"
@@ -1306,7 +1306,7 @@
     {
         "Ranking": 164,
         "CompanyName": "CTCP Tập đoàn An Phát Holdings",
-        "NopNganSach": 415,
+        "TaxPaid": 415,
         "Link": "/hose/APH-ctcp-tap-doan-an-phat-holdings.chn",
         "Industry": "Nguyên vật liệu",
         "Type": "Private"
@@ -1314,7 +1314,7 @@
     {
         "Ranking": 165,
         "CompanyName": "CTCP Tập đoàn Bamboo Capital",
-        "NopNganSach": 414.2,
+        "TaxPaid": 414.2,
         "Link": "/hose/BCG-ctcp-tap-doan-bamboo-capital.chn",
         "Industry": "Điện năng, Bất động sản",
         "Type": "Private"
@@ -1322,7 +1322,7 @@
     {
         "Ranking": 166,
         "CompanyName": "CTCP Bia Sài Gòn - Kiên Giang",
-        "NopNganSach": 400.1,
+        "TaxPaid": 400.1,
         "Link": "/otc/BSGKG-ctcp-bia-sai-gon-kien-giang.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -1330,7 +1330,7 @@
     {
         "Ranking": 167,
         "CompanyName": "CTCP Vĩnh Hoàn",
-        "NopNganSach": 397.7,
+        "TaxPaid": 397.7,
         "Link": "/hose/VHC-ctcp-vinh-hoan.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -1338,7 +1338,7 @@
     {
         "Ranking": 168,
         "CompanyName": "Công ty Cổ phần Nguyên liệu Á Châu AIG",
-        "NopNganSach": 385.7,
+        "TaxPaid": 385.7,
         "Link": "/otc/AIG-cong-ty-co-phan-nguyen-lieu-a-chau-aig.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -1346,7 +1346,7 @@
     {
         "Ranking": 169,
         "CompanyName": "Công ty cổ phần Phát triển Bất động sản Phát Đạt",
-        "NopNganSach": 384.2,
+        "TaxPaid": 384.2,
         "Link": "/hose/PDR-cong-ty-co-phan-phat-trien-bat-dong-san-phat-dat.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1354,7 +1354,7 @@
     {
         "Ranking": 170,
         "CompanyName": "Ngân hàng TMCP An Bình",
-        "NopNganSach": 367.3,
+        "TaxPaid": 367.3,
         "Link": "/upcom/ABB-ngan-hang-tmcp-an-binh.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -1362,7 +1362,7 @@
     {
         "Ranking": 171,
         "CompanyName": "Tổng Công ty Đầu tư và phát triển Nhà Hà Nội",
-        "NopNganSach": 352.75,
+        "TaxPaid": 352.75,
         "Link": "/otc/HANDICO-tong-cong-ty-dau-tu-va-phat-trien-nha-ha-noi.chn",
         "Industry": "Bất động sản",
         "Type": "SOE"
@@ -1370,7 +1370,7 @@
     {
         "Ranking": 172,
         "CompanyName": "Ngân hàng TNHH MTV Woori Việt Nam",
-        "NopNganSach": 352.7,
+        "TaxPaid": 352.7,
         "Link": "/otc/WOORIBANK-ngan-hang-tnhh-mtv-woori-viet-nam.chn",
         "Industry": "Ngân hàng",
         "Type": "Foreign"
@@ -1378,7 +1378,7 @@
     {
         "Ranking": 173,
         "CompanyName": "Công ty Cổ phần Dược Hậu Giang",
-        "NopNganSach": 349.8,
+        "TaxPaid": 349.8,
         "Link": "/hose/DHG-cong-ty-co-phan-duoc-hau-giang.chn",
         "Industry": "Y tế",
         "Type": "Foreign"
@@ -1386,7 +1386,7 @@
     {
         "Ranking": 174,
         "CompanyName": "CTCP Sữa Quốc tế LOF",
-        "NopNganSach": 346.9,
+        "TaxPaid": 346.9,
         "Link": "/upcom/IDP-ctcp-sua-quoc-te-lof.chn",
         "Industry": "F&B",
         "Type": "Private"
@@ -1394,7 +1394,7 @@
     {
         "Ranking": 175,
         "CompanyName": "CTCP Đầu tư và Xây dựng số 18",
-        "NopNganSach": 345.5,
+        "TaxPaid": 345.5,
         "Link": "/hastc/L18-ctcp-dau-tu-va-xay-dung-so-18.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1402,7 +1402,7 @@
     {
         "Ranking": 176,
         "CompanyName": "CTCP Bia - Nước giải khát Sài Gòn - Tây Đô",
-        "NopNganSach": 342.66,
+        "TaxPaid": 342.66,
         "Link": "/upcom/STD-ctcp-bia-nuoc-giai-khat-sai-gon-tay-do.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -1410,7 +1410,7 @@
     {
         "Ranking": 177,
         "CompanyName": "CTCP Bia Sài Gòn - Phú Thọ",
-        "NopNganSach": 341.5,
+        "TaxPaid": 341.5,
         "Link": "/upcom/BSP-ctcp-bia-sai-gon-phu-tho.chn",
         "Industry": "F&B/Bia rượu",
         "Type": "Private"
@@ -1418,7 +1418,7 @@
     {
         "Ranking": 178,
         "CompanyName": "Công ty TNHH MTV Nhà xuất bản Giáo dục Việt Nam",
-        "NopNganSach": 339,
+        "TaxPaid": 339,
         "Link": "/otc/NXBGD-cong-ty-tnhh-mtv-nha-xuat-ban-giao-duc-viet-nam.chn",
         "Industry": "Xuất bản",
         "Type": "SOE"
@@ -1426,7 +1426,7 @@
     {
         "Ranking": 179,
         "CompanyName": "CTCP Tập đoàn Đất Xanh",
-        "NopNganSach": 333,
+        "TaxPaid": 333,
         "Link": "/hose/DXG-ctcp-tap-doan-dat-xanh.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1434,7 +1434,7 @@
     {
         "Ranking": 180,
         "CompanyName": "Ngân hàng TMCP Bắc Á",
-        "NopNganSach": 331.2,
+        "TaxPaid": 331.2,
         "Link": "/hastc/BAB-ngan-hang-tmcp-bac-a.chn",
         "Industry": "Ngân hàng",
         "Type": "Private"
@@ -1442,7 +1442,7 @@
     {
         "Ranking": 181,
         "CompanyName": "CTCP Tập đoàn Thiên Long",
-        "NopNganSach": 326.9,
+        "TaxPaid": 326.9,
         "Link": "/hose/TLG-ctcp-tap-doan-thien-long.chn",
         "Industry": "Hàng tiêu dùng",
         "Type": "Private"
@@ -1450,7 +1450,7 @@
     {
         "Ranking": 182,
         "CompanyName": "CTCP Đầu tư Phát triển máy Việt Nam",
-        "NopNganSach": 325.4,
+        "TaxPaid": 325.4,
         "Link": "/upcom/VVS-ctcp-dau-tu-phat-trien-may-viet-nam.chn",
         "Industry": "Ô tô",
         "Type": "Private"
@@ -1458,7 +1458,7 @@
     {
         "Ranking": 183,
         "CompanyName": "CTCP Gỗ An Cường",
-        "NopNganSach": 324.8,
+        "TaxPaid": 324.8,
         "Link": "/hose/ACG-ctcp-go-an-cuong.chn",
         "Industry": "Vật liệu xây dựng",
         "Type": "Private"
@@ -1466,7 +1466,7 @@
     {
         "Ranking": 184,
         "CompanyName": "Công ty TNHH MTV Nước sạch Hà Nội",
-        "NopNganSach": 323.66,
+        "TaxPaid": 323.66,
         "Link": "/otc/HAWACO-cong-ty-tnhh-mtv-nuoc-sach-ha-noi.chn",
         "Industry": "Cấp thoát nước",
         "Type": "SOE"
@@ -1474,7 +1474,7 @@
     {
         "Ranking": 185,
         "CompanyName": "Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam",
-        "NopNganSach": 316.77,
+        "TaxPaid": 316.77,
         "Link": "/otc/CHUBB-cong-ty-tnhh-bao-hiem-nhan-tho-chubb-viet-nam.chn",
         "Industry": "Bảo hiểm",
         "Type": "Foreign"
@@ -1482,7 +1482,7 @@
     {
         "Ranking": 186,
         "CompanyName": "Công ty TNHH bảo hiểm Hanwha Life Việt Nam",
-        "NopNganSach": 314.3,
+        "TaxPaid": 314.3,
         "Link": "/otc/HANWHALIFE-cong-ty-tnhh-bao-hiem-hanwha-life-viet-nam.chn",
         "Industry": "Bảo hiểm",
         "Type": "Foreign"
@@ -1490,7 +1490,7 @@
     {
         "Ranking": 187,
         "CompanyName": "Công ty TNHH MTV Xổ sổ kiến thiết Khánh Hoà",
-        "NopNganSach": 311.2,
+        "TaxPaid": 311.2,
         "Link": "/otc/XSKH-cong-ty-tnhh-mtv-xo-so-kien-thiet-khanh-hoa.chn",
         "Industry": "Xổ số",
         "Type": "SOE"
@@ -1498,7 +1498,7 @@
     {
         "Ranking": 188,
         "CompanyName": "CTCP Đầu tư Sài Gòn VRG",
-        "NopNganSach": 307.7,
+        "TaxPaid": 307.7,
         "Link": "/hose/SIP-ctcp-dau-tu-sai-gon-vrg.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1506,7 +1506,7 @@
     {
         "Ranking": 189,
         "CompanyName": "Tổng Công ty Phát triển đô thị Kinh Bắc - CTCP",
-        "NopNganSach": 306.5,
+        "TaxPaid": 306.5,
         "Link": "/hose/KBC-tong-cong-ty-phat-trien-do-thi-kinh-bac-ctcp.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1514,7 +1514,7 @@
     {
         "Ranking": 190,
         "CompanyName": "Công ty cổ phần tập đoàn Long Thuận",
-        "NopNganSach": 306,
+        "TaxPaid": 306,
         "Link": "/otc/LONGTHUAN-cong-ty-co-phan-tap-doan-long-thuan.chn",
         "Industry": "Than",
         "Type": "Private"
@@ -1522,7 +1522,7 @@
     {
         "Ranking": 191,
         "CompanyName": "Tổng CTCP Bảo hiểm Petrolimex",
-        "NopNganSach": 304.6,
+        "TaxPaid": 304.6,
         "Link": "/hose/PGI-tong-ctcp-bao-hiem-petrolimex.chn",
         "Industry": "Bảo hiểm",
         "Type": "Private"
@@ -1530,7 +1530,7 @@
     {
         "Ranking": 192,
         "CompanyName": "Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP",
-        "NopNganSach": 303.1,
+        "TaxPaid": 303.1,
         "Link": "/upcom/VEA-tong-cong-ty-may-dong-luc-va-may-nong-nghiep-viet-nam-ctcp.chn",
         "Industry": "Ô tô",
         "Type": "SOE"
@@ -1538,7 +1538,7 @@
     {
         "Ranking": 193,
         "CompanyName": "CTCP – Tổng Công ty Nước – Môi trường Bình Dương",
-        "NopNganSach": 302.5,
+        "TaxPaid": 302.5,
         "Link": "/hose/BWE-ctcp-tong-cong-ty-nuoc-moi-truong-binh-duong.chn",
         "Industry": "Cấp thoát nước",
         "Type": "Private"
@@ -1546,7 +1546,7 @@
     {
         "Ranking": 194,
         "CompanyName": "CTCP Phát triển Sunshine Homes",
-        "NopNganSach": 302,
+        "TaxPaid": 302,
         "Link": "/upcom/SSH-ctcp-phat-trien-sunshine-homes.chn",
         "Industry": "Bất động sản - Xây dựng",
         "Type": "Private"
@@ -1554,7 +1554,7 @@
     {
         "Ranking": 195,
         "CompanyName": "CTCP đầu tư hạ tầng kỹ thuật TP. Hồ Chí Minh",
-        "NopNganSach": 296.4,
+        "TaxPaid": 296.4,
         "Link": "/hose/CII-ctcp-dau-tu-ha-tang-ky-thuat-tp-ho-chi-minh.chn",
         "Industry": "Hạ tầng",
         "Type": "Private"
@@ -1562,7 +1562,7 @@
     {
         "Ranking": 196,
         "CompanyName": "CTCP Tasco",
-        "NopNganSach": 296.3,
+        "TaxPaid": 296.3,
         "Link": "/hastc/HUT-ctcp-tasco.chn",
         "Industry": "Ô tô, Hạ tầng",
         "Type": "Private"
@@ -1570,7 +1570,7 @@
     {
         "Ranking": 197,
         "CompanyName": "CTCP Quốc tế Sơn Hà",
-        "NopNganSach": 292.4,
+        "TaxPaid": 292.4,
         "Link": "/hose/SHI-ctcp-quoc-te-son-ha.chn",
         "Industry": "Hàng gia dụng",
         "Type": "Private"
@@ -1578,7 +1578,7 @@
     {
         "Ranking": 198,
         "CompanyName": "CTCP Đầu tư Thương mại SMC",
-        "NopNganSach": 292,
+        "TaxPaid": 292,
         "Link": "/hose/SMC-ctcp-dau-tu-thuong-mai-smc.chn",
         "Industry": "Thép",
         "Type": "Private"
@@ -1586,7 +1586,7 @@
     {
         "Ranking": 199,
         "CompanyName": "Công ty cổ phần chứng khoán HD",
-        "NopNganSach": 289.77,
+        "TaxPaid": 289.77,
         "Link": "/otc/HDBS-cong-ty-co-phan-chung-khoan-hd.chn",
         "Industry": "Chứng khoán",
         "Type": "Private"
@@ -1594,7 +1594,7 @@
     {
         "Ranking": 200,
         "CompanyName": "Công ty cổ phần Chứng khoán KIS Việt Nam",
-        "NopNganSach": 281.1,
+        "TaxPaid": 281.1,
         "Link": "",
         "Industry": "Chứng khoán",
         "Type": "Foreign"

@@ -44,7 +44,7 @@ if __name__ == "__main__":
             {
                 "Ranking": company.get("OrderNumber"),
                 "CompanyName": company.get("ComapnyName"),
-                "NopNganSach": company.get("NopNganSach"),
+                "TaxPaid": company.get("NopNganSach"),
                 "Link": company.get("Link"),
                 "Industry": company.get("Industry"),
                 "Type": company.get("Type"),
@@ -161,6 +161,11 @@ if __name__ == "__main__":
                     len(revenue) == 4
                 )  # Add 'Full Revenue' as a boolean
 
+            # Update the 'Link' field by adding the base URL
+            for company in merged_data:
+                if "Link" in company and company["Link"]:
+                    company["Link"] = f"{BASE_URL}{company['Link']}"
+
             # Save the updated merged data to a new JSON file
             with open("merged_companies.json", "w", encoding="utf-8") as merged_file:
                 json.dump(merged_data, merged_file, ensure_ascii=False, indent=4)
@@ -172,6 +177,13 @@ if __name__ == "__main__":
                 import csv
 
                 csv_file_path = "merged_companies.csv"
+
+                # Adjust the float formatting to remove thousands separators and use ',' as the decimal separator
+                def format_floats(value):
+                    if isinstance(value, float):
+                        return f"{value:.2f}".replace(".", ",")
+                    return value
+
                 with open(csv_file_path, "w", encoding="utf-8", newline="") as csv_file:
                     csv_writer = csv.writer(csv_file)
 
@@ -180,9 +192,11 @@ if __name__ == "__main__":
                         header = merged_data[0].keys()
                         csv_writer.writerow(header)
 
-                    # Write rows
+                    # Write rows with adjusted float formatting
                     for company in merged_data:
-                        csv_writer.writerow(company.values())
+                        csv_writer.writerow(
+                            [format_floats(value) for value in company.values()]
+                        )
 
                 print(f"Merged data has been saved to '{csv_file_path}'.")
             except Exception as e:
@@ -199,6 +213,34 @@ if __name__ == "__main__":
                 print(f"Merged data has been saved to '{excel_file_path}'.")
             except Exception as e:
                 print(f"An error occurred while converting JSON to Excel: {e}")
+
+            # Analyze merged data for Full Earnings, Full Revenue, and Market Cap
+            try:
+                total_companies = len(merged_data)
+
+                full_earnings_count = sum(
+                    1 for company in merged_data if company.get("Full Earnings", False)
+                )
+                full_revenue_count = sum(
+                    1 for company in merged_data if company.get("Full Revenue", False)
+                )
+                market_cap_count = sum(
+                    1 for company in merged_data if company.get("MarketCap") is not None
+                )
+
+                print("Analysis Results:")
+                print(f"Total Companies: {total_companies}")
+                print(
+                    f"Full Earnings: {full_earnings_count} ({(full_earnings_count / total_companies) * 100:.2f}%)"
+                )
+                print(
+                    f"Full Revenue: {full_revenue_count} ({(full_revenue_count / total_companies) * 100:.2f}%)"
+                )
+                print(
+                    f"Market Cap Data: {market_cap_count} ({(market_cap_count / total_companies) * 100:.2f}%)"
+                )
+            except Exception as e:
+                print(f"An error occurred during analysis: {e}")
 
         except Exception as e:
             print(f"An error occurred while merging JSON files: {e}")

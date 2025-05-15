@@ -91,7 +91,7 @@ fs.readdir(htmlDir, (err, files) => {
             const textValues = [];
             marketCapElement.childNodes.forEach((node) => {
               if (node.textContent && node.textContent.trim() != "") {
-                textValues.push(node.textContent.trim());
+                textValues.push(node.textContent.trim().replace(/,/g, ""));
               }
             });
 
