@@ -6,7 +6,8 @@ import time
 import subprocess
 from bs4 import BeautifulSoup
 
-BASE_URL="https://cafef.vn/du-lieu/"
+BASE_URL = "https://cafef.vn/du-lieu/"
+
 
 def fetch_vietnam_tax_data():
     url = f"{BASE_URL}Ajax/CongTy/GetListNopNganSachGroup.ashx?type=vntax200&tab=top-200-doanh-nghiep"
@@ -18,6 +19,7 @@ def fetch_vietnam_tax_data():
     except requests.exceptions.RequestException as e:
         print(f"An error occurred while fetching data: {e}")
         return None
+
 
 if __name__ == "__main__":
     force_fetch = "--force-fetch" in sys.argv
@@ -39,7 +41,14 @@ if __name__ == "__main__":
 
         # Keep only 'CompanyName' and 'NopNganSach' fields
         filtered_companies = [
-            {"Ranking": company.get("OrderNumber"),"CompanyName": company.get("ComapnyName"), "NopNganSach": company.get("NopNganSach"), "Link": company.get("Link"), "Industry": company.get("Industry"), "Type": company.get("Type")}
+            {
+                "Ranking": company.get("OrderNumber"),
+                "CompanyName": company.get("ComapnyName"),
+                "NopNganSach": company.get("NopNganSach"),
+                "Link": company.get("Link"),
+                "Industry": company.get("Industry"),
+                "Type": company.get("Type"),
+            }
             for company in companies
         ]
 
@@ -68,28 +77,38 @@ if __name__ == "__main__":
             if link:
                 details_url = f"{BASE_URL}{link}"
                 try:
-                    response = requests.get(details_url, timeout=30)  # Set a timeout of 30 seconds
+                    response = requests.get(
+                        details_url, timeout=30
+                    )  # Set a timeout of 30 seconds
                     response.raise_for_status()
                     html_file_path = os.path.join("company_html", f"company_{idx}.html")
                     with open(html_file_path, "w", encoding="utf-8") as html_file:
                         html_file.write(response.text)
-                    print(f"HTML for {company['CompanyName']} saved to {html_file_path}")
+                    print(
+                        f"HTML for {company['CompanyName']} saved to {html_file_path}"
+                    )
 
                     # Add company to fetched list only if fetch is successful
                     fetched_companies.add(company["CompanyName"])
 
                     # Save the updated fetched companies list
                     with open(fetched_companies_file, "w", encoding="utf-8") as file:
-                        json.dump(list(fetched_companies), file, ensure_ascii=False, indent=4)
+                        json.dump(
+                            list(fetched_companies), file, ensure_ascii=False, indent=4
+                        )
 
                 except requests.exceptions.Timeout:
-                    print(f"Request for {company['CompanyName']} timed out. Moving to the next company.")
+                    print(
+                        f"Request for {company['CompanyName']} timed out. Moving to the next company."
+                    )
                 except requests.exceptions.RequestException as e:
                     print(f"Failed to fetch details for {company['CompanyName']}: {e}")
 
         end_time = time.time()
         elapsed_time = end_time - start_time
-        print(f"Fetching HTML for all companies completed in {elapsed_time:.2f} seconds.")
+        print(
+            f"Fetching HTML for all companies completed in {elapsed_time:.2f} seconds."
+        )
 
         # Run the JavaScript script.js file
         try:
@@ -101,14 +120,20 @@ if __name__ == "__main__":
 
         # Merge filtered_companies.json and company_details.json
         try:
-            with open("filtered_companies.json", "r", encoding="utf-8") as filtered_file:
+            with open(
+                "filtered_companies.json", "r", encoding="utf-8"
+            ) as filtered_file:
                 filtered_companies = json.load(filtered_file)
 
             with open("company_details.json", "r", encoding="utf-8") as details_file:
                 company_details = json.load(details_file)
 
             # Create a dictionary for quick lookup of company details by ranking
-            details_dict = {company["Ranking"]: company for company in company_details if "Ranking" in company}
+            details_dict = {
+                company["Ranking"]: company
+                for company in company_details
+                if "Ranking" in company
+            }
 
             # Merge the data
             merged_data = []
@@ -118,12 +143,23 @@ if __name__ == "__main__":
                     merged_company = {**company, **details_dict[ranking]}
                     merged_data.append(merged_company)
                 else:
-                    merged_data.append(company)  # Add the company even if no details are found
+                    merged_data.append(
+                        company
+                    )  # Add the company even if no details are found
 
             # Modify merged data to remove 'Earnings' and add 'Full Earnings'
             for company in merged_data:
                 earnings = company.pop("Earnings", [])  # Remove 'Earnings' field
-                company["Full Earnings"] = len(earnings) == 4  # Add 'Full Earnings' as a boolean
+                company["Full Earnings"] = (
+                    len(earnings) == 4
+                )  # Add 'Full Earnings' as a boolean
+
+            # Modify merged data to remove "Revenue" and add "Full Revenue"
+            for company in merged_data:
+                revenue = company.pop("Revenue", [])  # Remove 'Revenue' field
+                company["Full Revenue"] = (
+                    len(revenue) == 4
+                )  # Add 'Full Revenue' as a boolean
 
             # Save the updated merged data to a new JSON file
             with open("merged_companies.json", "w", encoding="utf-8") as merged_file:

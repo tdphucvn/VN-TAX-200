@@ -1,201 +1,201 @@
-Ranking,CompanyName,NopNganSach,Link,Industry,Type,TotalProfit,MarketCap,Full Earnings
-1,Tập đoàn Dầu khí Việt Nam,94888,/otc/PVN-tap-doan-dau-khi-viet-nam.chn,Dầu khí,SOE,117908112000,,True
-2,Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel),37818.29,/otc/VIETTEL-tap-doan-cong-nghiep-vien-thong-quan-doi-viettel.chn,Công nghệ - Viễn thông,SOE,,,False
-3,Tập đoàn Xăng dầu Việt Nam,33396.8,/hose/PLX-tap-doan-xang-dau-viet-nam.chn,Xăng dầu,SOE,2883816507,45614.26,True
-4,Tập đoàn Vingroup - CTCP,30903.8,/hose/VIC-tap-doan-vingroup-ctcp.chn,"Bất động sản, Ô tô",Private,10894508315,303598.73,True
-5,Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam,29216,/otc/VINACOMIN-tap-doan-cong-nghiep-than-khoang-san-viet-nam.chn,Than,SOE,,,False
-6,Liên doanh Việt - Nga Vietsovpetro,24000,/otc/VIETSOVPETRO-lien-doanh-viet-nga-vietsovpetro.chn,Dầu khí,Foreign,,,False
-7,Công ty Ô tô Toyota Việt Nam,21388.5,/otc/TOYOTAVN-cong-ty-o-to-toyota-viet-nam.chn,Ô tô,Foreign,,,False
-8,Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV,21000,/otc/EVN-tap-doan-dien-luc-viet-nam-cong-ty-tnhh-mtv.chn,Điện năng,SOE,,,False
-9,Công ty cổ phần tập đoàn Trường Hải,21000,/otc/THA-cong-ty-co-phan-tap-doan-truong-hai.chn,Ô tô,Private,18014467405,,True
-10,Công ty TNHH Lọc hóa dầu Nghi Sơn,20000,/otc/NSRP-cong-ty-tnhh-loc-hoa-dau-nghi-son.chn,Dầu khí,Foreign,,,False
-11,Tổng Công ty Thuốc lá Việt Nam - Công ty TNHH MTV,16675,/otc/VINATABA-tong-cong-ty-thuoc-la-viet-nam-cong-ty-tnhh-mtv.chn,Thuốc lá,SOE,,,False
-12,Công ty Cổ phần Tập đoàn Thành Công,13837,/otc/TCGROUP-cong-ty-co-phan-tap-doan-thanh-cong.chn,"Ô tô, Bất động sản",Private,,,False
-13,Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn,12398,/hose/SAB-tong-ctcp-bia-ruou-nuoc-giai-khat-sai-gon.chn,F&B/Bia rượu,Foreign,4330113031,63615.09,True
-14,Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam,11648.27,/hose/VCB-ngan-hang-thuong-mai-co-phan-ngoai-thuong-viet-nam.chn,Ngân hàng,SOE,,489642.56,False
-15,CTCP Tập đoàn Hòa Phát,9075,/hose/HPG-ctcp-tap-doan-hoa-phat.chn,Thép,Private,12493295567,167581.76,True
-16,Ngân hàng TMCP Kỹ thương Việt Nam,7927,/hose/TCB-ngan-hang-tmcp-ky-thuong-viet-nam.chn,Ngân hàng,Private,,,False
-17,Ngân hàng Thương mại cổ phần Quân đội,7518,/hose/MBB-ngan-hang-thuong-mai-co-phan-quan-doi.chn,Ngân hàng,SOE,,149505.68,False
-18,CTCP FPT,7308,/hose/FPT-ctcp-fpt.chn,Công nghệ - Viễn thông,Private,7847691048,183883.65,True
-19,Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam,7176,/hose/BID-ngan-hang-thuong-mai-co-phan-dau-tu-va-phat-trien-viet-nam.chn,Ngân hàng,SOE,,258035.05,False
-20,Ngân hàng Thương mại Cổ phần Công thương Việt Nam,6835,/hose/CTG-ngan-hang-thuong-mai-co-phan-cong-thuong-viet-nam.chn,Ngân hàng,SOE,,211846.17,False
-21,Ngân hàng TMCP Việt Nam Thịnh Vượng,5977.3,/hose/VPB-ngan-hang-tmcp-viet-nam-thinh-vuong.chn,Ngân hàng,Private,,149554.46,False
-22,Công ty Đầu tư Tài chính Nhà nước T.P Hồ Chí Minh,5945,/otc/HFIC-cong-ty-dau-tu-tai-chinh-nha-nuoc-tp-ho-chi-minh.chn,Đầu tư,SOE,,,False
-23,Tập đoàn Bưu chính Viễn thông Việt Nam,5476.2,/otc/VNPT-tap-doan-buu-chinh-vien-thong-viet-nam.chn,Công nghệ - Viễn thông,SOE,,,False
-24,CTCP Đầu tư dịch vụ tài chính Hoàng Huy,5313.2,/hose/TCH-ctcp-dau-tu-dich-vu-tai-chinh-hoang-huy.chn,Bất động sản - Xây dựng,Private,,,False
-25,Ngân hàng TMCP Á Châu,5214,/hose/ACB-ngan-hang-tmcp-a-chau.chn,Ngân hàng,Private,,110996.45,False
-26,Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam,5192.7,/otc/AGRIBANK-ngan-hang-nong-nghiep-va-phat-trien-nong-thon-viet-nam.chn,Ngân hàng,SOE,,,False
-27,CTCP Tập đoàn Masan,4421,/hose/MSN-ctcp-tap-doan-masan.chn,"F&B, Bán lẻ, Tài chính",Private,2288203000,89753.14,True
-28,Tổng Công ty Đông Bắc - BQP,4197.3,/otc/NECORP-tong-cong-ty-dong-bac-bqp.chn,Than,SOE,,,False
-29,Công ty TNHH Samsung Electronics Việt Nam Thái Nguyên,4183.46,/otc/SEVT-cong-ty-tnhh-samsung-electronics-viet-nam-thai-nguyen.chn,Điện tử,Foreign,,,False
-30,CTCP Sữa Việt Nam,4104,/hose/VNM-ctcp-sua-viet-nam.chn,F&B,Private,9392310356,117455.5,True
-31,Tổng Công ty Khánh Việt,4060.4,/otc/KHATOCO-tong-cong-ty-khanh-viet.chn,Thuốc lá,SOE,,,False
-32,Tổng công ty Cảng hàng không Việt Nam - CTCP,3894,/upcom/ACV-tong-cong-ty-cang-hang-khong-viet-nam-ctcp.chn,Hàng không,SOE,11763433455,212688.06,True
-33,Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội,3666,/hose/BHN-tong-ctcp-bia-ruou-nuoc-giai-khat-ha-noi.chn,F&B/Bia rượu,SOE,420273395,8379.57,True
-34,Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước,3629.89,/otc/SCIC-tong-cong-ty-dau-tu-va-kinh-doanh-von-nha-nuoc.chn,Đầu tư,SOE,,,False
-35,Công ty THHH bia Carlsberg Việt Nam,3500,/otc/CARLSBERG-cong-ty-thhh-bia-carlsberg-viet-nam.chn,F&B/Bia rượu,Foreign,,,False
-36,Tổng Công ty Thương mại Sài Gòn - TNHH MTV,3492.4,/otc/SATRA-tong-cong-ty-thuong-mai-sai-gon-tnhh-mtv.chn,Phân phối - Bán lẻ,SOE,,,False
-37,Tổng Công ty Công nghiệp Sài Gòn - TNHH MTV,3436.3,,Thuốc lá,SOE,False
-38,Tổng Công ty Hàng không Việt Nam - CTCP,3344.2,/hose/HVN-tong-cong-ty-hang-khong-viet-nam-ctcp.chn,Hàng không,SOE,6023914787,76175.16,True
-39,Ngân hàng TMCP Quốc tế Việt Nam,3268,/hose/VIB-ngan-hang-tmcp-quoc-te-viet-nam.chn,Ngân hàng,Private,,54220.13,False
-40,Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP,3150.3,/upcom/TLP-tong-cong-ty-thuong-mai-xuat-nhap-khau-thanh-le-ctcp.chn,Xăng dầu,SOE,46733448,1466.8,True
-41,Ngân hàng TMCP Sài Gòn Hà Nội,3091.8,/hose/SHB-ngan-hang-tmcp-sai-gon-ha-noi.chn,Ngân hàng,Private,,52848.26,False
-42,Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh,2995.3,/hose/HDB-ngan-hang-tmcp-phat-trien-thanh-pho-ho-chi-minh.chn,Ngân hàng,Private,,,False
-43,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT VÀ DỊCH VỤ TỔNG HỢP ĐỒNG NAI,2600.6,/otc/XSDONGNAI-cong-ty-tnhh-mtv-xo-so-kien-thiet-va-dich-vu-tong-hop-dong-nai.chn,Xổ số,SOE,,,False
-44,Tổng Công ty Cấp nước Sài Gòn,2570,/otc/SAWACO-tong-cong-ty-cap-nuoc-sai-gon.chn,Cấp thoát nước,SOE,,,False
-45,Công ty Cổ phần Tập đoàn BIM,2553.77,/otc/BIMGROUP-cong-ty-co-phan-tap-doan-bim.chn,"Bất động sản, Điện năng",Private,,,False
-46,Cty TNHH Ford Việt Nam,2471,/otc/FORDVN-cty-tnhh-ford-viet-nam.chn,Ô tô,Foreign,,,False
-47,Ngân hàng TMCP Tiên Phong,2418.7,/hose/TPB-ngan-hang-tmcp-tien-phong.chn,Ngân hàng,Private,,36194.8,False
-48,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT LONG AN,2364.2,/otc/XSLA-cong-ty-tnhh-mtv-xo-so-kien-thiet-long-an.chn,Xổ số,SOE,,,False
-49,Công ty TNHH Xổ số kiến thiết tỉnh Tây Ninh,2345.2,/otc/XSTN-cong-ty-tnhh-xo-so-kien-thiet-tinh-tay-ninh.chn,Xổ số,SOE,,,False
-50,Sở Giao dịch Chứng khoán Việt Nam,2300,/otc/VNEX-so-giao-dich-chung-khoan-viet-nam.chn,Tài chính,SOE,,,False
-51,CTCP Tập đoàn Vàng bạc đá quý Doji,2233.1,/otc/DOJI-ctcp-tap-doan-vang-bac-da-quy-doji.chn,"Bán lẻ, Bất động sản",Private,,,False
-52,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH ĐỒNG THÁP,2219.45,/otc/XSDT-cong-ty-tnhh-mtv-xo-so-kien-thiet-tinh-dong-thap.chn,Xổ số,SOE,,,False
-53,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BÌNH DƯƠNG,2209.2,/otc/XSBINHDUONG-cong-ty-tnhh-mtv-xo-so-kien-thiet-binh-duong.chn,Xổ số,SOE,,,False
-54,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT KIÊN GIANG,2194,/otc/XSKG-cong-ty-tnhh-mtv-xo-so-kien-thiet-kien-giang.chn,Xổ số,SOE,,,False
-55,Ngân hàng TMCP Sài Gòn Thương Tín,2176.95,/hose/STB-ngan-hang-tmcp-sai-gon-thuong-tin.chn,Ngân hàng,Private,,75408.63,False
-56,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH BÀ RỊA - VŨNG TÀU,2169.3,/otc/XSBRVT-cong-ty-tnhh-mtv-xo-so-kien-thiet-tinh-ba-ria-vung-tau.chn,Xổ số,SOE,,,False
-57,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BẠC LIÊU,2165.1,/otc/XSBL-cong-ty-tnhh-mtv-xo-so-kien-thiet-bac-lieu.chn,Xổ số,SOE,,,False
-58,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TIỀN GIANG,2112.3,/otc/XSTG-cong-ty-tnhh-mtv-xo-so-kien-thiet-tien-giang.chn,Xổ số,SOE,,,False
-59,Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn,2100,/otc/SNP-cong-ty-tnhh-mtv-tong-cong-ty-tan-cang-sai-gon.chn,Logistics,SOE,,,False
-60,Xổ số kiến thiết tỉnh Trà Vinh,2098.6,/otc/XSTV-xo-so-kien-thiet-tinh-tra-vinh.chn,Xổ số,SOE,,,False
-61,Công ty TNHH MTV Xổ số kiến thiết Cà Mau,2096.7,/otc/XSCM-cong-ty-tnhh-mtv-xo-so-kien-thiet-ca-mau.chn,Xổ số,SOE,,,False
-62,CTCP Đầu tư Bất động sản Taseco,2087.3,/upcom/TAL-ctcp-dau-tu-bat-dong-san-taseco.chn,Bất động sản - Xây dựng,Private,669336886,7546.77,True
-63,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT AN GIANG,2048.9,/otc/XSAG-cong-ty-tnhh-mtv-xo-so-kien-thiet-an-giang.chn,Xổ số,SOE,,,False
-64,CÔNG TY TNHH NHÀ NƯỚC MTV XỔ SỐ KIẾN THIẾT CẦN THƠ,2044.4,/otc/XSCT-cong-ty-tnhh-nha-nuoc-mtv-xo-so-kien-thiet-can-tho.chn,Xổ số,SOE,,,False
-65,Công ty TNHH MTV Xổ Số Kiến Thiết Bến Tre,2036.2,/otc/XSBENTRE-cong-ty-tnhh-mtv-xo-so-kien-thiet-ben-tre.chn,Xổ số,SOE,,,False
-66,Công ty TNHH MTV Xổ số kiến thiết Lâm Đồng,2019.78,/otc/XSLD-cong-ty-tnhh-mtv-xo-so-kien-thiet-lam-dong.chn,Xổ số,SOE,,,False
-67,Tập đoàn Công nghiệp Cao su Việt Nam,1980.9,/hose/GVR-tap-doan-cong-nghiep-cao-su-viet-nam.chn,Cao su,SOE,4256013359,112400,True
-68,Công ty TNHH MTV Xổ số kiến thiết Bình Thuận,1971.1,/otc/XSBINHTHUAN-cong-ty-tnhh-mtv-xo-so-kien-thiet-binh-thuan.chn,Xổ số,SOE,,,False
-69,Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp,1963.2,/upcom/PDT-cong-ty-tnhh-mtv-thuong-mai-dau-khi-dong-thap.chn,Xăng dầu,SOE,212540931,1100.28,True
-70,Công ty TNHH MTV Xổ số kiến thiết Vĩnh Long,1928.1,/otc/XSVL-cong-ty-tnhh-mtv-xo-so-kien-thiet-vinh-long.chn,Xổ số,SOE,,,False
-71,Ngân hàng TMCP Hàng hải Việt Nam,1907.3,/hose/MSB-ngan-hang-tmcp-hang-hai-viet-nam.chn,Ngân hàng,Private,,30030,False
-72,Tập đoàn Hóa chất Việt Nam,1889,/otc/VINACHEM-tap-doan-hoa-chat-viet-nam.chn,Hóa chất,SOE,,,False
-73,Ngân hàng TMCP Lộc Phát Việt Nam,1871.7,/hose/LPB-ngan-hang-tmcp-loc-phat-viet-nam.chn,Ngân hàng,Private,,105451.06,False
-74,CTCP Tập đoàn Bia Sài Gòn Bình Tây,1855,/upcom/SBB-ctcp-tap-doan-bia-sai-gon-binh-tay.chn,F&B/Bia rượu,Private,-520435272,1295.36,False
-75,CTCP Chứng khoán VPS,1774.2,/otc/VPSS-ctcp-chung-khoan-vps.chn,Chứng khoán,Private,,,False
-76,Công ty TNHH MTV Xổ số kiến thiết Sóc Trăng,1751,/otc/XSST-cong-ty-tnhh-mtv-xo-so-kien-thiet-soc-trang.chn,Xổ số,SOE,,,False
-77,Công ty TNHH MTV Xổ số điện toán Việt Nam,1728.4,/otc/VIETLOTT-cong-ty-tnhh-mtv-xo-so-dien-toan-viet-nam.chn,Xổ số,SOE,,,False
-78,Công ty TNHH MTV Xổ số kiến thiết Hậu Giang,1690,/otc/XSHG-cong-ty-tnhh-mtv-xo-so-kien-thiet-hau-giang.chn,Xổ số,SOE,,,False
-79,Tổng Công ty Quản lý bay Việt Nam,1686.67,/otc/VATM-tong-cong-ty-quan-ly-bay-viet-nam.chn,Hàng không,SOE,,,False
-80,Tổng Công ty Xăng dầu Quân đội,1661,,Xăng dầu,SOE,False
-81,Tổng Công ty Viễn thông Mobifone,1639,/otc/MOBIFONE-tong-cong-ty-vien-thong-mobifone.chn,Công nghệ - Viễn thông,SOE,,,False
-82,Tổng Công ty Công nghiệp Thực phẩm Đồng Nai,1605.4,/otc/DOFICO-tong-cong-ty-cong-nghiep-thuc-pham-dong-nai.chn,Thuốc lá,SOE,-3062613,,False
-83,CTCP Đầu tư Văn Phú - Invest,1508.4,/hose/VPI-ctcp-dau-tu-van-phu-invest.chn,Bất động sản - Xây dựng,Private,268341578,15938.47,True
-84,Tập đoàn Bảo Việt,1452,/hose/BVH-tap-doan-bao-viet.chn,Bảo hiểm,SOE,,36448.05,False
-85,CTCP Vàng bạc Đá quý Phú Nhuận,1418.9,/hose/PNJ-ctcp-vang-bac-da-quy-phu-nhuan.chn,Bán lẻ,Private,2054937118,28755.73,True
-86,Tổng Công ty Công nghiệp Xi măng Việt Nam,1412.3,/otc/VICEM-tong-cong-ty-cong-nghiep-xi-mang-viet-nam.chn,Vật liệu xây dựng,SOE,194547912,,False
-87,CTCP Cơ điện lạnh,1400.6,/hose/REE-ctcp-co-dien-lanh.chn,"Công nghiệp, điện năng, bất động sản",Private,2125337158,33724.56,True
-88,Công ty TNHH MTV Xổ số kiến thiết và dịch vụ tổng hợp Bình Phước,1353.4,/otc/XSBP-cong-ty-tnhh-mtv-xo-so-kien-thiet-va-dich-vu-tong-hop-binh-phuoc.chn,Xổ số,SOE,,,False
-89,HSBC Việt Nam,1329.2,/otc/HSBC-hsbc-viet-nam.chn,Ngân hàng,Foreign,,,False
-90,Tổng Công ty Idico - CTCP,1307,/hastc/IDC-tong-cong-ty-idico-ctcp.chn,Bất động sản - Xây dựng,Private,1644496960,13959,True
-91,Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP,1229.7,/hose/BCM-tong-cong-ty-dau-tu-va-phat-trien-cong-nghiep-ctcp.chn,Bất động sản,SOE,2453126533,63859.5,True
-92,Công ty cổ phần Đầu tư Thế giới Di động,1168.2,/hose/MWG-cong-ty-co-phan-dau-tu-the-gioi-di-dong.chn,Bán lẻ,Private,4365368364,94947.51,True
-93,Công ty TNHH Hyosung Việt Nam,1164,/otc/HYOSUNGVN-cong-ty-tnhh-hyosung-viet-nam.chn,Hóa chất,Foreign,,,False
-94,Công ty TNHH điện Nghi Sơn 2,1148,/otc/NS2PC-cong-ty-tnhh-dien-nghi-son-2.chn,Điện năng,Foreign,,,False
-95,CTCP Bia Sài Gòn - Miền Trung,1141.6,/hose/SMB-ctcp-bia-sai-gon-mien-trung.chn,F&B/Bia rượu,Private,183618203,1241.62,True
-96,CTCP VNG,1132.5,/upcom/VNZ-ctcp-vng.chn,Công nghệ - Viễn thông,Private,-871079372,10000.13,True
-97,Ngân hàng TMCP Phương Đông,1101.2,/hose/OCB-ngan-hang-tmcp-phuong-dong.chn,Ngân hàng,Private,,26753.81,False
-98,Ngân hàng TMCP Đông Nam Á,1088.45,/hose/SSB-ngan-hang-tmcp-dong-nam-a.chn,Ngân hàng,Private,,53486,False
-99,Công ty Cổ phần PVI,1076,/hastc/PVI-cong-ty-co-phan-pvi.chn,Bảo hiểm,Foreign,830359434,13023.85,True
-100,CTCP TẬP ĐOÀN VAS NGHI SƠN,1072,/otc/VASNS-ctcp-tap-doan-vas-nghi-son.chn,Thép,Private,,,False
-101,Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh,1070,/otc/SAIGONPETRO-cong-ty-tnhh-mtv-dau-khi-thanh-pho-ho-chi-minh.chn,Xăng dầu,SOE,,,False
-102,CTCP Chứng khoán SSI,1063.3,/hose/SSI-ctcp-chung-khoan-ssi.chn,Chứng khoán,Private,2835023120,46986.85,True
-103,CTCP Tập đoàn Hoa Sen,1041.9,/hose/HSG-ctcp-tap-doan-hoa-sen.chn,Thép,Private,458466350,9625.23,True
-104,CTCP Đầu tư và Kinh doanh nhà Khang Điền,1036.48,/hose/KDH-ctcp-dau-tu-va-kinh-doanh-nha-khang-dien.chn,Bất động sản - Xây dựng,Private,809671290,29575.92,True
-105,CTCP Đường Quảng Ngãi,986,/upcom/QNS-ctcp-duong-quang-ngai.chn,F&B,Private,2236529444,16911.82,True
-106,Công ty TNHH Bảo hiểm Nhân thọ Dai-ichi Việt Nam,950.3,/otc/DAIICHILIFE-cong-ty-tnhh-bao-hiem-nhan-tho-daiichi-viet-nam.chn,Bảo hiểm,Foreign,,,False
-107,CTCP Chứng khoán VNDirect,922,/hose/VND-ctcp-chung-khoan-vndirect.chn,Chứng khoán,Private,1718425030,23367.3,True
-108,Tổng Công ty Hàng hải Việt Nam - CTCP,881.38,/upcom/MVN-tong-cong-ty-hang-hai-viet-nam-ctcp.chn,Logistics,SOE,1948790263,81880.1,True
-109,Tổng Công ty Du lịch Sài Gòn - TNHH Một thành viên,879.2,/otc/SAIGONTOURIST-tong-cong-ty-du-lich-sai-gon-tnhh-mot-thanh-vien.chn,Du lịch,SOE,1073259464,,False
-110,CTCP Gemadept,879,/hose/GMD-ctcp-gemadept.chn,Logistics,Private,1275807633,23446.73,True
-111,Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP,868.8,/upcom/PRT-tong-cong-ty-san-xuat-xuat-nhap-khau-binh-duong-ctcp.chn,"Bất động sản, thương mại",SOE,226509679,2820,True
-112,CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu,839,/hose/PSH-ctcp-thuong-mai-dau-tu-dau-khi-nam-song-hau.chn,Xăng dầu,Private,-770357422,223.32,True
-113,Công ty TNHH Nestlé Việt Nam,828,/otc/NESTLE-cong-ty-tnhh-nestle-viet-nam.chn,F&B,Foreign,,,False
-114,CTCP Hàng không VietJet,798.5,/hose/VJC-ctcp-hang-khong-vietjet.chn,Hàng không,Private,1709113552,48853.34,True
-115,Công Ty CP Đầu tư tập đoàn Tân Á Đại Thành,797.3,/otc/TADT-cong-ty-cp-dau-tu-tap-doan-tan-a-dai-thanh.chn,"Hàng gia dụng, Bất động sản",Private,,,False
-116,Công ty TNHH Hưng Nghiệp Formosa,776,,0,Foreign,False
-117,Công ty TNHH Hyosung Đồng Nai,776,/otc/HYOSUNGDN-cong-ty-tnhh-hyosung-dong-nai.chn,0,Foreign,,,False
-118,Ngân hàng TMCP Xuất nhập khẩu Việt Nam,765.7,/hose/EIB-ngan-hang-tmcp-xuat-nhap-khau-viet-nam.chn,Ngân hàng,Private,,36788.73,False
-119,Tổng Công ty Đường sắt Việt Nam,752.3,/otc/VNRAILWAYS-tong-cong-ty-duong-sat-viet-nam.chn,Vận tải,SOE,False
-120,CTCP Tập đoàn Đầu tư Địa ốc No Va,738.8,/hose/NVL-ctcp-tap-doan-dau-tu-dia-oc-no-va.chn,Bất động sản - Xây dựng,Private,1187052975,23888.78,True
-121,CTCP Tập đoàn Hóa chất Đức Giang,728.6,/hose/DGC-ctcp-tap-doan-hoa-chat-duc-giang.chn,Hóa chất,Private,3107212785,35661.19,True
-122,Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam,722.7,/hose/VCG-tong-ctcp-xuat-nhap-khau-va-xay-dung-viet-nam.chn,Xây dựng - Bất động sản,Private,628902806,12899.69,True
-123,Công ty TNHH LG Display Việt Nam Hải Phòng,722,/otc/LGDVHP-cong-ty-tnhh-lg-display-viet-nam-hai-phong.chn,Điện tử,Foreign,,,False
-124,CTCP Tập đoàn Gelex,700.6,/hose/GEX-ctcp-tap-doan-gelex.chn,"Thiết bị điện, Bất động sản",Private,1749334063,25009.41,True
-125,Ngân hàng TMCP Nam Á,693,/hose/NAB-ngan-hang-tmcp-nam-a.chn,Ngân hàng,Private,,22814,False
-126,Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam,688.5,/otc/PRUDENTIAL-cong-ty-tnhh-bao-hiem-nhan-tho-prudential-viet-nam.chn,Bảo hiểm,Foreign,,,False
-127,Công ty TNHH Chứng khoán Mirae Asset (Việt Nam),672.4,,Chứng khoán,Foreign,False
-128,Tổng Công ty Sông Đà - Công ty cổ phần,672.1,/upcom/SJG-tong-cong-ty-song-da-cong-ty-co-phan.chn,Xây dựng,SOE,805680704,8451.3,True
-129,Công ty TNHH Bảo hiểm Nhân thọ AIA Việt Nam,654.9,/otc/AIAL-cong-ty-tnhh-bao-hiem-nhan-tho-aia-viet-nam.chn,Bảo hiểm,Foreign,,,False
-130,Tổng Công ty Thép Việt Nam - CTCP,642.7,/upcom/TVN-tong-cong-ty-thep-viet-nam-ctcp.chn,Thép,SOE,281391220,4881.6,True
-131,Công ty TNHH Piaggio Việt Nam,640,/otc/PIAGGIO-cong-ty-tnhh-piaggio-viet-nam.chn,Ô tô,Foreign,,,False
-132,CTCP Bia Sài Gòn - Vĩnh Long,611.6,/otc/BSGVL-ctcp-bia-sai-gon-vinh-long.chn,F&B/Bia rượu,Private,,,False
-133,Tổng Công ty Cổ phần phát triển khu Công nghiệp,608.2,/upcom/SNZ-tong-cong-ty-co-phan-phat-trien-khu-cong-nghiep.chn,Bất động sản,SOE,1039339230,12424.23,True
-134,CTCP Tập đoàn PC1,607.6,/hose/PC1-ctcp-tap-doan-pc1.chn,Điện năng,Private,363589517,7957.54,True
-135,CTCP Đầu tư và Phát triển Bất động sản An Gia,605.6,/hose/AGG-ctcp-dau-tu-va-phat-trien-bat-dong-san-an-gia.chn,Bất động sản - Xây dựng,Private,107478133,2567.94,True
-136,Công ty cổ phần Stavian Hóa chất,600.9,/otc/STAVIANCHEM-cong-ty-co-phan-stavian-hoa-chat.chn,"Nhựa, Hóa chất",Private,,,False
-137,CTCP Chứng khoán Tp.HCM,568.8,/hose/HCM-ctcp-chung-khoan-tphcm.chn,Chứng khoán,Private,1039655044,18935.24,True
-138,CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát,556.7,/hose/VPG-ctcp-dau-tu-thuong-mai-xuat-nhap-khau-viet-phat.chn,Than,Private,119303840,1052.15,True
-139,CTCP Bia và nước giải khát Hạ Long,549.6,/upcom/HLB-ctcp-bia-va-nuoc-giai-khat-ha-long.chn,F&B/Bia rượu,Private,,1081.5,False
-140,Công ty TNHH Nhà nước MTV Yến sào Khánh Hòa,540.75,/otc/YSKH-cong-ty-tnhh-nha-nuoc-mtv-yen-sao-khanh-hoa.chn,F&B,SOE,,,False
-141,CTCP Bia Sài Gòn - Bến Tre,539.9,/otc/BSGBT-ctcp-bia-sai-gon-ben-tre.chn,F&B/Bia rượu,Private,,,False
-142,CTCP Tập đoàn C.E.O,534.56,/hastc/CEO-ctcp-tap-doan-ceo.chn,Bất động sản - Xây dựng,Private,190983356,6971.24,True
-143,CTCP Đầu tư Nam Long,531.2,/hose/NLG-ctcp-dau-tu-nam-long.chn,Bất động sản - Xây dựng,Private,,,False
-144,Công ty Liên doanh thuốc lá BAT - Vinataba,523,/otc/BATVINATABA-cong-ty-lien-doanh-thuoc-la-bat-vinataba.chn,Thuốc lá,Foreign,,,False
-145,Tổng Công ty Đầu tư Phát triển nhà và Đô thị-Công ty TNHH,512.9,/otc/HUDX-tong-cong-ty-dau-tu-phat-trien-nha-va-do-thicong-ty-tnhh.chn,Bất động sản,SOE,,,False
-146,Tổng CTCP Dịch vụ Tổng hợp Dầu khí,507.6,/hose/PET-tong-ctcp-dich-vu-tong-hop-dau-khi.chn,Phân phối - Bán lẻ,Private,170315983,2449.27,True
-147,CTCP Bóng đèn Phích nước Rạng Đông,503.2,/hose/RAL-ctcp-bong-den-phich-nuoc-rang-dong.chn,Hàng gia dụng,Private,591290630,2359.45,True
-148,Công ty Cổ phần Nhựa Bình Minh ,500.3,/hose/BMP-cong-ty-co-phan-nhua-binh-minh.chn,Vật liệu xây dựng,Foreign,,,False
-149,CTCP Thành Thành Công - Biên Hòa,496.2,/hose/SBT-ctcp-thanh-thanh-cong-bien-hoa.chn,F&B,Private,825779563,14091.63,True
-150,Công ty Ajinomoto Việt Nam,494,/otc/AJINOMOTO-cong-ty-ajinomoto-viet-nam.chn,F&B,Foreign,,,False
-151,CTCP Tập đoàn Hà Đô,473.9,/hose/HDG-ctcp-tap-doan-ha-do.chn,"Bất động sản, Power",Private,520507474,8290.57,True
-152,Tập đoàn Dệt may Việt Nam,471.3,/upcom/VGT-tap-doan-det-may-viet-nam.chn,Dệt may,SOE,684475618,5250,True
-153,CTCP Tập đoàn Kido,469.7,/hose/KDC-ctcp-tap-doan-kido.chn,F&B,Private,-48774195,16229.15,True
-154,CTCP Ống thép Việt Đức,448.3,/hastc/VGS-ctcp-ong-thep-viet-duc.chn,Thép,Private,136766836,1387.12,True
-155,Công ty Cổ phần Tập đoàn Công nghệ CMC,443,/hose/CMG-cong-ty-co-phan-tap-doan-cong-nghe-cmc.chn,Công nghệ - Viễn thông,Private,268554243,7606.83,True
-156,Công ty TNHH Samsung Electro- Mechanics Việt Nam,442.5,/otc/SEMV-cong-ty-tnhh-samsung-electromechanics-viet-nam.chn,Điện tử,Foreign,,,False
-157,CTCP Thương mại Dịch vụ Cổng Vàng,439.3,/otc/GOLDENGATE-ctcp-thuong-mai-dich-vu-cong-vang.chn,F&B,Private,,,False
-158,Tổng CTCP Bảo hiểm Bưu điện,436.6,/hastc/PTI-tong-ctcp-bao-hiem-buu-dien.chn,Bảo hiểm,Private,,2580.67,False
-159,Công ty TNHH MTV Phát triển Công nghiệp Tân Thuận,435.8,/otc/TTIPC-cong-ty-tnhh-mtv-phat-trien-cong-nghiep-tan-thuan.chn,Bất động sản,SOE,,,False
-160,Tổng Công ty lưu ký và bù trừ Chứng khoán Việt Nam,426.3,/otc/VSDC-tong-cong-ty-luu-ky-va-bu-tru-chung-khoan-viet-nam.chn,Tài chính,SOE,,,False
-161,CTCP Chứng khoán VietCap,419.2,/hose/VCI-ctcp-chung-khoan-vietcap.chn,Chứng khoán,Private,910692113,27072.35,True
-162,Công ty cổ phần TKG TaeKwang Vina,417,/otc/TKGVINA-cong-ty-co-phan-tkg-taekwang-vina.chn,Dệt may,Foreign,,,False
-163,CTCP Chăn nuôi C.P Việt Nam,416,/otc/CPVN-ctcp-chan-nuoi-cp-viet-nam.chn,Nông nghiệp,Foreign,,,False
-164,CTCP Tập đoàn An Phát Holdings,415,/hose/APH-ctcp-tap-doan-an-phat-holdings.chn,Nguyên vật liệu,Private,116372777,1575.49,True
-165,CTCP Tập đoàn Bamboo Capital,414.2,/hose/BCG-ctcp-tap-doan-bamboo-capital.chn,"Điện năng, Bất động sản",Private,403535776,2895.89,True
-166,CTCP Bia Sài Gòn - Kiên Giang,400.1,/otc/BSGKG-ctcp-bia-sai-gon-kien-giang.chn,F&B/Bia rượu,Private,,,False
-167,CTCP Vĩnh Hoàn,397.7,/hose/VHC-ctcp-vinh-hoan.chn,F&B,Private,1253036198,12187.81,True
-168,Công ty Cổ phần Nguyên liệu Á Châu AIG,385.7,/otc/AIG-cong-ty-co-phan-nguyen-lieu-a-chau-aig.chn,F&B,Private,708418934,7745.3,True
-169,Công ty cổ phần Phát triển Bất động sản Phát Đạt,384.2,/hose/PDR-cong-ty-co-phan-phat-trien-bat-dong-san-phat-dat.chn,Bất động sản - Xây dựng,Private,520761690,15105.46,True
-170,Ngân hàng TMCP An Bình,367.3,/upcom/ABB-ngan-hang-tmcp-an-binh.chn,Ngân hàng,Private,,7866.28,False
-171,Tổng Công ty Đầu tư và phát triển Nhà Hà Nội,352.75,/otc/HANDICO-tong-cong-ty-dau-tu-va-phat-trien-nha-ha-noi.chn,Bất động sản,SOE,,,False
-172,Ngân hàng TNHH MTV Woori Việt Nam,352.7,/otc/WOORIBANK-ngan-hang-tnhh-mtv-woori-viet-nam.chn,Ngân hàng,Foreign,,,False
-173,Công ty Cổ phần Dược Hậu Giang,349.8,/hose/DHG-cong-ty-co-phan-duoc-hau-giang.chn,Y tế,Foreign,822931225,14042.13,True
-174,CTCP Sữa Quốc tế LOF,346.9,/upcom/IDP-ctcp-sua-quoc-te-lof.chn,F&B,Private,758923618,13596.98,True
-175,CTCP Đầu tư và Xây dựng số 18,345.5,/hastc/L18-ctcp-dau-tu-va-xay-dung-so-18.chn,Bất động sản - Xây dựng,Private,207101896,1307.4,True
-176,CTCP Bia - Nước giải khát Sài Gòn - Tây Đô,342.66,/upcom/STD-ctcp-bia-nuoc-giai-khat-sai-gon-tay-do.chn,F&B/Bia rượu,Private,4122446,,True
-177,CTCP Bia Sài Gòn - Phú Thọ,341.5,/upcom/BSP-ctcp-bia-sai-gon-phu-tho.chn,F&B/Bia rượu,Private,5533762,125,True
-178,Công ty TNHH MTV Nhà xuất bản Giáo dục Việt Nam,339,/otc/NXBGD-cong-ty-tnhh-mtv-nha-xuat-ban-giao-duc-viet-nam.chn,Xuất bản,SOE,,,False
-179,CTCP Tập đoàn Đất Xanh,333,/hose/DXG-ctcp-tap-doan-dat-xanh.chn,Bất động sản - Xây dựng,Private,269636927,14369.02,True
-180,Ngân hàng TMCP Bắc Á,331.2,/hastc/BAB-ngan-hang-tmcp-bac-a.chn,Ngân hàng,Private,,10538.24,False
-181,CTCP Tập đoàn Thiên Long,326.9,/hose/TLG-ctcp-tap-doan-thien-long.chn,Hàng tiêu dùng,Private,,,False
-182,CTCP Đầu tư Phát triển máy Việt Nam,325.4,/upcom/VVS-ctcp-dau-tu-phat-trien-may-viet-nam.chn,Ô tô,Private,87172102,452.03,True
-183,CTCP Gỗ An Cường,324.8,/hose/ACG-ctcp-go-an-cuong.chn,Vật liệu xây dựng,Private,423704515,5549,True
-184,Công ty TNHH MTV Nước sạch Hà Nội,323.66,/otc/HAWACO-cong-ty-tnhh-mtv-nuoc-sach-ha-noi.chn,Cấp thoát nước,SOE,,,False
-185,Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam,316.77,/otc/CHUBB-cong-ty-tnhh-bao-hiem-nhan-tho-chubb-viet-nam.chn,Bảo hiểm,Foreign,,,False
-186,Công ty TNHH bảo hiểm Hanwha Life Việt Nam,314.3,/otc/HANWHALIFE-cong-ty-tnhh-bao-hiem-hanwha-life-viet-nam.chn,Bảo hiểm,Foreign,,,False
-187,Công ty TNHH MTV Xổ sổ kiến thiết Khánh Hoà,311.2,/otc/XSKH-cong-ty-tnhh-mtv-xo-so-kien-thiet-khanh-hoa.chn,Xổ số,SOE,,,False
-188,CTCP Đầu tư Sài Gòn VRG,307.7,/hose/SIP-ctcp-dau-tu-sai-gon-vrg.chn,Bất động sản - Xây dựng,Private,1163239884,14737.34,True
-189,Tổng Công ty Phát triển đô thị Kinh Bắc - CTCP,306.5,/hose/KBC-tong-cong-ty-phat-trien-do-thi-kinh-bac-ctcp.chn,Bất động sản - Xây dựng,Private,422107588,19804.2,True
-190,Công ty cổ phần tập đoàn Long Thuận,306,/otc/LONGTHUAN-cong-ty-co-phan-tap-doan-long-thuan.chn,Than,Private,,,False
-191,Tổng CTCP Bảo hiểm Petrolimex,304.6,/hose/PGI-tong-ctcp-bao-hiem-petrolimex.chn,Bảo hiểm,Private,,,False
-192,Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP,303.1,/upcom/VEA-tong-cong-ty-may-dong-luc-va-may-nong-nghiep-viet-nam-ctcp.chn,Ô tô,SOE,7196142235,51557.44,True
-193,CTCP – Tổng Công ty Nước – Môi trường Bình Dương,302.5,/hose/BWE-ctcp-tong-cong-ty-nuoc-moi-truong-binh-duong.chn,Cấp thoát nước,Private,608269737,11304.33,True
-194,CTCP Phát triển Sunshine Homes,302,/upcom/SSH-ctcp-phat-trien-sunshine-homes.chn,Bất động sản - Xây dựng,Private,709720251,32962.5,True
-195,CTCP đầu tư hạ tầng kỹ thuật TP. Hồ Chí Minh,296.4,/hose/CII-ctcp-dau-tu-ha-tang-ky-thuat-tp-ho-chi-minh.chn,Hạ tầng,Private,286250781,7260.69,True
-196,CTCP Tasco,296.3,/hastc/HUT-ctcp-tasco.chn,"Ô tô, Hạ tầng",Private,138849347,11781.16,True
-197,CTCP Quốc tế Sơn Hà,292.4,/hose/SHI-ctcp-quoc-te-son-ha.chn,Hàng gia dụng,Private,91467726,,True
-198,CTCP Đầu tư Thương mại SMC,292,/hose/SMC-ctcp-dau-tu-thuong-mai-smc.chn,Thép,Private,-293570994,758.15,True
-199,Công ty cổ phần chứng khoán HD,289.77,/otc/HDBS-cong-ty-co-phan-chung-khoan-hd.chn,Chứng khoán,Private,,,False
-200,Công ty cổ phần Chứng khoán KIS Việt Nam,281.1,,Chứng khoán,Foreign,False
+Ranking,CompanyName,NopNganSach,Link,Industry,Type,TotalProfit,MarketCap,TotalRevenue,Full Earnings,Full Revenue
+1,Tập đoàn Dầu khí Việt Nam,94888,/otc/PVN-tap-doan-dau-khi-viet-nam.chn,Dầu khí,SOE,117908112000,,1208698287000,True,True
+2,Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel),37818.29,/otc/VIETTEL-tap-doan-cong-nghiep-vien-thong-quan-doi-viettel.chn,Công nghệ - Viễn thông,SOE,,,0,False,False
+3,Tập đoàn Xăng dầu Việt Nam,33396.8,/hose/PLX-tap-doan-xang-dau-viet-nam.chn,Xăng dầu,SOE,2883816507,45614.26,284411845357,True,True
+4,Tập đoàn Vingroup - CTCP,30903.8,/hose/VIC-tap-doan-vingroup-ctcp.chn,"Bất động sản, Ô tô",Private,10894508315,303598.73,255477482883,True,True
+5,Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam,29216,/otc/VINACOMIN-tap-doan-cong-nghiep-than-khoang-san-viet-nam.chn,Than,SOE,,,0,False,False
+6,Liên doanh Việt - Nga Vietsovpetro,24000,/otc/VIETSOVPETRO-lien-doanh-viet-nga-vietsovpetro.chn,Dầu khí,Foreign,,,0,False,False
+7,Công ty Ô tô Toyota Việt Nam,21388.5,/otc/TOYOTAVN-cong-ty-o-to-toyota-viet-nam.chn,Ô tô,Foreign,,,0,False,False
+8,Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV,21000,/otc/EVN-tap-doan-dien-luc-viet-nam-cong-ty-tnhh-mtv.chn,Điện năng,SOE,,,0,False,False
+9,Công ty cổ phần tập đoàn Trường Hải,21000,/otc/THA-cong-ty-co-phan-tap-doan-truong-hai.chn,Ô tô,Private,18014467405,,150413333210,True,True
+10,Công ty TNHH Lọc hóa dầu Nghi Sơn,20000,/otc/NSRP-cong-ty-tnhh-loc-hoa-dau-nghi-son.chn,Dầu khí,Foreign,,,0,False,False
+11,Tổng Công ty Thuốc lá Việt Nam - Công ty TNHH MTV,16675,/otc/VINATABA-tong-cong-ty-thuoc-la-viet-nam-cong-ty-tnhh-mtv.chn,Thuốc lá,SOE,,,0,False,False
+12,Công ty Cổ phần Tập đoàn Thành Công,13837,/otc/TCGROUP-cong-ty-co-phan-tap-doan-thanh-cong.chn,"Ô tô, Bất động sản",Private,,,0,False,False
+13,Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn,12398,/hose/SAB-tong-ctcp-bia-ruou-nuoc-giai-khat-sai-gon.chn,F&B/Bia rượu,Foreign,4330113031,63615.09,32164260254,True,True
+14,Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam,11648.27,/hose/VCB-ngan-hang-thuong-mai-co-phan-ngoai-thuong-viet-nam.chn,Ngân hàng,SOE,,489642.56,0,False,False
+15,CTCP Tập đoàn Hòa Phát,9075,/hose/HPG-ctcp-tap-doan-hoa-phat.chn,Thép,Private,12493295567,167581.76,147419453323,True,True
+16,Ngân hàng TMCP Kỹ thương Việt Nam,7927,/hose/TCB-ngan-hang-tmcp-ky-thuong-viet-nam.chn,Ngân hàng,Private,,,0,False,False
+17,Ngân hàng Thương mại cổ phần Quân đội,7518,/hose/MBB-ngan-hang-thuong-mai-co-phan-quan-doi.chn,Ngân hàng,SOE,,149505.68,0,False,False
+18,CTCP FPT,7308,/hose/FPT-ctcp-fpt.chn,Công nghệ - Viễn thông,Private,7847691048,183883.65,62962652135,True,True
+19,Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam,7176,/hose/BID-ngan-hang-thuong-mai-co-phan-dau-tu-va-phat-trien-viet-nam.chn,Ngân hàng,SOE,,258035.05,0,False,False
+20,Ngân hàng Thương mại Cổ phần Công thương Việt Nam,6835,/hose/CTG-ngan-hang-thuong-mai-co-phan-cong-thuong-viet-nam.chn,Ngân hàng,SOE,,211846.17,0,False,False
+21,Ngân hàng TMCP Việt Nam Thịnh Vượng,5977.3,/hose/VPB-ngan-hang-tmcp-viet-nam-thinh-vuong.chn,Ngân hàng,Private,,149554.46,0,False,False
+22,Công ty Đầu tư Tài chính Nhà nước T.P Hồ Chí Minh,5945,/otc/HFIC-cong-ty-dau-tu-tai-chinh-nha-nuoc-tp-ho-chi-minh.chn,Đầu tư,SOE,,,0,False,False
+23,Tập đoàn Bưu chính Viễn thông Việt Nam,5476.2,/otc/VNPT-tap-doan-buu-chinh-vien-thong-viet-nam.chn,Công nghệ - Viễn thông,SOE,,,0,False,False
+24,CTCP Đầu tư dịch vụ tài chính Hoàng Huy,5313.2,/hose/TCH-ctcp-dau-tu-dich-vu-tai-chinh-hoang-huy.chn,Bất động sản - Xây dựng,Private,,,0,False,False
+25,Ngân hàng TMCP Á Châu,5214,/hose/ACB-ngan-hang-tmcp-a-chau.chn,Ngân hàng,Private,,110996.45,0,False,False
+26,Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam,5192.7,/otc/AGRIBANK-ngan-hang-nong-nghiep-va-phat-trien-nong-thon-viet-nam.chn,Ngân hàng,SOE,,,0,False,False
+27,CTCP Tập đoàn Masan,4421,/hose/MSN-ctcp-tap-doan-masan.chn,"F&B, Bán lẻ, Tài chính",Private,2288203000,89753.14,83460489000,True,True
+28,Tổng Công ty Đông Bắc - BQP,4197.3,/otc/NECORP-tong-cong-ty-dong-bac-bqp.chn,Than,SOE,,,0,False,False
+29,Công ty TNHH Samsung Electronics Việt Nam Thái Nguyên,4183.46,/otc/SEVT-cong-ty-tnhh-samsung-electronics-viet-nam-thai-nguyen.chn,Điện tử,Foreign,,,0,False,False
+30,CTCP Sữa Việt Nam,4104,/hose/VNM-ctcp-sua-viet-nam.chn,F&B,Private,9392310356,117455.5,61823889923,True,True
+31,Tổng Công ty Khánh Việt,4060.4,/otc/KHATOCO-tong-cong-ty-khanh-viet.chn,Thuốc lá,SOE,,,0,False,False
+32,Tổng công ty Cảng hàng không Việt Nam - CTCP,3894,/upcom/ACV-tong-cong-ty-cang-hang-khong-viet-nam-ctcp.chn,Hàng không,SOE,11763433455,212688.06,23366300997,True,True
+33,Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội,3666,/hose/BHN-tong-ctcp-bia-ruou-nuoc-giai-khat-ha-noi.chn,F&B/Bia rượu,SOE,420273395,8379.57,8459192465,True,True
+34,Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước,3629.89,/otc/SCIC-tong-cong-ty-dau-tu-va-kinh-doanh-von-nha-nuoc.chn,Đầu tư,SOE,,,0,False,False
+35,Công ty THHH bia Carlsberg Việt Nam,3500,/otc/CARLSBERG-cong-ty-thhh-bia-carlsberg-viet-nam.chn,F&B/Bia rượu,Foreign,,,0,False,False
+36,Tổng Công ty Thương mại Sài Gòn - TNHH MTV,3492.4,/otc/SATRA-tong-cong-ty-thuong-mai-sai-gon-tnhh-mtv.chn,Phân phối - Bán lẻ,SOE,,,0,False,False
+37,Tổng Công ty Công nghiệp Sài Gòn - TNHH MTV,3436.3,,Thuốc lá,SOE,False,False
+38,Tổng Công ty Hàng không Việt Nam - CTCP,3344.2,/hose/HVN-tong-cong-ty-hang-khong-viet-nam-ctcp.chn,Hàng không,SOE,6023914787,76175.16,109144878896,True,True
+39,Ngân hàng TMCP Quốc tế Việt Nam,3268,/hose/VIB-ngan-hang-tmcp-quoc-te-viet-nam.chn,Ngân hàng,Private,,54220.13,0,False,False
+40,Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP,3150.3,/upcom/TLP-tong-cong-ty-thuong-mai-xuat-nhap-khau-thanh-le-ctcp.chn,Xăng dầu,SOE,46733448,1466.8,20413120644,True,True
+41,Ngân hàng TMCP Sài Gòn Hà Nội,3091.8,/hose/SHB-ngan-hang-tmcp-sai-gon-ha-noi.chn,Ngân hàng,Private,,52848.26,0,False,False
+42,Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh,2995.3,/hose/HDB-ngan-hang-tmcp-phat-trien-thanh-pho-ho-chi-minh.chn,Ngân hàng,Private,,,0,False,False
+43,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT VÀ DỊCH VỤ TỔNG HỢP ĐỒNG NAI,2600.6,/otc/XSDONGNAI-cong-ty-tnhh-mtv-xo-so-kien-thiet-va-dich-vu-tong-hop-dong-nai.chn,Xổ số,SOE,,,0,False,False
+44,Tổng Công ty Cấp nước Sài Gòn,2570,/otc/SAWACO-tong-cong-ty-cap-nuoc-sai-gon.chn,Cấp thoát nước,SOE,,,0,False,False
+45,Công ty Cổ phần Tập đoàn BIM,2553.77,/otc/BIMGROUP-cong-ty-co-phan-tap-doan-bim.chn,"Bất động sản, Điện năng",Private,,,0,False,False
+46,Cty TNHH Ford Việt Nam,2471,/otc/FORDVN-cty-tnhh-ford-viet-nam.chn,Ô tô,Foreign,,,0,False,False
+47,Ngân hàng TMCP Tiên Phong,2418.7,/hose/TPB-ngan-hang-tmcp-tien-phong.chn,Ngân hàng,Private,,36194.8,0,False,False
+48,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT LONG AN,2364.2,/otc/XSLA-cong-ty-tnhh-mtv-xo-so-kien-thiet-long-an.chn,Xổ số,SOE,,,0,False,False
+49,Công ty TNHH Xổ số kiến thiết tỉnh Tây Ninh,2345.2,/otc/XSTN-cong-ty-tnhh-xo-so-kien-thiet-tinh-tay-ninh.chn,Xổ số,SOE,,,0,False,False
+50,Sở Giao dịch Chứng khoán Việt Nam,2300,/otc/VNEX-so-giao-dich-chung-khoan-viet-nam.chn,Tài chính,SOE,,,0,False,False
+51,CTCP Tập đoàn Vàng bạc đá quý Doji,2233.1,/otc/DOJI-ctcp-tap-doan-vang-bac-da-quy-doji.chn,"Bán lẻ, Bất động sản",Private,,,0,False,False
+52,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH ĐỒNG THÁP,2219.45,/otc/XSDT-cong-ty-tnhh-mtv-xo-so-kien-thiet-tinh-dong-thap.chn,Xổ số,SOE,,,0,False,False
+53,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BÌNH DƯƠNG,2209.2,/otc/XSBINHDUONG-cong-ty-tnhh-mtv-xo-so-kien-thiet-binh-duong.chn,Xổ số,SOE,,,0,False,False
+54,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT KIÊN GIANG,2194,/otc/XSKG-cong-ty-tnhh-mtv-xo-so-kien-thiet-kien-giang.chn,Xổ số,SOE,,,0,False,False
+55,Ngân hàng TMCP Sài Gòn Thương Tín,2176.95,/hose/STB-ngan-hang-tmcp-sai-gon-thuong-tin.chn,Ngân hàng,Private,,75408.63,0,False,False
+56,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TỈNH BÀ RỊA - VŨNG TÀU,2169.3,/otc/XSBRVT-cong-ty-tnhh-mtv-xo-so-kien-thiet-tinh-ba-ria-vung-tau.chn,Xổ số,SOE,,,0,False,False
+57,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BẠC LIÊU,2165.1,/otc/XSBL-cong-ty-tnhh-mtv-xo-so-kien-thiet-bac-lieu.chn,Xổ số,SOE,,,0,False,False
+58,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT TIỀN GIANG,2112.3,/otc/XSTG-cong-ty-tnhh-mtv-xo-so-kien-thiet-tien-giang.chn,Xổ số,SOE,,,0,False,False
+59,Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn,2100,/otc/SNP-cong-ty-tnhh-mtv-tong-cong-ty-tan-cang-sai-gon.chn,Logistics,SOE,,,0,False,False
+60,Xổ số kiến thiết tỉnh Trà Vinh,2098.6,/otc/XSTV-xo-so-kien-thiet-tinh-tra-vinh.chn,Xổ số,SOE,,,0,False,False
+61,Công ty TNHH MTV Xổ số kiến thiết Cà Mau,2096.7,/otc/XSCM-cong-ty-tnhh-mtv-xo-so-kien-thiet-ca-mau.chn,Xổ số,SOE,,,0,False,False
+62,CTCP Đầu tư Bất động sản Taseco,2087.3,/upcom/TAL-ctcp-dau-tu-bat-dong-san-taseco.chn,Bất động sản - Xây dựng,Private,669336886,7546.77,1721049617,True,True
+63,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT AN GIANG,2048.9,/otc/XSAG-cong-ty-tnhh-mtv-xo-so-kien-thiet-an-giang.chn,Xổ số,SOE,,,0,False,False
+64,CÔNG TY TNHH NHÀ NƯỚC MTV XỔ SỐ KIẾN THIẾT CẦN THƠ,2044.4,/otc/XSCT-cong-ty-tnhh-nha-nuoc-mtv-xo-so-kien-thiet-can-tho.chn,Xổ số,SOE,,,0,False,False
+65,Công ty TNHH MTV Xổ Số Kiến Thiết Bến Tre,2036.2,/otc/XSBENTRE-cong-ty-tnhh-mtv-xo-so-kien-thiet-ben-tre.chn,Xổ số,SOE,,,0,False,False
+66,Công ty TNHH MTV Xổ số kiến thiết Lâm Đồng,2019.78,/otc/XSLD-cong-ty-tnhh-mtv-xo-so-kien-thiet-lam-dong.chn,Xổ số,SOE,,,0,False,False
+67,Tập đoàn Công nghiệp Cao su Việt Nam,1980.9,/hose/GVR-tap-doan-cong-nghiep-cao-su-viet-nam.chn,Cao su,SOE,4256013359,112400,26248984718,True,True
+68,Công ty TNHH MTV Xổ số kiến thiết Bình Thuận,1971.1,/otc/XSBINHTHUAN-cong-ty-tnhh-mtv-xo-so-kien-thiet-binh-thuan.chn,Xổ số,SOE,,,0,False,False
+69,Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp,1963.2,/upcom/PDT-cong-ty-tnhh-mtv-thuong-mai-dau-khi-dong-thap.chn,Xăng dầu,SOE,212540931,1100.28,0,True,False
+70,Công ty TNHH MTV Xổ số kiến thiết Vĩnh Long,1928.1,/otc/XSVL-cong-ty-tnhh-mtv-xo-so-kien-thiet-vinh-long.chn,Xổ số,SOE,,,0,False,False
+71,Ngân hàng TMCP Hàng hải Việt Nam,1907.3,/hose/MSB-ngan-hang-tmcp-hang-hai-viet-nam.chn,Ngân hàng,Private,,30030,0,False,False
+72,Tập đoàn Hóa chất Việt Nam,1889,/otc/VINACHEM-tap-doan-hoa-chat-viet-nam.chn,Hóa chất,SOE,,,0,False,False
+73,Ngân hàng TMCP Lộc Phát Việt Nam,1871.7,/hose/LPB-ngan-hang-tmcp-loc-phat-viet-nam.chn,Ngân hàng,Private,,105451.06,0,False,False
+74,CTCP Tập đoàn Bia Sài Gòn Bình Tây,1855,/upcom/SBB-ctcp-tap-doan-bia-sai-gon-binh-tay.chn,F&B/Bia rượu,Private,-520435272,1295.36,2243571977,False,False
+75,CTCP Chứng khoán VPS,1774.2,/otc/VPSS-ctcp-chung-khoan-vps.chn,Chứng khoán,Private,,,0,False,False
+76,Công ty TNHH MTV Xổ số kiến thiết Sóc Trăng,1751,/otc/XSST-cong-ty-tnhh-mtv-xo-so-kien-thiet-soc-trang.chn,Xổ số,SOE,,,0,False,False
+77,Công ty TNHH MTV Xổ số điện toán Việt Nam,1728.4,/otc/VIETLOTT-cong-ty-tnhh-mtv-xo-so-dien-toan-viet-nam.chn,Xổ số,SOE,,,0,False,False
+78,Công ty TNHH MTV Xổ số kiến thiết Hậu Giang,1690,/otc/XSHG-cong-ty-tnhh-mtv-xo-so-kien-thiet-hau-giang.chn,Xổ số,SOE,,,0,False,False
+79,Tổng Công ty Quản lý bay Việt Nam,1686.67,/otc/VATM-tong-cong-ty-quan-ly-bay-viet-nam.chn,Hàng không,SOE,,,0,False,False
+80,Tổng Công ty Xăng dầu Quân đội,1661,,Xăng dầu,SOE,False,False
+81,Tổng Công ty Viễn thông Mobifone,1639,/otc/MOBIFONE-tong-cong-ty-vien-thong-mobifone.chn,Công nghệ - Viễn thông,SOE,,,0,False,False
+82,Tổng Công ty Công nghiệp Thực phẩm Đồng Nai,1605.4,/otc/DOFICO-tong-cong-ty-cong-nghiep-thuc-pham-dong-nai.chn,Thuốc lá,SOE,-3062613,,3412662,False,False
+83,CTCP Đầu tư Văn Phú - Invest,1508.4,/hose/VPI-ctcp-dau-tu-van-phu-invest.chn,Bất động sản - Xây dựng,Private,268341578,15938.47,1281265789,True,True
+84,Tập đoàn Bảo Việt,1452,/hose/BVH-tap-doan-bao-viet.chn,Bảo hiểm,SOE,,36448.05,0,False,False
+85,CTCP Vàng bạc Đá quý Phú Nhuận,1418.9,/hose/PNJ-ctcp-vang-bac-da-quy-phu-nhuan.chn,Bán lẻ,Private,2054937118,28755.73,35289598359,True,True
+86,Tổng Công ty Công nghiệp Xi măng Việt Nam,1412.3,/otc/VICEM-tong-cong-ty-cong-nghiep-xi-mang-viet-nam.chn,Vật liệu xây dựng,SOE,194547912,,63311663,False,False
+87,CTCP Cơ điện lạnh,1400.6,/hose/REE-ctcp-co-dien-lanh.chn,"Công nghiệp, điện năng, bất động sản",Private,2125337158,33724.56,8623963649,True,True
+88,Công ty TNHH MTV Xổ số kiến thiết và dịch vụ tổng hợp Bình Phước,1353.4,/otc/XSBP-cong-ty-tnhh-mtv-xo-so-kien-thiet-va-dich-vu-tong-hop-binh-phuoc.chn,Xổ số,SOE,,,0,False,False
+89,HSBC Việt Nam,1329.2,/otc/HSBC-hsbc-viet-nam.chn,Ngân hàng,Foreign,,,0,False,False
+90,Tổng Công ty Idico - CTCP,1307,/hastc/IDC-tong-cong-ty-idico-ctcp.chn,Bất động sản - Xây dựng,Private,1644496960,13959,8172896486,True,True
+91,Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP,1229.7,/hose/BCM-tong-cong-ty-dau-tu-va-phat-trien-cong-nghiep-ctcp.chn,Bất động sản,SOE,2453126533,63859.5,6265861178,True,True
+92,Công ty cổ phần Đầu tư Thế giới Di động,1168.2,/hose/MWG-cong-ty-co-phan-dau-tu-the-gioi-di-dong.chn,Bán lẻ,Private,4365368364,94947.51,139872996975,True,True
+93,Công ty TNHH Hyosung Việt Nam,1164,/otc/HYOSUNGVN-cong-ty-tnhh-hyosung-viet-nam.chn,Hóa chất,Foreign,,,0,False,False
+94,Công ty TNHH điện Nghi Sơn 2,1148,/otc/NS2PC-cong-ty-tnhh-dien-nghi-son-2.chn,Điện năng,Foreign,,,0,False,False
+95,CTCP Bia Sài Gòn - Miền Trung,1141.6,/hose/SMB-ctcp-bia-sai-gon-mien-trung.chn,F&B/Bia rượu,Private,183618203,1241.62,1415451992,True,True
+96,CTCP VNG,1132.5,/upcom/VNZ-ctcp-vng.chn,Công nghệ - Viễn thông,Private,-871079372,10000.13,9477575304,True,True
+97,Ngân hàng TMCP Phương Đông,1101.2,/hose/OCB-ngan-hang-tmcp-phuong-dong.chn,Ngân hàng,Private,,26753.81,0,False,False
+98,Ngân hàng TMCP Đông Nam Á,1088.45,/hose/SSB-ngan-hang-tmcp-dong-nam-a.chn,Ngân hàng,Private,,53486,0,False,False
+99,Công ty Cổ phần PVI,1076,/hastc/PVI-cong-ty-co-phan-pvi.chn,Bảo hiểm,Foreign,830359434,13023.85,21869458380,True,True
+100,CTCP TẬP ĐOÀN VAS NGHI SƠN,1072,/otc/VASNS-ctcp-tap-doan-vas-nghi-son.chn,Thép,Private,,,0,False,False
+101,Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh,1070,/otc/SAIGONPETRO-cong-ty-tnhh-mtv-dau-khi-thanh-pho-ho-chi-minh.chn,Xăng dầu,SOE,,,0,False,False
+102,CTCP Chứng khoán SSI,1063.3,/hose/SSI-ctcp-chung-khoan-ssi.chn,Chứng khoán,Private,2835023120,46986.85,8529279576,True,True
+103,CTCP Tập đoàn Hoa Sen,1041.9,/hose/HSG-ctcp-tap-doan-hoa-sen.chn,Thép,Private,458466350,9625.23,40279778659,True,True
+104,CTCP Đầu tư và Kinh doanh nhà Khang Điền,1036.48,/hose/KDH-ctcp-dau-tu-va-kinh-doanh-nha-khang-dien.chn,Bất động sản - Xây dựng,Private,809671290,29575.92,3295129859,True,True
+105,CTCP Đường Quảng Ngãi,986,/upcom/QNS-ctcp-duong-quang-ngai.chn,F&B,Private,2236529444,16911.82,10061554214,True,True
+106,Công ty TNHH Bảo hiểm Nhân thọ Dai-ichi Việt Nam,950.3,/otc/DAIICHILIFE-cong-ty-tnhh-bao-hiem-nhan-tho-daiichi-viet-nam.chn,Bảo hiểm,Foreign,,,0,False,False
+107,CTCP Chứng khoán VNDirect,922,/hose/VND-ctcp-chung-khoan-vndirect.chn,Chứng khoán,Private,1718425030,23367.3,5324411264,True,True
+108,Tổng Công ty Hàng hải Việt Nam - CTCP,881.38,/upcom/MVN-tong-cong-ty-hang-hai-viet-nam-ctcp.chn,Logistics,SOE,1948790263,81880.1,17135684754,True,True
+109,Tổng Công ty Du lịch Sài Gòn - TNHH Một thành viên,879.2,/otc/SAIGONTOURIST-tong-cong-ty-du-lich-sai-gon-tnhh-mot-thanh-vien.chn,Du lịch,SOE,1073259464,,5151411045,False,False
+110,CTCP Gemadept,879,/hose/GMD-ctcp-gemadept.chn,Logistics,Private,1275807633,23446.73,5133914168,True,True
+111,Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP,868.8,/upcom/PRT-tong-cong-ty-san-xuat-xuat-nhap-khau-binh-duong-ctcp.chn,"Bất động sản, thương mại",SOE,226509679,2820,1318816864,True,True
+112,CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu,839,/hose/PSH-ctcp-thuong-mai-dau-tu-dau-khi-nam-song-hau.chn,Xăng dầu,Private,-770357422,223.32,704425452,True,True
+113,Công ty TNHH Nestlé Việt Nam,828,/otc/NESTLE-cong-ty-tnhh-nestle-viet-nam.chn,F&B,Foreign,,,0,False,False
+114,CTCP Hàng không VietJet,798.5,/hose/VJC-ctcp-hang-khong-vietjet.chn,Hàng không,Private,1709113552,48853.34,71976618920,True,True
+115,Công Ty CP Đầu tư tập đoàn Tân Á Đại Thành,797.3,/otc/TADT-cong-ty-cp-dau-tu-tap-doan-tan-a-dai-thanh.chn,"Hàng gia dụng, Bất động sản",Private,,,0,False,False
+116,Công ty TNHH Hưng Nghiệp Formosa,776,,0,Foreign,False,False
+117,Công ty TNHH Hyosung Đồng Nai,776,/otc/HYOSUNGDN-cong-ty-tnhh-hyosung-dong-nai.chn,0,Foreign,,,0,False,False
+118,Ngân hàng TMCP Xuất nhập khẩu Việt Nam,765.7,/hose/EIB-ngan-hang-tmcp-xuat-nhap-khau-viet-nam.chn,Ngân hàng,Private,,36788.73,0,False,False
+119,Tổng Công ty Đường sắt Việt Nam,752.3,/otc/VNRAILWAYS-tong-cong-ty-duong-sat-viet-nam.chn,Vận tải,SOE,False,False
+120,CTCP Tập đoàn Đầu tư Địa ốc No Va,738.8,/hose/NVL-ctcp-tap-doan-dau-tu-dia-oc-no-va.chn,Bất động sản - Xây dựng,Private,1187052975,23888.78,9041607472,True,True
+121,CTCP Tập đoàn Hóa chất Đức Giang,728.6,/hose/DGC-ctcp-tap-doan-hoa-chat-duc-giang.chn,Hóa chất,Private,3107212785,35661.19,10296575481,True,True
+122,Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam,722.7,/hose/VCG-tong-ctcp-xuat-nhap-khau-va-xay-dung-viet-nam.chn,Xây dựng - Bất động sản,Private,628902806,12899.69,12804804439,True,True
+123,Công ty TNHH LG Display Việt Nam Hải Phòng,722,/otc/LGDVHP-cong-ty-tnhh-lg-display-viet-nam-hai-phong.chn,Điện tử,Foreign,,,0,False,False
+124,CTCP Tập đoàn Gelex,700.6,/hose/GEX-ctcp-tap-doan-gelex.chn,"Thiết bị điện, Bất động sản",Private,1749334063,25009.41,35406142984,True,True
+125,Ngân hàng TMCP Nam Á,693,/hose/NAB-ngan-hang-tmcp-nam-a.chn,Ngân hàng,Private,,22814,0,False,False
+126,Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam,688.5,/otc/PRUDENTIAL-cong-ty-tnhh-bao-hiem-nhan-tho-prudential-viet-nam.chn,Bảo hiểm,Foreign,,,0,False,False
+127,Công ty TNHH Chứng khoán Mirae Asset (Việt Nam),672.4,,Chứng khoán,Foreign,False,False
+128,Tổng Công ty Sông Đà - Công ty cổ phần,672.1,/upcom/SJG-tong-cong-ty-song-da-cong-ty-co-phan.chn,Xây dựng,SOE,805680704,8451.3,5534899642,True,True
+129,Công ty TNHH Bảo hiểm Nhân thọ AIA Việt Nam,654.9,/otc/AIAL-cong-ty-tnhh-bao-hiem-nhan-tho-aia-viet-nam.chn,Bảo hiểm,Foreign,,,0,False,False
+130,Tổng Công ty Thép Việt Nam - CTCP,642.7,/upcom/TVN-tong-cong-ty-thep-viet-nam-ctcp.chn,Thép,SOE,281391220,4881.6,39014921936,True,True
+131,Công ty TNHH Piaggio Việt Nam,640,/otc/PIAGGIO-cong-ty-tnhh-piaggio-viet-nam.chn,Ô tô,Foreign,,,0,False,False
+132,CTCP Bia Sài Gòn - Vĩnh Long,611.6,/otc/BSGVL-ctcp-bia-sai-gon-vinh-long.chn,F&B/Bia rượu,Private,,,0,False,False
+133,Tổng Công ty Cổ phần phát triển khu Công nghiệp,608.2,/upcom/SNZ-tong-cong-ty-co-phan-phat-trien-khu-cong-nghiep.chn,Bất động sản,SOE,1039339230,12424.23,6199498811,True,True
+134,CTCP Tập đoàn PC1,607.6,/hose/PC1-ctcp-tap-doan-pc1.chn,Điện năng,Private,363589517,7957.54,10027765814,True,True
+135,CTCP Đầu tư và Phát triển Bất động sản An Gia,605.6,/hose/AGG-ctcp-dau-tu-va-phat-trien-bat-dong-san-an-gia.chn,Bất động sản - Xây dựng,Private,107478133,2567.94,792383106,True,True
+136,Công ty cổ phần Stavian Hóa chất,600.9,/otc/STAVIANCHEM-cong-ty-co-phan-stavian-hoa-chat.chn,"Nhựa, Hóa chất",Private,,,0,False,False
+137,CTCP Chứng khoán Tp.HCM,568.8,/hose/HCM-ctcp-chung-khoan-tphcm.chn,Chứng khoán,Private,1039655044,18935.24,4276240392,True,True
+138,CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát,556.7,/hose/VPG-ctcp-dau-tu-thuong-mai-xuat-nhap-khau-viet-phat.chn,Than,Private,119303840,1052.15,17637444688,True,True
+139,CTCP Bia và nước giải khát Hạ Long,549.6,/upcom/HLB-ctcp-bia-va-nuoc-giai-khat-ha-long.chn,F&B/Bia rượu,Private,,1081.5,0,False,False
+140,Công ty TNHH Nhà nước MTV Yến sào Khánh Hòa,540.75,/otc/YSKH-cong-ty-tnhh-nha-nuoc-mtv-yen-sao-khanh-hoa.chn,F&B,SOE,,,0,False,False
+141,CTCP Bia Sài Gòn - Bến Tre,539.9,/otc/BSGBT-ctcp-bia-sai-gon-ben-tre.chn,F&B/Bia rượu,Private,,,0,False,False
+142,CTCP Tập đoàn C.E.O,534.56,/hastc/CEO-ctcp-tap-doan-ceo.chn,Bất động sản - Xây dựng,Private,190983356,6971.24,1344706054,True,True
+143,CTCP Đầu tư Nam Long,531.2,/hose/NLG-ctcp-dau-tu-nam-long.chn,Bất động sản - Xây dựng,Private,,,0,False,False
+144,Công ty Liên doanh thuốc lá BAT - Vinataba,523,/otc/BATVINATABA-cong-ty-lien-doanh-thuoc-la-bat-vinataba.chn,Thuốc lá,Foreign,,,0,False,False
+145,Tổng Công ty Đầu tư Phát triển nhà và Đô thị-Công ty TNHH,512.9,/otc/HUDX-tong-cong-ty-dau-tu-phat-trien-nha-va-do-thicong-ty-tnhh.chn,Bất động sản,SOE,,,0,False,False
+146,Tổng CTCP Dịch vụ Tổng hợp Dầu khí,507.6,/hose/PET-tong-ctcp-dich-vu-tong-hop-dau-khi.chn,Phân phối - Bán lẻ,Private,170315983,2449.27,19584901776,True,True
+147,CTCP Bóng đèn Phích nước Rạng Đông,503.2,/hose/RAL-ctcp-bong-den-phich-nuoc-rang-dong.chn,Hàng gia dụng,Private,591290630,2359.45,8413912097,True,True
+148,Công ty Cổ phần Nhựa Bình Minh ,500.3,/hose/BMP-cong-ty-co-phan-nhua-binh-minh.chn,Vật liệu xây dựng,Foreign,,,0,False,False
+149,CTCP Thành Thành Công - Biên Hòa,496.2,/hose/SBT-ctcp-thanh-thanh-cong-bien-hoa.chn,F&B,Private,825779563,14091.63,31190353611,True,True
+150,Công ty Ajinomoto Việt Nam,494,/otc/AJINOMOTO-cong-ty-ajinomoto-viet-nam.chn,F&B,Foreign,,,0,False,False
+151,CTCP Tập đoàn Hà Đô,473.9,/hose/HDG-ctcp-tap-doan-ha-do.chn,"Bất động sản, Power",Private,520507474,8290.57,2561535403,True,True
+152,Tập đoàn Dệt may Việt Nam,471.3,/upcom/VGT-tap-doan-det-may-viet-nam.chn,Dệt may,SOE,684475618,5250,17831082882,True,True
+153,CTCP Tập đoàn Kido,469.7,/hose/KDC-ctcp-tap-doan-kido.chn,F&B,Private,-48774195,16229.15,8899589311,True,True
+154,CTCP Ống thép Việt Đức,448.3,/hastc/VGS-ctcp-ong-thep-viet-duc.chn,Thép,Private,136766836,1387.12,7359354990,True,True
+155,Công ty Cổ phần Tập đoàn Công nghệ CMC,443,/hose/CMG-cong-ty-co-phan-tap-doan-cong-nghe-cmc.chn,Công nghệ - Viễn thông,Private,268554243,7606.83,7508833947,True,True
+156,Công ty TNHH Samsung Electro- Mechanics Việt Nam,442.5,/otc/SEMV-cong-ty-tnhh-samsung-electromechanics-viet-nam.chn,Điện tử,Foreign,,,0,False,False
+157,CTCP Thương mại Dịch vụ Cổng Vàng,439.3,/otc/GOLDENGATE-ctcp-thuong-mai-dich-vu-cong-vang.chn,F&B,Private,,,0,False,False
+158,Tổng CTCP Bảo hiểm Bưu điện,436.6,/hastc/PTI-tong-ctcp-bao-hiem-buu-dien.chn,Bảo hiểm,Private,,2580.67,0,False,False
+159,Công ty TNHH MTV Phát triển Công nghiệp Tân Thuận,435.8,/otc/TTIPC-cong-ty-tnhh-mtv-phat-trien-cong-nghiep-tan-thuan.chn,Bất động sản,SOE,,,0,False,False
+160,Tổng Công ty lưu ký và bù trừ Chứng khoán Việt Nam,426.3,/otc/VSDC-tong-cong-ty-luu-ky-va-bu-tru-chung-khoan-viet-nam.chn,Tài chính,SOE,,,0,False,False
+161,CTCP Chứng khoán VietCap,419.2,/hose/VCI-ctcp-chung-khoan-vietcap.chn,Chứng khoán,Private,910692113,27072.35,3695525336,True,True
+162,Công ty cổ phần TKG TaeKwang Vina,417,/otc/TKGVINA-cong-ty-co-phan-tkg-taekwang-vina.chn,Dệt may,Foreign,,,0,False,False
+163,CTCP Chăn nuôi C.P Việt Nam,416,/otc/CPVN-ctcp-chan-nuoi-cp-viet-nam.chn,Nông nghiệp,Foreign,,,0,False,False
+164,CTCP Tập đoàn An Phát Holdings,415,/hose/APH-ctcp-tap-doan-an-phat-holdings.chn,Nguyên vật liệu,Private,116372777,1575.49,14199068821,True,True
+165,CTCP Tập đoàn Bamboo Capital,414.2,/hose/BCG-ctcp-tap-doan-bamboo-capital.chn,"Điện năng, Bất động sản",Private,403535776,2895.89,4733156444,True,True
+166,CTCP Bia Sài Gòn - Kiên Giang,400.1,/otc/BSGKG-ctcp-bia-sai-gon-kien-giang.chn,F&B/Bia rượu,Private,,,0,False,False
+167,CTCP Vĩnh Hoàn,397.7,/hose/VHC-ctcp-vinh-hoan.chn,F&B,Private,1253036198,12187.81,12383063413,True,True
+168,Công ty Cổ phần Nguyên liệu Á Châu AIG,385.7,/otc/AIG-cong-ty-co-phan-nguyen-lieu-a-chau-aig.chn,F&B,Private,708418934,7745.3,12425473708,True,True
+169,Công ty cổ phần Phát triển Bất động sản Phát Đạt,384.2,/hose/PDR-cong-ty-co-phan-phat-trien-bat-dong-san-phat-dat.chn,Bất động sản - Xây dựng,Private,520761690,15105.46,2292832702,True,True
+170,Ngân hàng TMCP An Bình,367.3,/upcom/ABB-ngan-hang-tmcp-an-binh.chn,Ngân hàng,Private,,7866.28,0,False,False
+171,Tổng Công ty Đầu tư và phát triển Nhà Hà Nội,352.75,/otc/HANDICO-tong-cong-ty-dau-tu-va-phat-trien-nha-ha-noi.chn,Bất động sản,SOE,,,0,False,False
+172,Ngân hàng TNHH MTV Woori Việt Nam,352.7,/otc/WOORIBANK-ngan-hang-tnhh-mtv-woori-viet-nam.chn,Ngân hàng,Foreign,,,0,False,False
+173,Công ty Cổ phần Dược Hậu Giang,349.8,/hose/DHG-cong-ty-co-phan-duoc-hau-giang.chn,Y tế,Foreign,822931225,14042.13,5647936253,True,True
+174,CTCP Sữa Quốc tế LOF,346.9,/upcom/IDP-ctcp-sua-quoc-te-lof.chn,F&B,Private,758923618,13596.98,8039546309,True,True
+175,CTCP Đầu tư và Xây dựng số 18,345.5,/hastc/L18-ctcp-dau-tu-va-xay-dung-so-18.chn,Bất động sản - Xây dựng,Private,207101896,1307.4,4659712532,True,True
+176,CTCP Bia - Nước giải khát Sài Gòn - Tây Đô,342.66,/upcom/STD-ctcp-bia-nuoc-giai-khat-sai-gon-tay-do.chn,F&B/Bia rượu,Private,4122446,,323968946,True,True
+177,CTCP Bia Sài Gòn - Phú Thọ,341.5,/upcom/BSP-ctcp-bia-sai-gon-phu-tho.chn,F&B/Bia rượu,Private,5533762,125,394164626,True,True
+178,Công ty TNHH MTV Nhà xuất bản Giáo dục Việt Nam,339,/otc/NXBGD-cong-ty-tnhh-mtv-nha-xuat-ban-giao-duc-viet-nam.chn,Xuất bản,SOE,,,0,False,False
+179,CTCP Tập đoàn Đất Xanh,333,/hose/DXG-ctcp-tap-doan-dat-xanh.chn,Bất động sản - Xây dựng,Private,269636927,14369.02,4597064189,True,True
+180,Ngân hàng TMCP Bắc Á,331.2,/hastc/BAB-ngan-hang-tmcp-bac-a.chn,Ngân hàng,Private,,10538.24,0,False,False
+181,CTCP Tập đoàn Thiên Long,326.9,/hose/TLG-ctcp-tap-doan-thien-long.chn,Hàng tiêu dùng,Private,,,0,False,False
+182,CTCP Đầu tư Phát triển máy Việt Nam,325.4,/upcom/VVS-ctcp-dau-tu-phat-trien-may-viet-nam.chn,Ô tô,Private,87172102,452.03,4225665380,True,True
+183,CTCP Gỗ An Cường,324.8,/hose/ACG-ctcp-go-an-cuong.chn,Vật liệu xây dựng,Private,423704515,5549,4130288076,True,True
+184,Công ty TNHH MTV Nước sạch Hà Nội,323.66,/otc/HAWACO-cong-ty-tnhh-mtv-nuoc-sach-ha-noi.chn,Cấp thoát nước,SOE,,,0,False,False
+185,Công ty TNHH Bảo hiểm nhân thọ Chubb Việt Nam,316.77,/otc/CHUBB-cong-ty-tnhh-bao-hiem-nhan-tho-chubb-viet-nam.chn,Bảo hiểm,Foreign,,,0,False,False
+186,Công ty TNHH bảo hiểm Hanwha Life Việt Nam,314.3,/otc/HANWHALIFE-cong-ty-tnhh-bao-hiem-hanwha-life-viet-nam.chn,Bảo hiểm,Foreign,,,0,False,False
+187,Công ty TNHH MTV Xổ sổ kiến thiết Khánh Hoà,311.2,/otc/XSKH-cong-ty-tnhh-mtv-xo-so-kien-thiet-khanh-hoa.chn,Xổ số,SOE,,,0,False,False
+188,CTCP Đầu tư Sài Gòn VRG,307.7,/hose/SIP-ctcp-dau-tu-sai-gon-vrg.chn,Bất động sản - Xây dựng,Private,1163239884,14737.34,7807769384,True,True
+189,Tổng Công ty Phát triển đô thị Kinh Bắc - CTCP,306.5,/hose/KBC-tong-cong-ty-phat-trien-do-thi-kinh-bac-ctcp.chn,Bất động sản - Xây dựng,Private,422107588,19804.2,2775753386,True,True
+190,Công ty cổ phần tập đoàn Long Thuận,306,/otc/LONGTHUAN-cong-ty-co-phan-tap-doan-long-thuan.chn,Than,Private,,,0,False,False
+191,Tổng CTCP Bảo hiểm Petrolimex,304.6,/hose/PGI-tong-ctcp-bao-hiem-petrolimex.chn,Bảo hiểm,Private,,,0,False,False
+192,Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP,303.1,/upcom/VEA-tong-cong-ty-may-dong-luc-va-may-nong-nghiep-viet-nam-ctcp.chn,Ô tô,SOE,7196142235,51557.44,4275042006,True,True
+193,CTCP – Tổng Công ty Nước – Môi trường Bình Dương,302.5,/hose/BWE-ctcp-tong-cong-ty-nuoc-moi-truong-binh-duong.chn,Cấp thoát nước,Private,608269737,11304.33,4091208039,True,True
+194,CTCP Phát triển Sunshine Homes,302,/upcom/SSH-ctcp-phat-trien-sunshine-homes.chn,Bất động sản - Xây dựng,Private,709720251,32962.5,2896232466,True,True
+195,CTCP đầu tư hạ tầng kỹ thuật TP. Hồ Chí Minh,296.4,/hose/CII-ctcp-dau-tu-ha-tang-ky-thuat-tp-ho-chi-minh.chn,Hạ tầng,Private,286250781,7260.69,3191727173,True,True
+196,CTCP Tasco,296.3,/hastc/HUT-ctcp-tasco.chn,"Ô tô, Hạ tầng",Private,138849347,11781.16,32347249310,True,True
+197,CTCP Quốc tế Sơn Hà,292.4,/hose/SHI-ctcp-quoc-te-son-ha.chn,Hàng gia dụng,Private,91467726,,11473410243,True,True
+198,CTCP Đầu tư Thương mại SMC,292,/hose/SMC-ctcp-dau-tu-thuong-mai-smc.chn,Thép,Private,-293570994,758.15,8924116899,True,True
+199,Công ty cổ phần chứng khoán HD,289.77,/otc/HDBS-cong-ty-co-phan-chung-khoan-hd.chn,Chứng khoán,Private,,,0,False,False
+200,Công ty cổ phần Chứng khoán KIS Việt Nam,281.1,,Chứng khoán,Foreign,False,False

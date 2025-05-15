@@ -13,7 +13,6 @@ fs.readdir(htmlDir, (err, files) => {
   }
 
   const list = [];
-
   const promises = files
     .filter((file) => file.endsWith(".html"))
     .map((file) => {
@@ -49,6 +48,7 @@ fs.readdir(htmlDir, (err, files) => {
             Earnings: [],
             TotalProfit: null,
             MarketCap: null,
+            Revenue: [],
           };
 
           // Get Earnings
@@ -101,6 +101,33 @@ fs.readdir(htmlDir, (err, files) => {
               );
             }
           }
+
+          const revenueElement = Array.from(
+            document.querySelectorAll("tr")
+          ).find((el) => el.textContent.includes("Doanh thu bán hàng và CCDV"));
+
+          if (revenueElement) {
+            revenueElement.childNodes.forEach((node) => {
+              if (
+                node.nodeName === "TD" &&
+                node.textContent &&
+                node.textContent.trim() != ""
+              ) {
+                details.Revenue.push(
+                  parseInt(node.textContent.trim().replace(/,/g, ""))
+                );
+              }
+            });
+          }
+
+          // remove the first item in the revenue array
+          details.Revenue.shift();
+          // add total revenue
+          const totalRevenue = details.Revenue.reduce(
+            (acc, curr) => acc + curr,
+            0
+          );
+          details["TotalRevenue"] = totalRevenue;
 
           list.push(details);
           resolve();

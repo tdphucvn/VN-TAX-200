@@ -8,7 +8,9 @@
         "Type": "SOE",
         "TotalProfit": 117908112000,
         "MarketCap": null,
-        "Full Earnings": true
+        "TotalRevenue": 1208698287000,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 2,
@@ -19,7 +21,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 3,
@@ -30,7 +34,9 @@
         "Type": "SOE",
         "TotalProfit": 2883816507,
         "MarketCap": 45614.26,
-        "Full Earnings": true
+        "TotalRevenue": 284411845357,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 4,
@@ -41,7 +47,9 @@
         "Type": "Private",
         "TotalProfit": 10894508315,
         "MarketCap": 303598.73,
-        "Full Earnings": true
+        "TotalRevenue": 255477482883,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 5,
@@ -52,7 +60,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 6,
@@ -63,7 +73,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 7,
@@ -74,7 +86,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 8,
@@ -85,7 +99,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 9,
@@ -96,7 +112,9 @@
         "Type": "Private",
         "TotalProfit": 18014467405,
         "MarketCap": null,
-        "Full Earnings": true
+        "TotalRevenue": 150413333210,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 10,
@@ -107,7 +125,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 11,
@@ -118,7 +138,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 12,
@@ -129,7 +151,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 13,
@@ -140,7 +164,9 @@
         "Type": "Foreign",
         "TotalProfit": 4330113031,
         "MarketCap": 63615.09,
-        "Full Earnings": true
+        "TotalRevenue": 32164260254,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 14,
@@ -151,7 +177,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": 489642.56,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 15,
@@ -162,7 +190,9 @@
         "Type": "Private",
         "TotalProfit": 12493295567,
         "MarketCap": 167581.76,
-        "Full Earnings": true
+        "TotalRevenue": 147419453323,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 16,
@@ -173,7 +203,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 17,
@@ -184,7 +216,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": 149505.68,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 18,
@@ -195,7 +229,9 @@
         "Type": "Private",
         "TotalProfit": 7847691048,
         "MarketCap": 183883.65,
-        "Full Earnings": true
+        "TotalRevenue": 62962652135,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 19,
@@ -206,7 +242,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": 258035.05,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 20,
@@ -217,7 +255,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": 211846.17,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 21,
@@ -228,7 +268,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 149554.46,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 22,
@@ -239,7 +281,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 23,
@@ -250,7 +294,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 24,
@@ -261,7 +307,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 25,
@@ -272,7 +320,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 110996.45,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 26,
@@ -283,7 +333,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 27,
@@ -294,7 +346,9 @@
         "Type": "Private",
         "TotalProfit": 2288203000,
         "MarketCap": 89753.14,
-        "Full Earnings": true
+        "TotalRevenue": 83460489000,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 28,
@@ -305,7 +359,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 29,
@@ -316,7 +372,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 30,
@@ -327,7 +385,9 @@
         "Type": "Private",
         "TotalProfit": 9392310356,
         "MarketCap": 117455.5,
-        "Full Earnings": true
+        "TotalRevenue": 61823889923,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 31,
@@ -338,7 +398,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 32,
@@ -349,7 +411,9 @@
         "Type": "SOE",
         "TotalProfit": 11763433455,
         "MarketCap": 212688.06,
-        "Full Earnings": true
+        "TotalRevenue": 23366300997,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 33,
@@ -360,7 +424,9 @@
         "Type": "SOE",
         "TotalProfit": 420273395,
         "MarketCap": 8379.57,
-        "Full Earnings": true
+        "TotalRevenue": 8459192465,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 34,
@@ -371,7 +437,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 35,
@@ -382,7 +450,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 36,
@@ -393,7 +463,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 37,
@@ -402,7 +474,8 @@
         "Link": "",
         "Industry": "Thuốc lá",
         "Type": "SOE",
-        "Full Earnings": false
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 38,
@@ -413,7 +486,9 @@
         "Type": "SOE",
         "TotalProfit": 6023914787,
         "MarketCap": 76175.16,
-        "Full Earnings": true
+        "TotalRevenue": 109144878896,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 39,
@@ -424,7 +499,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 54220.13,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 40,
@@ -435,7 +512,9 @@
         "Type": "SOE",
         "TotalProfit": 46733448,
         "MarketCap": 1466.8,
-        "Full Earnings": true
+        "TotalRevenue": 20413120644,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 41,
@@ -446,7 +525,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 52848.26,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 42,
@@ -457,7 +538,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 43,
@@ -468,7 +551,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 44,
@@ -479,7 +564,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 45,
@@ -490,7 +577,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 46,
@@ -501,7 +590,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 47,
@@ -512,7 +603,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 36194.8,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 48,
@@ -523,7 +616,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 49,
@@ -534,7 +629,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 50,
@@ -545,7 +642,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 51,
@@ -556,7 +655,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 52,
@@ -567,7 +668,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 53,
@@ -578,7 +681,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 54,
@@ -589,7 +694,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 55,
@@ -600,7 +707,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 75408.63,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 56,
@@ -611,7 +720,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 57,
@@ -622,7 +733,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 58,
@@ -633,7 +746,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 59,
@@ -644,7 +759,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 60,
@@ -655,7 +772,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 61,
@@ -666,7 +785,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 62,
@@ -677,7 +798,9 @@
         "Type": "Private",
         "TotalProfit": 669336886,
         "MarketCap": 7546.77,
-        "Full Earnings": true
+        "TotalRevenue": 1721049617,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 63,
@@ -688,7 +811,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 64,
@@ -699,7 +824,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 65,
@@ -710,7 +837,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 66,
@@ -721,7 +850,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 67,
@@ -732,7 +863,9 @@
         "Type": "SOE",
         "TotalProfit": 4256013359,
         "MarketCap": 112400,
-        "Full Earnings": true
+        "TotalRevenue": 26248984718,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 68,
@@ -743,7 +876,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 69,
@@ -754,7 +889,9 @@
         "Type": "SOE",
         "TotalProfit": 212540931,
         "MarketCap": 1100.28,
-        "Full Earnings": true
+        "TotalRevenue": 0,
+        "Full Earnings": true,
+        "Full Revenue": false
     },
     {
         "Ranking": 70,
@@ -765,7 +902,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 71,
@@ -776,7 +915,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 30030,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 72,
@@ -787,7 +928,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 73,
@@ -798,7 +941,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 105451.06,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 74,
@@ -809,7 +954,9 @@
         "Type": "Private",
         "TotalProfit": -520435272,
         "MarketCap": 1295.36,
-        "Full Earnings": false
+        "TotalRevenue": 2243571977,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 75,
@@ -820,7 +967,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 76,
@@ -831,7 +980,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 77,
@@ -842,7 +993,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 78,
@@ -853,7 +1006,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 79,
@@ -864,7 +1019,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 80,
@@ -873,7 +1030,8 @@
         "Link": "",
         "Industry": "Xăng dầu",
         "Type": "SOE",
-        "Full Earnings": false
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 81,
@@ -884,7 +1042,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 82,
@@ -895,7 +1055,9 @@
         "Type": "SOE",
         "TotalProfit": -3062613,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 3412662,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 83,
@@ -906,7 +1068,9 @@
         "Type": "Private",
         "TotalProfit": 268341578,
         "MarketCap": 15938.47,
-        "Full Earnings": true
+        "TotalRevenue": 1281265789,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 84,
@@ -917,7 +1081,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": 36448.05,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 85,
@@ -928,7 +1094,9 @@
         "Type": "Private",
         "TotalProfit": 2054937118,
         "MarketCap": 28755.73,
-        "Full Earnings": true
+        "TotalRevenue": 35289598359,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 86,
@@ -939,7 +1107,9 @@
         "Type": "SOE",
         "TotalProfit": 194547912,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 63311663,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 87,
@@ -950,7 +1120,9 @@
         "Type": "Private",
         "TotalProfit": 2125337158,
         "MarketCap": 33724.56,
-        "Full Earnings": true
+        "TotalRevenue": 8623963649,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 88,
@@ -961,7 +1133,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 89,
@@ -972,7 +1146,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 90,
@@ -983,7 +1159,9 @@
         "Type": "Private",
         "TotalProfit": 1644496960,
         "MarketCap": 13959,
-        "Full Earnings": true
+        "TotalRevenue": 8172896486,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 91,
@@ -994,7 +1172,9 @@
         "Type": "SOE",
         "TotalProfit": 2453126533,
         "MarketCap": 63859.5,
-        "Full Earnings": true
+        "TotalRevenue": 6265861178,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 92,
@@ -1005,7 +1185,9 @@
         "Type": "Private",
         "TotalProfit": 4365368364,
         "MarketCap": 94947.51,
-        "Full Earnings": true
+        "TotalRevenue": 139872996975,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 93,
@@ -1016,7 +1198,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 94,
@@ -1027,7 +1211,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 95,
@@ -1038,7 +1224,9 @@
         "Type": "Private",
         "TotalProfit": 183618203,
         "MarketCap": 1241.62,
-        "Full Earnings": true
+        "TotalRevenue": 1415451992,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 96,
@@ -1049,7 +1237,9 @@
         "Type": "Private",
         "TotalProfit": -871079372,
         "MarketCap": 10000.13,
-        "Full Earnings": true
+        "TotalRevenue": 9477575304,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 97,
@@ -1060,7 +1250,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 26753.81,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 98,
@@ -1071,7 +1263,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 53486,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 99,
@@ -1082,7 +1276,9 @@
         "Type": "Foreign",
         "TotalProfit": 830359434,
         "MarketCap": 13023.85,
-        "Full Earnings": true
+        "TotalRevenue": 21869458380,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 100,
@@ -1093,7 +1289,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 101,
@@ -1104,7 +1302,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 102,
@@ -1115,7 +1315,9 @@
         "Type": "Private",
         "TotalProfit": 2835023120,
         "MarketCap": 46986.85,
-        "Full Earnings": true
+        "TotalRevenue": 8529279576,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 103,
@@ -1126,7 +1328,9 @@
         "Type": "Private",
         "TotalProfit": 458466350,
         "MarketCap": 9625.23,
-        "Full Earnings": true
+        "TotalRevenue": 40279778659,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 104,
@@ -1137,7 +1341,9 @@
         "Type": "Private",
         "TotalProfit": 809671290,
         "MarketCap": 29575.92,
-        "Full Earnings": true
+        "TotalRevenue": 3295129859,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 105,
@@ -1148,7 +1354,9 @@
         "Type": "Private",
         "TotalProfit": 2236529444,
         "MarketCap": 16911.82,
-        "Full Earnings": true
+        "TotalRevenue": 10061554214,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 106,
@@ -1159,7 +1367,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 107,
@@ -1170,7 +1380,9 @@
         "Type": "Private",
         "TotalProfit": 1718425030,
         "MarketCap": 23367.3,
-        "Full Earnings": true
+        "TotalRevenue": 5324411264,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 108,
@@ -1181,7 +1393,9 @@
         "Type": "SOE",
         "TotalProfit": 1948790263,
         "MarketCap": 81880.1,
-        "Full Earnings": true
+        "TotalRevenue": 17135684754,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 109,
@@ -1192,7 +1406,9 @@
         "Type": "SOE",
         "TotalProfit": 1073259464,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 5151411045,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 110,
@@ -1203,7 +1419,9 @@
         "Type": "Private",
         "TotalProfit": 1275807633,
         "MarketCap": 23446.73,
-        "Full Earnings": true
+        "TotalRevenue": 5133914168,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 111,
@@ -1214,7 +1432,9 @@
         "Type": "SOE",
         "TotalProfit": 226509679,
         "MarketCap": 2820,
-        "Full Earnings": true
+        "TotalRevenue": 1318816864,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 112,
@@ -1225,7 +1445,9 @@
         "Type": "Private",
         "TotalProfit": -770357422,
         "MarketCap": 223.32,
-        "Full Earnings": true
+        "TotalRevenue": 704425452,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 113,
@@ -1236,7 +1458,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 114,
@@ -1247,7 +1471,9 @@
         "Type": "Private",
         "TotalProfit": 1709113552,
         "MarketCap": 48853.34,
-        "Full Earnings": true
+        "TotalRevenue": 71976618920,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 115,
@@ -1258,7 +1484,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 116,
@@ -1267,7 +1495,8 @@
         "Link": "",
         "Industry": "0",
         "Type": "Foreign",
-        "Full Earnings": false
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 117,
@@ -1278,7 +1507,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 118,
@@ -1289,7 +1520,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 36788.73,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 119,
@@ -1298,7 +1531,8 @@
         "Link": "/otc/VNRAILWAYS-tong-cong-ty-duong-sat-viet-nam.chn",
         "Industry": "Vận tải",
         "Type": "SOE",
-        "Full Earnings": false
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 120,
@@ -1309,7 +1543,9 @@
         "Type": "Private",
         "TotalProfit": 1187052975,
         "MarketCap": 23888.78,
-        "Full Earnings": true
+        "TotalRevenue": 9041607472,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 121,
@@ -1320,7 +1556,9 @@
         "Type": "Private",
         "TotalProfit": 3107212785,
         "MarketCap": 35661.19,
-        "Full Earnings": true
+        "TotalRevenue": 10296575481,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 122,
@@ -1331,7 +1569,9 @@
         "Type": "Private",
         "TotalProfit": 628902806,
         "MarketCap": 12899.69,
-        "Full Earnings": true
+        "TotalRevenue": 12804804439,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 123,
@@ -1342,7 +1582,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 124,
@@ -1353,7 +1595,9 @@
         "Type": "Private",
         "TotalProfit": 1749334063,
         "MarketCap": 25009.41,
-        "Full Earnings": true
+        "TotalRevenue": 35406142984,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 125,
@@ -1364,7 +1608,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 22814,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 126,
@@ -1375,7 +1621,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 127,
@@ -1384,7 +1632,8 @@
         "Link": "",
         "Industry": "Chứng khoán",
         "Type": "Foreign",
-        "Full Earnings": false
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 128,
@@ -1395,7 +1644,9 @@
         "Type": "SOE",
         "TotalProfit": 805680704,
         "MarketCap": 8451.3,
-        "Full Earnings": true
+        "TotalRevenue": 5534899642,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 129,
@@ -1406,7 +1657,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 130,
@@ -1417,7 +1670,9 @@
         "Type": "SOE",
         "TotalProfit": 281391220,
         "MarketCap": 4881.6,
-        "Full Earnings": true
+        "TotalRevenue": 39014921936,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 131,
@@ -1428,7 +1683,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 132,
@@ -1439,7 +1696,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 133,
@@ -1450,7 +1709,9 @@
         "Type": "SOE",
         "TotalProfit": 1039339230,
         "MarketCap": 12424.23,
-        "Full Earnings": true
+        "TotalRevenue": 6199498811,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 134,
@@ -1461,7 +1722,9 @@
         "Type": "Private",
         "TotalProfit": 363589517,
         "MarketCap": 7957.54,
-        "Full Earnings": true
+        "TotalRevenue": 10027765814,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 135,
@@ -1472,7 +1735,9 @@
         "Type": "Private",
         "TotalProfit": 107478133,
         "MarketCap": 2567.94,
-        "Full Earnings": true
+        "TotalRevenue": 792383106,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 136,
@@ -1483,7 +1748,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 137,
@@ -1494,7 +1761,9 @@
         "Type": "Private",
         "TotalProfit": 1039655044,
         "MarketCap": 18935.24,
-        "Full Earnings": true
+        "TotalRevenue": 4276240392,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 138,
@@ -1505,7 +1774,9 @@
         "Type": "Private",
         "TotalProfit": 119303840,
         "MarketCap": 1052.15,
-        "Full Earnings": true
+        "TotalRevenue": 17637444688,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 139,
@@ -1516,7 +1787,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 1081.5,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 140,
@@ -1527,7 +1800,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 141,
@@ -1538,7 +1813,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 142,
@@ -1549,7 +1826,9 @@
         "Type": "Private",
         "TotalProfit": 190983356,
         "MarketCap": 6971.24,
-        "Full Earnings": true
+        "TotalRevenue": 1344706054,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 143,
@@ -1560,7 +1839,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 144,
@@ -1571,7 +1852,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 145,
@@ -1582,7 +1865,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 146,
@@ -1593,7 +1878,9 @@
         "Type": "Private",
         "TotalProfit": 170315983,
         "MarketCap": 2449.27,
-        "Full Earnings": true
+        "TotalRevenue": 19584901776,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 147,
@@ -1604,7 +1891,9 @@
         "Type": "Private",
         "TotalProfit": 591290630,
         "MarketCap": 2359.45,
-        "Full Earnings": true
+        "TotalRevenue": 8413912097,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 148,
@@ -1615,7 +1904,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 149,
@@ -1626,7 +1917,9 @@
         "Type": "Private",
         "TotalProfit": 825779563,
         "MarketCap": 14091.63,
-        "Full Earnings": true
+        "TotalRevenue": 31190353611,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 150,
@@ -1637,7 +1930,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 151,
@@ -1648,7 +1943,9 @@
         "Type": "Private",
         "TotalProfit": 520507474,
         "MarketCap": 8290.57,
-        "Full Earnings": true
+        "TotalRevenue": 2561535403,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 152,
@@ -1659,7 +1956,9 @@
         "Type": "SOE",
         "TotalProfit": 684475618,
         "MarketCap": 5250,
-        "Full Earnings": true
+        "TotalRevenue": 17831082882,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 153,
@@ -1670,7 +1969,9 @@
         "Type": "Private",
         "TotalProfit": -48774195,
         "MarketCap": 16229.15,
-        "Full Earnings": true
+        "TotalRevenue": 8899589311,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 154,
@@ -1681,7 +1982,9 @@
         "Type": "Private",
         "TotalProfit": 136766836,
         "MarketCap": 1387.12,
-        "Full Earnings": true
+        "TotalRevenue": 7359354990,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 155,
@@ -1692,7 +1995,9 @@
         "Type": "Private",
         "TotalProfit": 268554243,
         "MarketCap": 7606.83,
-        "Full Earnings": true
+        "TotalRevenue": 7508833947,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 156,
@@ -1703,7 +2008,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 157,
@@ -1714,7 +2021,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 158,
@@ -1725,7 +2034,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 2580.67,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 159,
@@ -1736,7 +2047,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 160,
@@ -1747,7 +2060,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 161,
@@ -1758,7 +2073,9 @@
         "Type": "Private",
         "TotalProfit": 910692113,
         "MarketCap": 27072.35,
-        "Full Earnings": true
+        "TotalRevenue": 3695525336,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 162,
@@ -1769,7 +2086,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 163,
@@ -1780,7 +2099,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 164,
@@ -1791,7 +2112,9 @@
         "Type": "Private",
         "TotalProfit": 116372777,
         "MarketCap": 1575.49,
-        "Full Earnings": true
+        "TotalRevenue": 14199068821,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 165,
@@ -1802,7 +2125,9 @@
         "Type": "Private",
         "TotalProfit": 403535776,
         "MarketCap": 2895.89,
-        "Full Earnings": true
+        "TotalRevenue": 4733156444,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 166,
@@ -1813,7 +2138,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 167,
@@ -1824,7 +2151,9 @@
         "Type": "Private",
         "TotalProfit": 1253036198,
         "MarketCap": 12187.81,
-        "Full Earnings": true
+        "TotalRevenue": 12383063413,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 168,
@@ -1835,7 +2164,9 @@
         "Type": "Private",
         "TotalProfit": 708418934,
         "MarketCap": 7745.3,
-        "Full Earnings": true
+        "TotalRevenue": 12425473708,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 169,
@@ -1846,7 +2177,9 @@
         "Type": "Private",
         "TotalProfit": 520761690,
         "MarketCap": 15105.46,
-        "Full Earnings": true
+        "TotalRevenue": 2292832702,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 170,
@@ -1857,7 +2190,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 7866.28,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 171,
@@ -1868,7 +2203,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 172,
@@ -1879,7 +2216,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 173,
@@ -1890,7 +2229,9 @@
         "Type": "Foreign",
         "TotalProfit": 822931225,
         "MarketCap": 14042.13,
-        "Full Earnings": true
+        "TotalRevenue": 5647936253,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 174,
@@ -1901,7 +2242,9 @@
         "Type": "Private",
         "TotalProfit": 758923618,
         "MarketCap": 13596.98,
-        "Full Earnings": true
+        "TotalRevenue": 8039546309,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 175,
@@ -1912,7 +2255,9 @@
         "Type": "Private",
         "TotalProfit": 207101896,
         "MarketCap": 1307.4,
-        "Full Earnings": true
+        "TotalRevenue": 4659712532,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 176,
@@ -1923,7 +2268,9 @@
         "Type": "Private",
         "TotalProfit": 4122446,
         "MarketCap": null,
-        "Full Earnings": true
+        "TotalRevenue": 323968946,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 177,
@@ -1934,7 +2281,9 @@
         "Type": "Private",
         "TotalProfit": 5533762,
         "MarketCap": 125,
-        "Full Earnings": true
+        "TotalRevenue": 394164626,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 178,
@@ -1945,7 +2294,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 179,
@@ -1956,7 +2307,9 @@
         "Type": "Private",
         "TotalProfit": 269636927,
         "MarketCap": 14369.02,
-        "Full Earnings": true
+        "TotalRevenue": 4597064189,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 180,
@@ -1967,7 +2320,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": 10538.24,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 181,
@@ -1978,7 +2333,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 182,
@@ -1989,7 +2346,9 @@
         "Type": "Private",
         "TotalProfit": 87172102,
         "MarketCap": 452.03,
-        "Full Earnings": true
+        "TotalRevenue": 4225665380,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 183,
@@ -2000,7 +2359,9 @@
         "Type": "Private",
         "TotalProfit": 423704515,
         "MarketCap": 5549,
-        "Full Earnings": true
+        "TotalRevenue": 4130288076,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 184,
@@ -2011,7 +2372,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 185,
@@ -2022,7 +2385,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 186,
@@ -2033,7 +2398,9 @@
         "Type": "Foreign",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 187,
@@ -2044,7 +2411,9 @@
         "Type": "SOE",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 188,
@@ -2055,7 +2424,9 @@
         "Type": "Private",
         "TotalProfit": 1163239884,
         "MarketCap": 14737.34,
-        "Full Earnings": true
+        "TotalRevenue": 7807769384,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 189,
@@ -2066,7 +2437,9 @@
         "Type": "Private",
         "TotalProfit": 422107588,
         "MarketCap": 19804.2,
-        "Full Earnings": true
+        "TotalRevenue": 2775753386,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 190,
@@ -2077,7 +2450,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 191,
@@ -2088,7 +2463,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 192,
@@ -2099,7 +2476,9 @@
         "Type": "SOE",
         "TotalProfit": 7196142235,
         "MarketCap": 51557.44,
-        "Full Earnings": true
+        "TotalRevenue": 4275042006,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 193,
@@ -2110,7 +2489,9 @@
         "Type": "Private",
         "TotalProfit": 608269737,
         "MarketCap": 11304.33,
-        "Full Earnings": true
+        "TotalRevenue": 4091208039,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 194,
@@ -2121,7 +2502,9 @@
         "Type": "Private",
         "TotalProfit": 709720251,
         "MarketCap": 32962.5,
-        "Full Earnings": true
+        "TotalRevenue": 2896232466,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 195,
@@ -2132,7 +2515,9 @@
         "Type": "Private",
         "TotalProfit": 286250781,
         "MarketCap": 7260.69,
-        "Full Earnings": true
+        "TotalRevenue": 3191727173,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 196,
@@ -2143,7 +2528,9 @@
         "Type": "Private",
         "TotalProfit": 138849347,
         "MarketCap": 11781.16,
-        "Full Earnings": true
+        "TotalRevenue": 32347249310,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 197,
@@ -2154,7 +2541,9 @@
         "Type": "Private",
         "TotalProfit": 91467726,
         "MarketCap": null,
-        "Full Earnings": true
+        "TotalRevenue": 11473410243,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 198,
@@ -2165,7 +2554,9 @@
         "Type": "Private",
         "TotalProfit": -293570994,
         "MarketCap": 758.15,
-        "Full Earnings": true
+        "TotalRevenue": 8924116899,
+        "Full Earnings": true,
+        "Full Revenue": true
     },
     {
         "Ranking": 199,
@@ -2176,7 +2567,9 @@
         "Type": "Private",
         "TotalProfit": null,
         "MarketCap": null,
-        "Full Earnings": false
+        "TotalRevenue": 0,
+        "Full Earnings": false,
+        "Full Revenue": false
     },
     {
         "Ranking": 200,
@@ -2185,6 +2578,7 @@
         "Link": "",
         "Industry": "Chứng khoán",
         "Type": "Foreign",
-        "Full Earnings": false
+        "Full Earnings": false,
+        "Full Revenue": false
     }
 ]
